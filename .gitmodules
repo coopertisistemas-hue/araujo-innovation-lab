@@ -1,0 +1,3 @@
+[submodule "connect-scraper"]
+	path = connect-scraper
+	url = https://github.com/coopertisistemas-hue/connect-scraper.git
