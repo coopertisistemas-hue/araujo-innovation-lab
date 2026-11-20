@@ -35,12 +35,9 @@ def _positive_claims(text):
     return out
 t("Nenhuma afirmação de aprovação alcançada (negações ignoradas)", not _positive_claims(md), str(_positive_claims(md)))
 t("Dados sem números fictícios: 'SEM DADOS' presente", "SEM DADOS" in md)
-names = {"Letícia Meurer": "Letícia Meurer", "José Alexandre": "José Alexandre"}
-flagged = {}
-for k, n in names.items():
-    lines = [l for l in md.split("\n") if n in l]
-    flagged[k] = all("a confirmar" in l.lower() or "a validar" in l.lower() for l in lines) and bool(lines)
-t("Nomes de docentes só aparecem com 'a confirmar' (governança)", all(flagged.values()), str(flagged))
+names = ["Letícia", "Leticia Meurer", "José Alexandre", "Alexandre F. de Santana"]
+present_md = [n for n in names if n in md]
+t("Nenhuma pessoa nomeada no documento (E1: funções, não nomes)", not present_md, str(present_md))
 # document integrity
 z = zipfile.ZipFile(docx_p)
 doc = z.read("word/document.xml").decode("utf-8")
@@ -55,7 +52,9 @@ pages = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", pdf_p], capt
 t("PDF: número de páginas registrado", pages > 0, str(pages))
 tocmap = json.load(open(map_p, encoding="utf-8"))
 t("Sumário: todas as entradas com número de página", all(v is not None for v in tocmap.values()), f"{len(tocmap)} entradas")
-t("PDF: texto de expediente presente", "Créditos funcionais propostos" in pdf_txt or "Créditos funcionais" in pdf_txt)
+t("PDF: sem nomes de pessoas (E1)", not any(n in pdf_txt for n in names))
+t("DOCX: sem nomes de pessoas (E1)", not any(n in doc for n in names))
+t("Expediente em funções sem designação nominal", "Funções propostas para expediente" in md)
 ok = sum(1 for _,o,_ in R if o)
 for n,o,d in R: print("PASS" if o else "FAIL", "|", n, ("|"+d if d else ""))
 print(f"\n{ok}/{len(R)} testes passaram")

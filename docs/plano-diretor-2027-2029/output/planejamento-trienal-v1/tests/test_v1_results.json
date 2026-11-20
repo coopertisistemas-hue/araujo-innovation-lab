@@ -70,9 +70,9 @@
   "detail": ""
  },
  {
-  "name": "Nomes de docentes só aparecem com 'a confirmar' (governança)",
+  "name": "Nenhuma pessoa nomeada no documento (E1: funções, não nomes)",
   "pass": true,
-  "detail": "{'Letícia Meurer': True, 'José Alexandre': True}"
+  "detail": "[]"
  },
  {
   "name": "DOCX: 5 figuras com texto alternativo",
@@ -100,7 +100,17 @@
   "detail": "33 entradas"
  },
  {
-  "name": "PDF: texto de expediente presente",
+  "name": "PDF: sem nomes de pessoas (E1)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "DOCX: sem nomes de pessoas (E1)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "Expediente em funções sem designação nominal",
   "pass": true,
   "detail": ""
  }

@@ -26,7 +26,7 @@ EEB ARAÚJO FIGUEIREDO  •  URUBICI, SANTA CATARINA
 
 **Referência editorial:** preservar hierarquia tipográfica, cabeçalhos/rodapés, capa, estrutura de tabelas, paginação e padrões de figuras do PDP V5.1. Não inventar logotipos, cores oficiais, fotos, nomes de responsáveis, assinaturas ou dados de resultados.
 
-**Créditos funcionais propostos para expediente:** Profª Letícia Meurer — docência titular (designação/função a confirmar); Prof. Coordenador José Alexandre F. de Santana — orientação e integração (designação institucional a confirmar). Nenhuma assinatura ou aprovação é presumida.
+**Funções propostas para expediente (sem designação nominal):** docência titular do componente — função a designar formalmente pela escola; orientação e integração — função a designar formalmente pela escola. Nenhuma pessoa é indicada nominalmente neste documento; nenhuma assinatura ou aprovação é presumida.
 
 
 ## ORIENTAÇÃO DE LEITURA PELA DIREÇÃO

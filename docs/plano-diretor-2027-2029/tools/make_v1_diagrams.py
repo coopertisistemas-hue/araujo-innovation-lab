@@ -38,21 +38,21 @@ ax.text(0.2, 0.45, "Legenda: planejado · dependente de autorização · não ex
 save(fig, "v1-fig1-trilha-coortes")
 
 # F2 — classroom cycle: six movements (PDP §3.1 / V1 §3.1)
-fig, ax = plt.subplots(figsize=(6.2, 5.2))
-ax.set_xlim(-2.0, 2.0); ax.set_ylim(-2.0, 2.0); ax.set_aspect("equal"); ax.axis("off")
+fig, ax = plt.subplots(figsize=(6.6, 6.2))
+ax.set_xlim(-2.2, 2.2); ax.set_ylim(-2.25, 2.25); ax.set_aspect("equal"); ax.axis("off")
 mov = ["1. Mobilizar", "2. Compreender", "3. Experimentar", "4. Produzir", "5. Defender", "6. Melhorar"]
 ev = ["pergunta e\nhipótese", "nota\nconceitual", "rascunho e\nprotótipo", "versão 1 e\nficha de autoria", "defesa e\nrubrica", "versão 2 e\nreflexão"]
 for k,(m,e) in enumerate(zip(mov, ev)):
     ang = np.pi/2 - k*np.pi/3
-    x, y = 1.28*np.cos(ang), 1.28*np.sin(ang)
-    ax.add_patch(Circle((x,y), 0.42, fc=NAVY if k%2==0 else GOLD, ec="none"))
-    ax.text(x, y+0.1, m, ha="center", va="center", color=WHITE, fontsize=8, fontweight="bold")
-    ax.text(x, y-0.14, e, ha="center", va="center", color=WHITE, fontsize=6.2, linespacing=1.05)
+    x, y = 1.3*np.cos(ang), 1.3*np.sin(ang)
+    ax.add_patch(Circle((x,y), 0.5, fc=NAVY if k%2==0 else GOLD, ec="none"))
+    ax.text(x, y+0.13, m, ha="center", va="center", color=WHITE, fontsize=10.5, fontweight="bold")
+    ax.text(x, y-0.17, e, ha="center", va="center", color=WHITE, fontsize=8.2, linespacing=1.05)
     nang = ang - np.pi/6
     arrow(ax, 0.85*np.cos(ang-np.pi/9), 0.85*np.sin(ang-np.pi/9), 0.85*np.cos(ang-np.pi/6-np.pi/9), 0.85*np.sin(ang-np.pi/6-np.pi/9))
-ax.text(0, 0.1, "Ciclo pedagógico", ha="center", fontsize=10, color=NAVY, fontweight="bold")
-ax.text(0, -0.18, "em seis movimentos", ha="center", fontsize=8.5, color=INK)
-ax.text(0, -1.92, "Evidência em cada movimento; o feedback retorna ao início do ciclo.\nSem percentuais de carga horária: é desenho didático, não grade do PPC.", ha="center", fontsize=7.5, color=GREY)
+ax.text(0, 0.12, "Ciclo pedagógico", ha="center", fontsize=12.5, color=NAVY, fontweight="bold")
+ax.text(0, -0.2, "em seis movimentos", ha="center", fontsize=10.5, color=INK)
+ax.text(0, -2.08, "Evidência em cada movimento; o feedback retorna ao início do ciclo.\nSem percentuais de carga horária: é desenho didático, não grade do PPC.", ha="center", fontsize=8.8, color=GREY)
 save(fig, "v1-fig2-ciclo-seis-movimentos")
 
 # F3 — assessment: three planes, recovery loop (V1 §12.1 / §12.4; no weights, no numbers)

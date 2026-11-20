@@ -291,7 +291,7 @@ def parse_table(block):
 # ---------- figures ----------
 FIG = {
  "f1": (f"{CHARTS}/v1-fig1-trilha-coortes.png", 16.0, "Figura 1 — Trilhas das duas coortes de 2027 (planejamento proposto, não executado)", "Coorte A: 2027 (1º), 2028 (2º), 2029 (3º). Coorte B: concluintes em 2027, com trilha de transição própria. Fonte: seção 5 e Anexo F do PDP."),
- "f2": (f"{CHARTS}/v1-fig2-ciclo-seis-movimentos.png", 13.5, "Figura 2 — Ciclo pedagógico em seis movimentos", "Desenho didático de cada encontro (seção 3.1). Não representa carga horária nem resultado."),
+ "f2": (f"{CHARTS}/v1-fig2-ciclo-seis-movimentos.png", 16.0, "Figura 2 — Ciclo pedagógico em seis movimentos", "Desenho didático de cada encontro (seção 3.1). Não representa carga horária nem resultado."),
  "f3": (f"{CHARTS}/v1-fig3-avaliacao-recuperacao.png", 16.0, "Figura 3 — Planos de observação e recuperação paralela", "Instrumentos propostos (seção 12). A norma oficial de avaliação e recuperação está no PPC, pp. 38–40."),
  "f4": (f"{CHARTS}/v1-fig4-portoes-projeto.png", 16.0, "Figura 4 — Portões de um projeto da Agência-Escola (G0–G6)", "Seção 13.2. Cliente real não implica autorização para publicar, contratar, receber valores ou divulgar imagem."),
  "f5": (f"{CHARTS}/v1-fig5-governanca-portoes.png", 16.0, "Figura 5 — Portas de governança e estado atual", "Seção 19. Estados como registrados no documento; nenhuma etapa além de G1 está concluída."),
@@ -368,17 +368,17 @@ ctrl = [
  ["Fonte oficial", "PPC EMIEP Técnico em Marketing, SED/SC, processo 00178627/2026, assinado em 03/09/2026 (SHA-256 31fb64c5…f58, arquivo PPC-EMIEP-Marketing.pdf)."],
  ["Fonte metodológica", "Plano Diretor Pedagógico V5.1, commit af50db77a8722c9d45e5a3b4a268eca5c3e62dbb no branch principal (documentalmente promovido; não homologado)."],
  ["Hierarquia documental", "PPC oficial → PPP/PGE e regimentos (a confirmar) → PDP V5.1 → este planejamento → planos anuais e docentes (a detalhar após aceite)."],
- ["Expediente proposto", "Profª Letícia Meurer — docência titular (designação a confirmar). Prof. Coordenador José Alexandre F. de Santana — orientação e integração (designação a confirmar). Nomes reproduzidos da fonte: ver nota de governança no relatório de QA."],
+ ["Funções propostas", "Docência titular e orientação: funções a designar formalmente pela escola. Nenhuma pessoa é indicada nominalmente neste documento; a designação é pré-requisito de implantação (Direção)."],
  ["Público-alvo", "Direção escolar. Docentes serão consultados somente após aceite (PDP §12.1; Anexo I1)."],
  ["Portas de decisão", "Revisão documental (G1); deliberação da Direção (G2); pactuação docente e prontidão (G3); autorização por projeto (G4); acompanhamento (G5)."],
  ["Identidade visual", "Sem logotipo, brasão ou assinatura: nenhum ativo oficial validado. Cores de apoio provisórias, herdadas do PDP V5.1."],
 ]
 data_table(ctrl, ["L","L"])
 para(next(l for l in L if l.startswith("**Referência editorial:**")).strip(), size=8.5, color=GREY, italic=True, before=6)
-para(next(l for l in L if l.startswith("**Créditos funcionais propostos para expediente:**")).strip(), size=8.5, color=INK, before=4)
+para(next(l for l in L if l.startswith("**Funções propostas para expediente")).strip(), size=8.5, color=INK, before=4)
 
 # ---------- CONTENTS ----------
-h = doc.add_paragraph(style="Heading 1"); add_inline(h, "Sumário", size=19, color=NAVY)
+h = doc.add_paragraph(style="Heading 1"); h.paragraph_format.page_break_before = True; add_inline(h, "Sumário", size=19, color=NAVY)
 para("Numeração de página refere-se às páginas deste arquivo. Sumário gerado a partir das seções de nível 1.", size=9, color=GREY, italic=True, after=8)
 TOC_ENTRIES = []  # filled below, placeholders preserved for two-pass stability
 
@@ -463,7 +463,7 @@ for bi, (kind, val, raw) in enumerate(blocks):
     else:  # p
         p = doc.add_paragraph(); add_inline(p, val, size=10.5, color=INK)
         p.paragraph_format.space_after = Pt(6)
-        if bi+1 < len(blocks) and blocks[bi+1][0] == "table":
+        if bi+1 < len(blocks) and blocks[bi+1][0] in ("table", "bullet", "num"):
             p.paragraph_format.keep_with_next = True
     maybe_figs(raw)
 
