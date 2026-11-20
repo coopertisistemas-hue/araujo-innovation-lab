@@ -1,41 +1,34 @@
-# QA report — Plano Diretor Pedagógico Marketing 2027–2029, v5.0 (proposta, não homologada)
+# QA report — Plano Diretor Pedagógico Marketing 2027–2029, V5 revisado (proposta, não homologada)
 
-SOURCE_SHA256: 036d5f61382a3b191fe4560e59006eb713402238e28579c33c07e2dfb9e96d6e  (Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md, 1038 lines; not modified)
-REPO_REFERENCE: coopertisistemas-hue/araujo-innovation-lab — STYLEGUIDE.md, templates/executive-document-template.md (read only)
-BRAND_ASSETS_VERIFIED: none. branding/logo, branding/palette, branding/manual, branding/templates are empty. No HEX values and no logo validated. Provisional tokens only: navy #1F2F4D, gold #B8975A, warm grey #8C8279, cream #F4F0E8. No logo, crest or seal used.
-OUTPUT_DOCX: PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx
-OUTPUT_PDF: PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.pdf (LibreOffice render)
-PAGE_COUNT: 58 (A4)
+**Status:** PUBLISHED FOR INDEPENDENT REVIEW — NOT CERTIFIED, NOT APPROVED BY SCHOOL DIRECTION.
+**Recomendação de auditoria:** HOLD (ver BS_TRACEABILITY_REPORT.md: 5 requisitos PARCIAIS; PPC oficial ausente).
 
-SECTION_COVERAGE: all of sections 1–17 and annexes A–M present in source order. 12 technical subject plans (Anexo A, D01–D12), KPI dictionary K01–K16 (G2), 38 source tables, 16 KPIs, references (M2, 17). Added, not in source: cover, document control sheet, static TOC, five figures, closing decision page (after §17).
+## Hashes
+- Markdown canônico: `875ec13184d20c1187e80b945b2c8040240e46f276fe9662a69a1de94679dfa3` (1.116 linhas; V5 anterior: `036d5f61…`)
+- Matriz BS de entrada: `94ca0f389802668de289bd60b5371dc656ae8f3877bbca88f8d25105aa9f2714`
+- DOCX: ver SHA256SUMS.txt · PDF: ver SHA256SUMS.txt
+- PAGE_COUNT: 58 (A4) · TOC estável em duas passagens.
 
-RENDER_QA: all 58 pages rasterized (PNG at 110 dpi, output/proof-png/) and inspected in contact sheets. Fixed during QA: code column wrapping (13.1), word-breaking headers (G3, RACI, 15.5), RACI legend orphaned, single-bullet page. Last render: no blank pages, TOC page numbers stable across two passes. Not run: Word-native open or OOXML validation.
+## Verificações executadas nesta rodada
+1. **Preservação de conteúdo** (`tools/qa_source.py`): 1.514 itens de texto do Markdown revisado encontrados no DOCX; 0 ausentes. 41 tabelas do Markdown presentes no DOCX (multiset de contagem de linhas: nenhuma ausente).
+2. **Diferença de linhas entre V5 anterior e revisado:** 15 linhas originais não aparecem mais — 12 linhas antigas do painel §9, 1 cláusula do §14.1 e 2 linhas reescritas (§14.2 G1 e §14.5). Todas as outras linhas são reordenação ou inserção, conforme DELTA_REPORT.md.
+3. **Aritmética curricular interna:** 800 h técnicas (64×11 + 96), 256 + 288 + 256 = 800, 2.200 + 800 = 3.000, 120 h dentro de 2.200, Anexo E = 64 h. Não verificada contra o PPC.
+4. **Layout:** TOC com números de página estável entre duas passagens; 3 páginas com menos de 90 palavras (p. 17: figura de governança; p. 45: tabela de Anexo G; p. 57: final da lista de regras editoriais), todas intencionais.
+5. **Inspeção visual:** todas as 58 páginas geradas em PNG (`output/proof-png/`, local). Páginas alteradas inspecionadas em montagem (§4.1, §5.1, §9, §15.5–15.7, Anexo C, Anexo H5, Anexo K). Cabeçalhos, rodapés, quebras de página e tabelas com cabeçalho repetido conferidos.
+6. **Hashes e links:** links de benchmarks não reconfirmados nesta rodada: 3 UNESCO sem resposta, 2 CNCT (403 e 429). Os demais responderam 200.
 
-TABLE_QA: 38 of 38 source tables present in order by row count. Column widths sized from longest word. Header rows repeat across pages.
+## Não executado
+- Validação OOXML no Word (`validate.py`). A renderização usou LibreOffice 24.2.
+- Conferência item a item com o PPC: o PDF oficial não está disponível (ver CURRICULAR_ALIGNMENT_AUDIT.md).
 
-FACTUAL_QA:
-- Source-text check: 1390 text items from the MD found in the DOCX, 0 missing.
-- Hours: 2.200 FGB + 800 técnico = 3.000. 120 h integradoras inside 2.200, not added again. 2.080 = 2.200 − 120 is derived and labelled as such in figure 1.
-- Technical components: 1º 256 h, 2º 288 h, 3º 256 h = 800 h. Annex E blocks 12+14+12+12+14 = 64 h.
-- Figure 4 values match §13.3 exactly (checked programmatically).
-- Charts labelled PROPOSED TARGETS / NOT OBSERVED RESULTS or as planned, not observed.
-- External links (§M2, §17), tested with curl on 2026-11-20: 200 for github, senac (x2), google support (x2), senai, sc.senac matriz. 403 for cnct.mec.gov.br (bot block). 429 for the gov.br CNCT PDF (rate limit). No response (000) for the three UNESCO URLs. The last four are unconfirmed, not confirmed broken.
-
-STATUS: fully authored and rendered. Pending institutional approval. Not CERTIFIED. No approval, signature or homologation is implied anywhere in the document.
-
-LIMITATIONS:
-1. No verified brand assets. Provisional tokens only; no logo; the header carries text, not a logo.
-2. Fonts: Georgia (headings) and Calibri (body) are set in the DOCX. In this VM the proof PDF substitutes DejaVu Serif for Georgia (wider, so Word should fit at least as well) and Carlito for Calibri (metric-compatible). Word pagination may differ slightly.
-3. TOC is static: page numbers were computed from the proof render. Regenerate after any edit.
-4. Figure 4 is a heatmap, not the line chart suggested in §13.3. The source does not map the 12 competencies to its four groupings, so a line chart would require inventing that mapping.
-5. Source YAML front matter (lines 1–8) is not reproduced verbatim. Its information appears in the control sheet (version, date, status, PPC reference, institution in the footer).
-6. Path discrepancy: the first paste pointed to /home/ubuntu/connect/araujo-innovation-lab/..., which does not exist. The same-named file in the working directory was used (SHA256 above).
-7. Source flags to verify before implementation, preserved as written: PPC minimum instrument counts (§15.1), NotebookLM age, licensing and privacy terms (Anexo H2.6), SENAC matrix version (§2). No legally inconsistent passage was found that needed a silent change.
-8. Charts were drawn with matplotlib from source values; the alt text is set on each image.
-
-NEXT_APPROVAL_GATE: Direção deliberation, §16 (PROPOSTA_EM_ANÁLISE → APROVADO / APROVADO_COM_RESSALVAS / REVISÃO_SOLICITADA / NÃO_APROVADO). Teacher consultation (Anexo I1) only after acceptance.
-
-## Publication and local evidence (added at repository sync)
-- PROOF_PNG_LOCAL: docs/plano-diretor-2027-2029/output/proof-png/ — 58 page PNGs at 110 dpi (≈9.4 MB). Kept local, not committed, to avoid bulk binaries; regenerate from the committed PDF with `pdftoppm -r 110 -png <pdf> page`.
-- Committed for review: source Markdown (unchanged), DOCX, PDF, QA_REPORT.md, SHA256SUMS.txt, assets/ (five charts).
-- Status: PUBLISHED FOR INDEPENDENT REVIEW, NOT CERTIFIED OR APPROVED BY SCHOOL DIRECTION.
+## Reprodução
+```bash
+python3 tools/make_charts.py output/assets            # figuras (opcional; já versionadas)
+python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md /tmp/pass1.docx output/assets
+soffice --headless --convert-to pdf --outdir /tmp /tmp/pass1.docx
+python3 tools/pagemap.py /tmp/pass1.pdf /tmp/pass1.docx.toc.json /tmp/pagemap.json
+python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx output/assets /tmp/pagemap.json
+soffice --headless --convert-to pdf --outdir output output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx
+python3 tools/qa_source.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx
+```
+A revisão de conteúdo foi aplicada por `tools/edit_md.py` sobre o Markdown do commit 4e82c5d. O script não é idempotente: aplicá-lo novamente falha nas asserções, o que é intencional.

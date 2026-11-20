@@ -69,6 +69,22 @@ Fluxo obrigatório de projeto: demanda → entrevista/briefing → pesquisa e fo
 
 Rotação de papéis: pesquisador/atendimento, estrategista, designer/produtor, analista/apresentador. O professor define os objetivos e rubricas; o orientador articula ferramentas, briefs, parceiros e portfólios. Grupos e competição saudável não substituem responsabilidade e desempenho INDIVIDUAL.
 
+### 4.1 Ficha de aula operacional replicável
+
+Toda aula técnica registra, no mínimo, os campos abaixo. A distribuição de 115 minutos apresentada acima é **exemplo**, não grade escolar homologada. A tecnologia é meio para o objetivo de aprendizagem: a meta é de encontros com evidência aplicada (K05, ≥60% proposto após estudo de viabilidade), e não de 100% do tempo em tela.
+
+| Campo | Preenchimento mínimo |
+| --- | --- |
+| Componente, série e item do PPC | Nome oficial do componente, série prevista na matriz e objeto da ementa atendido (página do PPC a confirmar na matriz-mestra) |
+| Pergunta-motriz | Problema real ou hipótese a investigar, formulada antes da ferramenta |
+| Objetivo observável | O que o estudante deverá demonstrar ao final do encontro |
+| Bloco conceitual | Conceito, fundamento e critério de qualidade |
+| Prática de laboratório | Atividade em grupo com ferramenta ou método, e alternativa offline ou institucional equivalente |
+| Justificativa de decisão | Por que a escolha atende ao objetivo, além de como a ferramenta foi operada |
+| Tarefa individual e atividade coletiva | Contribuição rastreável de cada estudante |
+| Entregável, rubrica e feedback | Artefato avaliado com os critérios da rubrica e devolutiva registrada |
+| Dados e autorizações | Dados, imagens e marcas usados somente com autorização; nenhum dado pessoal de estudante em ferramenta externa |
+
 ## 5 | Valorização dos professores: a escola como primeiro cliente
 
 Criar carteira supervisionada de briefs pedagógicos propostos voluntariamente pelos docentes: campanha de leitura (Português), mostra científica (Biologia/Química/Física), divulgação de feira matemática, podcast de História, projeto de Arte, agenda esportiva e comunicação de ações de cidadania. O marketing atua a SERVIÇO da aprendizagem das disciplinas e dá crédito explícito ao professor autor, sem instrumentalizá-lo como objeto de propaganda.
@@ -81,6 +97,19 @@ Criar carteira supervisionada de briefs pedagógicos propostos voluntariamente p
 | Revisão de marketing e mídia | Docente técnico + orientador | Marca, autoria, imagem, acessibilidade e adequação de canais |
 | Apresentação e publicação | Coordenação/direção autoriza | Portfólio interno padrão; publicação externa SOMENTE autorizada |
 | Resultados e reconhecimento | Equipe + docentes | Crédito docente, relatório, melhoria e devolutiva |
+
+### 5.1 Ciclo exemplificativo de um projeto docente
+
+Ilustração do fluxo mínimo com a Campanha de Leitura (Língua Portuguesa). Os passos seguem a seção 14.2 e não constituem compromisso de execução:
+
+1. **Demanda:** o docente propõe o objetivo pedagógico (ampliar a participação voluntária na leitura) e o público.
+2. **Entrevista:** a equipe entrevista o docente e estudantes-leitores, com consentimento, para delimitar problema e escopo.
+3. **Diagnóstico:** pesquisa anônima de hábitos de leitura, com taxa de resposta registrada.
+4. **Estratégia:** objetivo SMART, segmento, mensagens, canais institucionais e indicador de participação agregada.
+5. **Peças:** cartaz, roteiro de vídeo e formulário, com crédito ao componente e ao docente responsável.
+6. **Revisão docente:** validação do conteúdo disciplinar antes de qualquer divulgação.
+7. **Apresentação:** pitch ao docente e à coordenação; publicação somente se autorizada.
+8. **Mensuração e devolutiva:** relatório agregado ao docente e à direção, com limitações explícitas.
 
 ## 6 | Trilhas dos três anos e portfólios
 
@@ -110,18 +139,21 @@ Visitas progressivas: 1º ano — comércio/serviços locais e escola; 2º — a
 
 | Indicador | Cálculo / descrição | Fonte | Responsável / periodicidade |
 | --- | --- | --- | --- |
-| Aprendizagem por competência | Média das notas de rubrica (0–4) por competência, ano e trimestre | Rubricas individuais em provas e projetos | Docentes; coordenação valida; Trimestral |
-| Progresso individual | Nota atual − nota diagnóstica na mesma rubrica (0–4) | Diagnóstico + prova comparável | Docente titular; Trimestral |
-| Participação efetiva | Estudantes com contribuição registrada ÷ matriculados × 100 | Diário de bordo; observação | Docentes; Mensal |
-| Entregas no prazo | Entregas realizadas no prazo ÷ entregas previstas × 100 | Registros de projetos | Líder da equipe valida; docente audita; Trimestral |
-| Aplicação em laboratório | Encontros técnicos aplicados com evidência ÷ encontros técnicos realizados × 100 | Plano e diário de aula | Coordenação + docentes; Mensal |
-| Portfólios completos | Alunos com itens mínimos aprovados ÷ avaliados × 100 | Rubricas e arquivos | Docentes; Trimestral |
-| Integração docente | Docentes participantes com projeto registrado ÷ convidados × 100 | Briefs coassinados | Orientador; Semestral |
-| Satisfação e pertencimento | % respostas 4–5 em escala 1–5; apresentar taxa de resposta | Pesquisa anônima apropriada | Coordenação; Semestral |
-| Presença / permanência | Taxa de frequência oficial; matrículas ativas e evasões | Secretaria escolar | Gestão; Trimestral |
-| Qualidade dos projetos | % projetos que atendem critérios mínimos de briefing, fontes, ética, KPI e defesa | Checklist e banca | Docentes + avaliador externo quando possível; Trimestral |
-| Competência em uso crítico de IA | % alunos que citam fonte, verificam saída, registram limites e declaram uso | Rubrica 0–4 e registro de atividade | Docentes; Trimestral |
-| Parcerias e visitas | Visitas com relatório entregue ÷ visitas realizadas × 100; briefs aprovados | Autorização e relatório | Orientador + direção; Semestral |
+| K01 · Aprendizagem por competência | Média das notas de rubrica (0–4) por competência, ano e trimestre | Rubricas individuais em provas e projetos | Docentes; coordenação valida; Trimestral |
+| K02 · Progresso individual | Nota atual − nota diagnóstica na mesma rubrica (0–4) | Diagnóstico + prova comparável | Docente titular; Trimestral |
+| K06 · Participação efetiva | Alunos presentes elegíveis com contribuição rastreável ÷ alunos presentes elegíveis × 100 | Diário de bordo; observação; versões | Docentes; Mensal |
+| K03 · Entregas no prazo | Entregas realizadas no prazo ÷ entregas previstas elegíveis × 100 | Registros de projetos | Líder da equipe valida; docente audita; Mensal |
+| K05 · Aplicação em laboratório | Encontros técnicos com artefato/evidência ÷ encontros técnicos ocorridos × 100 | Plano e diário de aula | Coordenação + docentes; Mensal |
+| K04 · Portfólios completos | Alunos com itens mínimos aprovados ÷ alunos avaliáveis × 100 | Rubricas e arquivos | Docentes; Trimestral |
+| K10 · Integração docente | Docentes com projeto formal registrado ÷ docentes convidados × 100 | Briefs coassinados | Orientador; Semestral |
+| K11 · Satisfação e pertencimento | % respostas 4–5 em escala 1–5; apresentar taxa de resposta | Pesquisa anônima apropriada | Coordenação; Semestral |
+| K13 e K12 · Frequência e permanência | Frequência: presenças registradas ÷ oportunidades oficiais × 100 (K13). Permanência: matriculados no fechamento ÷ matriculados elegíveis no início × 100 (K12) | Secretaria escolar | Gestão; frequência trimestral; permanência anual |
+| K09 · Qualidade dos projetos | Projetos aprovados em 5 checks (briefing, fontes, ética, KPI e defesa) ÷ projetos avaliados × 100 | Checklist e banca | Docentes + avaliador externo quando possível; Trimestral |
+| K08 · Competência em uso crítico de IA | Alunos com fonte e declaração válida ÷ alunos que usaram IA na atividade × 100 | Rubrica 0–4 e registro de atividade | Docentes; Trimestral |
+| K07 · Defesa individual suficiente | Alunos com rubrica ≥ 2 na defesa individual ÷ alunos avaliados × 100 | Apresentação individual | Docentes; Trimestral |
+| K15 · Visitas e parcerias | Visitas com roteiro e relatório ÷ visitas executadas × 100; briefs aprovados | Autorização, roteiro e relatório | Orientador + direção; Anual |
+| K14 · Formação docente | Participantes com exercício demonstrado ÷ docentes inscritos × 100 | Listas e artefatos voluntários após aceite | Coordenação; Semestral |
+| K16 · Interesse pelo curso | Matrículas/inscrições válidas por ano, sempre com contexto de capacidade e comparação | Secretaria, campanhas e capacidade instalada | Gestão; Anual |
 
 Metas e indicadores são propostas, não evidências de impacto. No painel, publicar sempre N, denominador, período, variação frente à linha de base, fonte, cobertura e observações. Não divulgar dados identificáveis de menores nem usar desempenho para ranking punitivo de docentes.
 
@@ -163,6 +195,223 @@ Formação docente sugerida: encontro de 2 h sobre fundamentos de IA e riscos; 2
 | 2029 | Projetos de conclusão, banca profissional e relatório de egresso | Avaliação final e recomendação de continuidade |
 
 Condição de parada: indisponibilidade de habilitação, risco de dados, falta de autorização para imagem/empresa, inviabilidade de acesso ou sobrecarga docente não resolvida. Aplicar alternativa segura mantendo objetivos e evidências.
+
+## 12 | Escopo institucional, hipóteses e arquitetura de decisão
+
+### 12.1 O que a Direção está sendo convidada a aprovar
+
+A Direção recebe **uma proposta completa de Plano Diretor Pedagógico**, com finalidade, conteúdos, modelo operacional, anexos, instrumentos, metas e governança definidos. Sua condição de proposta significa apenas que **não foi ainda aprovada nem homologada**; não significa que esteja incompleta, nem que dependa de reunião prévia com docentes para ser apresentada.
+
+**Aprovação solicitada (em bloco ou por deliberação expressa):** (a) diretriz pedagógica de aprendizagem por projetos e laboratório; (b) integração transversal de IA, pesquisa e tecnologia; (c) utilização da escola como primeiro ambiente de projetos; (d) matriz de anexos por disciplina para desenvolvimento posterior dos planos de aula; (e) painel trimestral de indicadores; (f) princípios de segurança e limites de publicação; (g) fase inicial de implantação, condicionada a inventário e condições materiais; (h) constituição de processo de diálogo docente **após** o aceite institucional.
+
+**Não estão solicitadas nesta etapa:** alteração formal de matriz curricular, supressão de conteúdo oficial, criação automática de disciplina, contratação ou atribuição nominal de aulas, abertura de contas de alunos, tratamento de dados de menores, publicação de fotografias, autorização de campanhas pagas, alteração de jornada funcional ou compromisso com parceiros sem instrumento de autorização.
+
+### 12.2 Limites e pressupostos de planejamento
+
+- PPC estadual do curso Técnico em Marketing é a base primária (processo SED 00178627/2026, 42 páginas textuais mais assinaturas); grade diurna usada como referência. A proposta da oferta noturna exigiria compatibilização própria.
+- Formação Geral Básica: 2.200 horas; itinerário técnico: 800 horas; total: 3.000 horas. As atividades integradoras EPT totalizam 120 horas (40/ano) e, segundo a matriz, aparecem na Formação Geral Básica; **não** somar novamente essas horas à carga total.
+- O curso tem componentes técnicos distribuídos apenas no ano previsto no PPC; atividades nos demais anos são pontes interdisciplinares, não ensino formal repetido da disciplina.
+- O plano de ingressantes 2027–2029 não equivale ao plano de transição da turma já concluinte em 2027.
+- Qualquer meta de engajamento, permanência, procura por matrículas, desempenho ou empregabilidade é hipótese de melhoria a ser testada e não promessa institucional.
+
+### 12.3 Critérios de aceite desta proposta documental
+
+O pacote será considerado editorialmente pronto quando: (1) todas as 12 disciplinas técnicas estiverem vinculadas a objetos oficiais; (2) docentes gerais receberem propostas voluntárias de integração; (3) cada série possuir objetivos, projetos, métodos, entregas e rubricas; (4) avaliações preservarem as exigências da SED; (5) o painel especificar fórmula, periodicidade, fonte, responsável, denominador, privacidade e limitação; (6) custos e dependências estiverem apresentados por categoria sem cifras inventadas; (7) fontes tiverem URLs ou identificação verificável; (8) versão, status e pedidos de decisão estiverem explícitos.
+
+
+## 13 | Perfil de egresso por competência e matriz de progressão
+
+### 13.1 Competências observáveis
+
+| Código | Competência | Evidência mínima do egresso | Critério técnico |
+| --- | --- | --- | --- |
+| C01 | Escuta, diagnóstico e briefing | Entrevista simulada/real autorizada, briefing aprovado e definição do problema | Perguntas pertinentes, escopo e necessidades documentados |
+| C02 | Fundamentos e mercado | Justificativa de público, valor, proposta e posicionamento | Conceitos aplicados sem confundir marketing com mera postagem |
+| C03 | Pesquisa e dados | Pesquisa desenhada, amostra identificada, planilha e limitações | Rastreabilidade e interpretação sem inferência indevida |
+| C04 | Estratégia e plano | Objetivos, público, canais, jornada, orçamento e KPIs | Coerência entre diagnóstico e ações |
+| C05 | Comunicação, escrita e criação | Peças com identidade, copy e versão acessível | Técnica, clareza, autoria e adequação do público |
+| C06 | Operação digital | Plano de conteúdo, anúncios simulados, funil e fluxo de atendimento | Escolhas justificadas e controle de riscos |
+| C07 | Métricas, análise e finanças | Painel com métricas, hipóteses, custos e recomendações | Fórmula correta, base temporal e interpretação honesta |
+| C08 | IA crítica e pesquisa assistida | Registro de uso de IA e checagem de fontes | Explicar limites, vieses, riscos e autoria humana |
+| C09 | Ética, direitos, LGPD | Check de dados, imagem, consentimento, conteúdo e licenças | Ausência de publicação sem autorização |
+| C10 | Projeto e relacionamento | Cronograma, divisão de tarefas, revisões e apresentação ao cliente | Responsabilidade individual e prestação de contas |
+| C11 | Colaboração e oralidade | Defesa individual e trabalho em equipe | Resposta a perguntas e argumentação com fundamentos |
+| C12 | Aprender continuamente | Portfólio comparativo com versões e reflexão | Demonstração de melhoria e capacidade de atualização |
+
+### 13.2 Níveis de domínio
+
+- **N0 — Inicial:** não demonstra ainda o conceito ou a execução.
+- **N1 — Guiado:** identifica elementos e reproduz etapas com supervisão intensa.
+- **N2 — Operacional básico:** executa tarefas delimitadas, revisa erros e explica escolhas simples.
+- **N3 — Autonomia supervisionada:** resolve problema contextualizado, argumenta, entrega e ajusta com feedback.
+- **N4 — Consistente:** adapta a solução a cenários novos, mede limitações, registra riscos e orienta melhorias.
+
+Não equiparar o N4 à autonomia profissional irrestrita. Em atividades envolvendo clientes externos, adolescentes, contas publicitárias ou dados pessoais, a supervisão permanece obrigatória.
+
+### 13.3 Metas ilustrativas por série (não dados observados)
+
+| Competência | Fim do 1º (2027) | Fim do 2º (2028) | Fim do 3º (2029) |
+| --- | ---: | ---: | ---: |
+| C01 Briefing/escuta | 2,0 | 3,0 | 3,5 |
+| C02 Fundamentos | 2,0 | 3,0 | 3,5 |
+| C03 Pesquisa/dados | 1,5 | 2,8 | 3,5 |
+| C04 Estratégia | 1,5 | 2,8 | 3,5 |
+| C05 Design/criação | 2,0 | 3,0 | 3,5 |
+| C06 Operação digital | 1,0 | 2,8 | 3,5 |
+| C07 Indicadores | 1,0 | 2,8 | 3,5 |
+| C08 IA crítica | 2,0 | 3,0 | 3,5 |
+| C09 Ética/direitos | 2,0 | 3,0 | 3,8 |
+| C10 Gestão de projeto | 1,5 | 2,8 | 3,5 |
+| C11 Oralidade/equipe | 2,0 | 3,0 | 3,5 |
+| C12 Aprendizagem/portfólio | 2,0 | 3,0 | 3,5 |
+
+**Como ilustrar no DOCX:** gráfico de linhas de 0–4 com quatro agrupamentos (fundamentos; digital/IA; pesquisa/dados; execução/relacionamento), com nota: “trajetórias-alvo propostas — não são resultados de avaliação”. Não usar percentual de “empregabilidade” inferido dos níveis.
+
+### 13.4 Progressão da autonomia e certificações do PPC
+
+**1º ano — Assistente de Vendas:** estudante compreende cliente e produto, conduz observação, faz perguntas, calcula percentuais simples, propõe mensagem e elabora peças básicas; entrega com orientação próxima. **2º ano — Assistente de Marketing:** produz diagnóstico e plano digital, reconhece funil e métricas, executa simulações e apresenta justificativas. **3º ano — Técnico em Marketing:** integra planejamento, criação, atendimento e indicadores, com projeto completo e defesa perante banca.
+
+
+## 14 | Plano de operação da Agência-Escola e experiências motivadoras
+
+### 14.1 Princípios que tornam a aula relevante
+
+1. **Problema antes da ferramenta:** começar com uma pergunta ou necessidade real; o uso de tecnologia deve ter finalidade e critérios de qualidade.
+2. **Aluno ativo, professor presente:** trabalhar em equipes de quatro com funções rotativas; preservar explicação conceitual e intervenção docente.
+3. **Agito com método:** desafios-relâmpago, pitch, cliente-surpresa, negociação simulada, crítica construtiva e defesa de evidências, com competição saudável, reconhecimento simbólico e feedback respeitoso; evitar ruído ou competição que humilhe.
+4. **Aprendizado visível:** cada projeto possui ponto de partida, revisão, versão final e reflexão individual “antes/depois”.
+5. **Escolha com responsabilidade:** permitir ideias criativas dentro de prazos, direitos, formatos, destinatários e objetivos acordados.
+6. **Diversidade e inclusão:** adaptar acesso digital, recursos e formas de participação; não penalizar estudantes sem dispositivo ou conectividade em casa.
+
+### 14.2 Fluxo de atendimento com portões de revisão
+
+**G0 Demanda:** professor/organização descreve problema e finalidade pedagógica. **G1 Escuta:** equipe elabora entrevista, prepara simulação de objeções e negociação, e obtém escopo. **G2 Pesquisa:** coleta somente dados autorizados, registra fontes e limitações. **G3 Estratégia:** escolhe público, objetivos, canais, mensagens, recursos e indicadores. **G4 Produção:** desenvolve protótipos com revisão técnica e de conteúdo. **G5 Aprovação:** docente e direção, conforme caso, autorizam material, imagem, marca, veiculação e orçamento; sem autorização, permanece simulação. **G6 Execução:** realiza tarefa prevista com supervisão. **G7 Mensuração:** apresenta resultados reais quando disponíveis ou descreve explicitamente hipótese e simulação. **G8 Retrospectiva:** documenta erros, feedback, versão revisada e o que faria diferente.
+
+**Regra de cliente real:** o estudante não assume obrigação comercial ou compromisso jurídico em nome da escola. Não aceitar pedidos externos, coletar listas de contatos, criar campanhas pagas ou publicar conteúdos sem aprovação institucional.
+
+### 14.3 Estrutura de grupos e rotação
+
+Equipe ideal de quatro papéis: atendimento/pesquisa; estratégia/planejamento; criação/produção; dados/apresentação. Trocar papéis a cada ciclo ou trimestre. Estabelecer dois critérios de avaliação distintos: **produto coletivo** e **contribuição individual comprovada**. Impedir que um aluno execute todo o trabalho e que outros recebam a mesma avaliação sem evidências.
+
+### 14.4 Carteira inicial de projetos com a própria escola
+
+| Brief interno candidato | Professor/área valorizada | Questão de marketing | Entrega e métrica segura |
+| --- | --- | --- | --- |
+| Semana da Leitura | Língua Portuguesa | Como aumentar a adesão voluntária às ações? | Pesquisa anônima, cartazes, calendário; participação agregada |
+| Mostra Científica | Física, Química e Biologia | Como comunicar ciência corretamente? | Identidade, roteiro e materiais com validação científica |
+| Feira de Matemática | Matemática | Como explicar resultados e estatísticas? | Infográficos com fontes, sem expor notas individuais |
+| História de Urubici | História e Geografia | Como valorizar patrimônio e território? | Mini exposição/editorial com acervo e créditos |
+| Arte em Movimento | Arte | Como construir identidade visual autoral? | Cartaz, catálogo e curadoria autorizada |
+| Jogos Escolares | Educação Física | Como informar agenda e estimular participação? | Calendário, comunicação inclusiva, relatório agregado |
+| Comunicação Inclusiva | Filosofia/Sociologia | A mensagem respeita diversidade e acessibilidade? | Auditoria de peças, recomendações e critérios éticos |
+| Inglês em Marketing | Inglês | Como compreender linguagem profissional? | Glossário contextualizado e pitch voluntário |
+
+**Crédito obrigatório:** nome do componente e docente responsável pela revisão de conteúdo nos materiais autorizados. Para reconhecer o professor, celebrar o conhecimento e o projeto, não promover publicidade pessoal compulsória. Não atribuir produção de conteúdo adicional sem acordo posterior.
+
+### 14.5 Trabalho de casa e grupo colaborativo
+
+**Missão quinzenal ou semanal curta** de cerca de 20–40 minutos (referência, não obrigação institucional): observação de atendimento, análise de vitrine, comparação de mensagens, auditoria de anúncio, roteiro de entrevista, exercícios de percentuais, revisão de uma fonte. Sempre disponibilizar alternativa offline/institucional e avaliar aprendizado, não acesso a apps privados. Cada missão recebe devolutiva do docente em prazo combinado.
+
+**WhatsApp (opcional):** só após política da escola e consentimentos necessários; canal informativo e colaborativo com moderação, horários, regras contra assédio, proibição de dados sensíveis, alternativa oficial equivalente e nenhuma exigência de uso para nota.
+
+### 14.6 Visitas técnicas evolutivas
+
+| Ano | Destino por categoria (não reservado) | Preparação | Produto após a visita |
+| --- | --- | --- | --- |
+| 1º | Comércio, atendimento, comunicação de serviço público, projetos internos | Pesquisa do local, roteiro de 5 perguntas e comportamento profissional | Mapa da jornada de cliente, relatório e 3 oportunidades |
+| 2º | Agência de marketing/publicidade, e-commerce, estúdio de produção | Benchmark de canais, funções e ferramentas; critérios de observação | Mapa de operação de campanha, pitch em equipe e reflexão |
+| 3º | Operação de marketing com métricas, agência de performance, empresa de tecnologia | Perguntas sobre KPIs, orçamento, atendimento e decisões | Estudo de caso com hipóteses, indicadores e recomendações |
+
+A visita só integra a carga e a avaliação após planejamento, autorização, roteiro, logística e registro compatíveis com regras da escola. Nenhum destino é apresentado como parceiro confirmado.
+
+
+## 15 | Modelo de avaliação: provas que elevam conhecimento e autonomia
+
+### 15.1 Avaliação equilibrada
+
+Conservar a avaliação trimestral e a recuperação paralela previstas no PPC. O documento oficial indica, para componentes com 2 aulas, **mínimo de 3 instrumentos**, e 3 ou mais aulas, **mínimo de 4 instrumentos**; a escola deverá conferir a norma vigente antes da implantação. Não confundir “projetos” com dispensa de provas ou de evidência individual.
+
+**Conjunto recomendado por trimestre:** (A) checagem de conhecimentos sem IA, individual; (B) caso prático individual, com dados e roteiro de decisão; (C) projeto de equipe com pitch e rubrica individual; (D) quando aplicável, estudo orientado de fontes com IA e crítica da resposta; (E) recuperação paralela com novos exercícios e reavaliação de objetivos não consolidados.
+
+### 15.2 Modelo de prova conceitual individual (60–90 minutos, conforme agenda)
+
+**Situação:** uma iniciativa escolar deseja ampliar inscrições em uma atividade cultural. O aluno recebe dados fictícios (60 estudantes informados; 15 manifestaram interesse; 6 se inscreveram) e deve responder, sem ferramenta generativa: (i) diferença entre divulgação, marketing e vendas; (ii) público e proposta de valor; (iii) calcular taxa de interesse 15/60 = 25% e inscrição 6/60 = 10%; (iv) propor duas hipóteses para o problema; (v) definir pergunta de pesquisa válida; (vi) explicar cuidado ético com imagem e dados dos participantes. **Critérios:** raciocínio, cálculo, justificativa e noções de ética; não basta memorizar termos.
+
+### 15.3 Modelo de prova aplicada em laboratório
+
+**Situação:** equipe recebe briefing controlado de uma campanha de leitura. Cada aluno deve, em 45–60 minutos, produzir individualmente um objetivo SMART, um segmento, mensagem com CTA, esboço de peça, KPI e justificativa. IA pode ser autorizada para brainstorming, mas é preciso anexar prompt, saída relevante, conferência de fontes e decisões humanas. Uma tarefa final exige encontrar e corrigir três erros propositais de uma resposta gerada por IA.
+
+### 15.4 Critérios de exigência por série
+
+- **1º:** conceitos corretos, briefing completo, pesquisa simples, escrita clara, peça com hierarquia visual e crédito.
+- **2º:** estratégia coerente, seleção justificada de canais, cálculo de métricas, campanha simulada, revisão de hipóteses e análise crítica de IA.
+- **3º:** diagnóstico contextualizado, cronograma, orçamento, controle de riscos, KPI, defesa individual, aprendizado com desvios e plano de melhoria.
+
+### 15.5 Matriz de rubrica ampliada
+
+| Dimensão | Peso sugestivo | Evidência N0–1 | Evidência N2 | Evidência N3–4 |
+| --- | ---: | --- | --- | --- |
+| Fundamento/estratégia | 25% | Sem coerência ou conceito | Justificativa básica | Relação clara entre problema, público, objetivo e solução |
+| Pesquisa e qualidade da fonte | 20% | Sem fonte/limitação | Fonte identificada | Método, fonte, viés e incerteza explicitados |
+| Execução e comunicação | 20% | Produto incompleto | Produto funcional | Acessível, revisado e adequado ao público |
+| Indicadores e raciocínio | 15% | Métrica ausente/incorreta | Cálculo correto | Interpretação com limites e ação proposta |
+| Defesa individual | 10% | Não explica | Explica os passos | Argumenta, recebe crítica e corrige |
+| Ética, colaboração e IA | 10% | Autoria obscura/risco | Declara uso e participa | Evidência de contribuição, direitos e controle de riscos |
+
+Pesos são **sugestão**, a ajustar posteriormente pelo docente titular e pela política da escola; não criar sistema paralelo de nota oficial.
+
+### 15.6 Recuperação e justiça pedagógica
+
+Publicar os critérios antes do exercício, fornecer exemplos da qualidade esperada, permitir feedback formativo e exercício de refazimento. Usar diagnóstico para apoio, nunca para rotular incapacidade. Quando houver trabalho em equipe, exigir ao menos uma evidência individual por competência. Garantir formas equivalentes de participação a estudantes com necessidades de acessibilidade ou sem acesso domiciliar à internet.
+
+
+### 15.7 Exemplos pedagógicos de itens por série
+
+Exemplos para orientar a elaboração das provas pelo docente titular. **Não são provas oficiais** e não substituem os instrumentos da SED/SC. Cada item se aplica tanto à prova sem IA quanto à prova com registro de uso de IA (seção 8).
+
+| Série | Item de prova (exemplo) | Nível de domínio esperado (seção 13.2) | Critério de correção |
+| --- | --- | --- | --- |
+| 1º ano | A partir de um briefing escolar fictício, identifique o público-alvo, justifique a escolha e formule duas perguntas para a entrevista. | N1–N2 | Público específico, justificativa coerente com o briefing, perguntas abertas e pertinentes |
+| 2º ano | Escolha dois canais para a campanha simulada, calcule a taxa de conversão de um funil fictício e explique um limite da métrica. | N2–N3 | Cálculo correto, canal justificado pelo público, limite da métrica explicitado |
+| 3º ano | Defenda, em até cinco minutos, uma decisão de investimento ou operação para o cliente simulado, com riscos e um indicador de acompanhamento. | N3–N4 | Decisão fundamentada em dados, riscos identificados, indicador de controle e plano de contingência |
+
+## 16 | Proposta de deliberação da Direção (minuta objetiva)
+
+**Objeto:** aprovar, com ou sem ressalvas, as diretrizes institucionais e metodológicas do Plano Diretor Pedagógico do Curso Técnico em Marketing — 2027–2029, preservando o PPC da SED/SC e a autonomia pedagógica legalmente estabelecida.
+
+**Decisões solicitadas:**
+
+1. Autorizar a adoção da metodologia de projetos e laboratório como **diretriz** da proposta, sem início automático de operação.
+2. Autorizar o prosseguimento à etapa de alinhamento com docentes **depois da aprovação**.
+3. Determinar levantamento de infraestrutura, habilitação, custos e condições de acesso/segurança antes do piloto.
+4. Definir responsáveis institucionais pela supervisão pedagógica e pela gestão dos dados.
+5. Autorizar preparação de instrumentos e indicadores para implantação, sem criação de notas paralelas ou novas obrigações sem pactuação.
+6. Definir se o piloto contemplará o 1º ano ingressante de 2027, a turma concluinte de 2027 ou ambos, com trilhas distintas.
+7. Registrar ressalvas, exigências de revisão e prazo para apresentação da versão operacional.
+
+**Estados de decisão disponíveis:** `PROPOSTA_EM_ANÁLISE`, `APROVADO_COM_RESSALVAS`, `APROVADO`, `REVISÃO_SOLICITADA`, `NÃO_APROVADO`. Não marcar como aprovado antes da deliberação real.
+
+**Resultado esperado da deliberação:** ata de decisão e versão controlada, seguida de planejamento detalhado com professores e coordenação. A homologação externa, quando exigível, permanece condicionante separado.
+
+**Classificação final deste documento:** PLANO DIRETOR COMPLETO PARA DELIBERAÇÃO DA DIREÇÃO — VERSÃO NÃO FINAL / NÃO HOMOLOGADA. Não é pré-projeto incompleto, não é plano operacional implementado e não comprova resultados futuros.
+
+## 17 | Referências do documento-base e controle final
+
+• PPC EMIEP Técnico em Marketing, Secretaria de Estado da Educação de Santa Catarina, processo SED 00178627/2026, assinado em 03/09/2026, pp. 2–4, 7–9, 12–14, 19–21, 31–32 e 34–40 (fonte primária).
+
+• SENAC-SC, matriz curricular Técnico em Marketing 2023, 800h: https://www.sc.senac.br/matrizcurricular/curso/tecnico-em-marketing-2023
+
+• SENAC-SC, apresentação do curso Técnico em Marketing (800h): https://portal.sc.senac.br/curso/130296/tecnico-em-marketing
+
+• SENAI-SP, Marketing Digital com Inteligência Artificial, aperfeiçoamento 30h: https://www.sp.senai.br/curso/marketing-digital-com-inteligencia-artificial/105414
+
+• UNESCO, AI Competency Framework for Students (2024): https://www.unesco.org/en/articles/ai-competency-framework-students
+
+• UNESCO, AI Competency Framework for Teachers (2024): https://www.unesco.org/en/articles/ai-competency-framework-teachers
+
+• Ajuda oficial Google para ferramentas de cadernos de IA: https://support.google.com/gemininotebook/answer/16164461?hl=pt-br
+
+ESTADO: DOCUMENTO ELABORADO PARA DELIBERAÇÃO. Nenhum indicador representa resultado medido; nenhum componente/carga oficial foi alterado; não há autorização presumida para docência, contratação, publicação ou tratamento de dados.
 
 ## ANEXO A | Planos de aplicação das 12 disciplinas técnicas
 
@@ -316,173 +565,19 @@ Pesos sugeridos; respeitar a política de avaliação e a autonomia pedagógica 
 
 Período e turmas; matrícula/frequência; instrumentos e cobertura; médias de rubricas e evolução; projetos e briefs; integração docente; aulas práticas efetivas; riscos e incidentes; feedback de estudantes; melhorias priorizadas; recursos necessários; decisões solicitadas. Anexar metodologia de cálculo, denominadores e evidências amostrais anonimizadas.
 
-## 12 | Escopo institucional, hipóteses e arquitetura de decisão
+### C4. Ficha de autoavaliação e reflexão individual (proposta)
 
-### 12.1 O que a Direção está sendo convidada a aprovar
+Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira versão do portfólio (antes/depois):
 
-A Direção recebe **uma proposta completa de Plano Diretor Pedagógico**, com finalidade, conteúdos, modelo operacional, anexos, instrumentos, metas e governança definidos. Sua condição de proposta significa apenas que **não foi ainda aprovada nem homologada**; não significa que esteja incompleta, nem que dependa de reunião prévia com docentes para ser apresentada.
+□ Competência em que mais avancei e a evidência que comprova o avanço
 
-**Aprovação solicitada (em bloco ou por deliberação expressa):** (a) diretriz pedagógica de aprendizagem por projetos e laboratório; (b) integração transversal de IA, pesquisa e tecnologia; (c) utilização da escola como primeiro ambiente de projetos; (d) matriz de anexos por disciplina para desenvolvimento posterior dos planos de aula; (e) painel trimestral de indicadores; (f) princípios de segurança e limites de publicação; (g) fase inicial de implantação, condicionada a inventário e condições materiais; (h) constituição de processo de diálogo docente **após** o aceite institucional.
+□ Dificuldade enfrentada e o que fiz para superá-la
 
-**Não estão solicitadas nesta etapa:** alteração formal de matriz curricular, supressão de conteúdo oficial, criação automática de disciplina, contratação ou atribuição nominal de aulas, abertura de contas de alunos, tratamento de dados de menores, publicação de fotografias, autorização de campanhas pagas, alteração de jornada funcional ou compromisso com parceiros sem instrumento de autorização.
+□ Minha contribuição na equipe, com exemplos verificáveis
 
-### 12.2 Limites e pressupostos de planejamento
+□ Uso de IA nesta atividade: onde usei, o que conferi e o que decidi sozinho
 
-- PPC estadual do curso Técnico em Marketing é a base primária (processo SED 00178627/2026, 42 páginas textuais mais assinaturas); grade diurna usada como referência. A proposta da oferta noturna exigiria compatibilização própria.
-- Formação Geral Básica: 2.200 horas; itinerário técnico: 800 horas; total: 3.000 horas. As atividades integradoras EPT totalizam 120 horas (40/ano) e, segundo a matriz, aparecem na Formação Geral Básica; **não** somar novamente essas horas à carga total.
-- O curso tem componentes técnicos distribuídos apenas no ano previsto no PPC; atividades nos demais anos são pontes interdisciplinares, não ensino formal repetido da disciplina.
-- O plano de ingressantes 2027–2029 não equivale ao plano de transição da turma já concluinte em 2027.
-- Qualquer meta de engajamento, permanência, procura por matrículas, desempenho ou empregabilidade é hipótese de melhoria a ser testada e não promessa institucional.
-
-### 12.3 Critérios de aceite desta proposta documental
-
-O pacote será considerado editorialmente pronto quando: (1) todas as 12 disciplinas técnicas estiverem vinculadas a objetos oficiais; (2) docentes gerais receberem propostas voluntárias de integração; (3) cada série possuir objetivos, projetos, métodos, entregas e rubricas; (4) avaliações preservarem as exigências da SED; (5) o painel especificar fórmula, periodicidade, fonte, responsável, denominador, privacidade e limitação; (6) custos e dependências estiverem apresentados por categoria sem cifras inventadas; (7) fontes tiverem URLs ou identificação verificável; (8) versão, status e pedidos de decisão estiverem explícitos.
-
-
-## 13 | Perfil de egresso por competência e matriz de progressão
-
-### 13.1 Competências observáveis
-
-| Código | Competência | Evidência mínima do egresso | Critério técnico |
-| --- | --- | --- | --- |
-| C01 | Escuta, diagnóstico e briefing | Entrevista simulada/real autorizada, briefing aprovado e definição do problema | Perguntas pertinentes, escopo e necessidades documentados |
-| C02 | Fundamentos e mercado | Justificativa de público, valor, proposta e posicionamento | Conceitos aplicados sem confundir marketing com mera postagem |
-| C03 | Pesquisa e dados | Pesquisa desenhada, amostra identificada, planilha e limitações | Rastreabilidade e interpretação sem inferência indevida |
-| C04 | Estratégia e plano | Objetivos, público, canais, jornada, orçamento e KPIs | Coerência entre diagnóstico e ações |
-| C05 | Comunicação, escrita e criação | Peças com identidade, copy e versão acessível | Técnica, clareza, autoria e adequação do público |
-| C06 | Operação digital | Plano de conteúdo, anúncios simulados, funil e fluxo de atendimento | Escolhas justificadas e controle de riscos |
-| C07 | Métricas, análise e finanças | Painel com métricas, hipóteses, custos e recomendações | Fórmula correta, base temporal e interpretação honesta |
-| C08 | IA crítica e pesquisa assistida | Registro de uso de IA e checagem de fontes | Explicar limites, vieses, riscos e autoria humana |
-| C09 | Ética, direitos, LGPD | Check de dados, imagem, consentimento, conteúdo e licenças | Ausência de publicação sem autorização |
-| C10 | Projeto e relacionamento | Cronograma, divisão de tarefas, revisões e apresentação ao cliente | Responsabilidade individual e prestação de contas |
-| C11 | Colaboração e oralidade | Defesa individual e trabalho em equipe | Resposta a perguntas e argumentação com fundamentos |
-| C12 | Aprender continuamente | Portfólio comparativo com versões e reflexão | Demonstração de melhoria e capacidade de atualização |
-
-### 13.2 Níveis de domínio
-
-- **N0 — Inicial:** não demonstra ainda o conceito ou a execução.
-- **N1 — Guiado:** identifica elementos e reproduz etapas com supervisão intensa.
-- **N2 — Operacional básico:** executa tarefas delimitadas, revisa erros e explica escolhas simples.
-- **N3 — Autonomia supervisionada:** resolve problema contextualizado, argumenta, entrega e ajusta com feedback.
-- **N4 — Consistente:** adapta a solução a cenários novos, mede limitações, registra riscos e orienta melhorias.
-
-Não equiparar o N4 à autonomia profissional irrestrita. Em atividades envolvendo clientes externos, adolescentes, contas publicitárias ou dados pessoais, a supervisão permanece obrigatória.
-
-### 13.3 Metas ilustrativas por série (não dados observados)
-
-| Competência | Fim do 1º (2027) | Fim do 2º (2028) | Fim do 3º (2029) |
-| --- | ---: | ---: | ---: |
-| C01 Briefing/escuta | 2,0 | 3,0 | 3,5 |
-| C02 Fundamentos | 2,0 | 3,0 | 3,5 |
-| C03 Pesquisa/dados | 1,5 | 2,8 | 3,5 |
-| C04 Estratégia | 1,5 | 2,8 | 3,5 |
-| C05 Design/criação | 2,0 | 3,0 | 3,5 |
-| C06 Operação digital | 1,0 | 2,8 | 3,5 |
-| C07 Indicadores | 1,0 | 2,8 | 3,5 |
-| C08 IA crítica | 2,0 | 3,0 | 3,5 |
-| C09 Ética/direitos | 2,0 | 3,0 | 3,8 |
-| C10 Gestão de projeto | 1,5 | 2,8 | 3,5 |
-| C11 Oralidade/equipe | 2,0 | 3,0 | 3,5 |
-| C12 Aprendizagem/portfólio | 2,0 | 3,0 | 3,5 |
-
-**Como ilustrar no DOCX:** gráfico de linhas de 0–4 com quatro agrupamentos (fundamentos; digital/IA; pesquisa/dados; execução/relacionamento), com nota: “trajetórias-alvo propostas — não são resultados de avaliação”. Não usar percentual de “empregabilidade” inferido dos níveis.
-
-### 13.4 Progressão da autonomia e certificações do PPC
-
-**1º ano — Assistente de Vendas:** estudante compreende cliente e produto, conduz observação, faz perguntas, calcula percentuais simples, propõe mensagem e elabora peças básicas; entrega com orientação próxima. **2º ano — Assistente de Marketing:** produz diagnóstico e plano digital, reconhece funil e métricas, executa simulações e apresenta justificativas. **3º ano — Técnico em Marketing:** integra planejamento, criação, atendimento e indicadores, com projeto completo e defesa perante banca.
-
-
-## 14 | Plano de operação da Agência-Escola e experiências motivadoras
-
-### 14.1 Princípios que tornam a aula relevante
-
-1. **Problema antes da ferramenta:** começar com uma pergunta ou necessidade real; o uso de tecnologia deve ter finalidade e critérios de qualidade.
-2. **Aluno ativo, professor presente:** trabalhar em equipes de quatro com funções rotativas; preservar explicação conceitual e intervenção docente.
-3. **Agito com método:** desafios-relâmpago, pitch, cliente-surpresa, negociação simulada, crítica construtiva e defesa de evidências; evitar ruído ou competição que humilhe.
-4. **Aprendizado visível:** cada projeto possui ponto de partida, revisão, versão final e reflexão individual “antes/depois”.
-5. **Escolha com responsabilidade:** permitir ideias criativas dentro de prazos, direitos, formatos, destinatários e objetivos acordados.
-6. **Diversidade e inclusão:** adaptar acesso digital, recursos e formas de participação; não penalizar estudantes sem dispositivo ou conectividade em casa.
-
-### 14.2 Fluxo de atendimento com portões de revisão
-
-**G0 Demanda:** professor/organização descreve problema e finalidade pedagógica. **G1 Escuta:** equipe elabora entrevista e obtém escopo. **G2 Pesquisa:** coleta somente dados autorizados, registra fontes e limitações. **G3 Estratégia:** escolhe público, objetivos, canais, mensagens, recursos e indicadores. **G4 Produção:** desenvolve protótipos com revisão técnica e de conteúdo. **G5 Aprovação:** docente e direção, conforme caso, autorizam material, imagem, marca, veiculação e orçamento; sem autorização, permanece simulação. **G6 Execução:** realiza tarefa prevista com supervisão. **G7 Mensuração:** apresenta resultados reais quando disponíveis ou descreve explicitamente hipótese e simulação. **G8 Retrospectiva:** documenta erros, feedback, versão revisada e o que faria diferente.
-
-**Regra de cliente real:** o estudante não assume obrigação comercial ou compromisso jurídico em nome da escola. Não aceitar pedidos externos, coletar listas de contatos, criar campanhas pagas ou publicar conteúdos sem aprovação institucional.
-
-### 14.3 Estrutura de grupos e rotação
-
-Equipe ideal de quatro papéis: atendimento/pesquisa; estratégia/planejamento; criação/produção; dados/apresentação. Trocar papéis a cada ciclo ou trimestre. Estabelecer dois critérios de avaliação distintos: **produto coletivo** e **contribuição individual comprovada**. Impedir que um aluno execute todo o trabalho e que outros recebam a mesma avaliação sem evidências.
-
-### 14.4 Carteira inicial de projetos com a própria escola
-
-| Brief interno candidato | Professor/área valorizada | Questão de marketing | Entrega e métrica segura |
-| --- | --- | --- | --- |
-| Semana da Leitura | Língua Portuguesa | Como aumentar a adesão voluntária às ações? | Pesquisa anônima, cartazes, calendário; participação agregada |
-| Mostra Científica | Física, Química e Biologia | Como comunicar ciência corretamente? | Identidade, roteiro e materiais com validação científica |
-| Feira de Matemática | Matemática | Como explicar resultados e estatísticas? | Infográficos com fontes, sem expor notas individuais |
-| História de Urubici | História e Geografia | Como valorizar patrimônio e território? | Mini exposição/editorial com acervo e créditos |
-| Arte em Movimento | Arte | Como construir identidade visual autoral? | Cartaz, catálogo e curadoria autorizada |
-| Jogos Escolares | Educação Física | Como informar agenda e estimular participação? | Calendário, comunicação inclusiva, relatório agregado |
-| Comunicação Inclusiva | Filosofia/Sociologia | A mensagem respeita diversidade e acessibilidade? | Auditoria de peças, recomendações e critérios éticos |
-| Inglês em Marketing | Inglês | Como compreender linguagem profissional? | Glossário contextualizado e pitch voluntário |
-
-**Crédito obrigatório:** nome do componente e docente responsável pela revisão de conteúdo nos materiais autorizados. Para reconhecer o professor, celebrar o conhecimento e o projeto, não promover publicidade pessoal compulsória. Não atribuir produção de conteúdo adicional sem acordo posterior.
-
-### 14.5 Trabalho de casa e grupo colaborativo
-
-**Missão quinzenal ou semanal curta** de cerca de 20–40 minutos (referência, não obrigação institucional): observação de atendimento, análise de vitrine, comparação de mensagens, auditoria de anúncio, roteiro de entrevista, exercícios de percentuais, revisão de uma fonte. Sempre disponibilizar alternativa offline/institucional e avaliar aprendizado, não acesso a apps privados.
-
-**WhatsApp (opcional):** só após política da escola e consentimentos necessários; canal informativo e colaborativo com moderação, horários, regras contra assédio, proibição de dados sensíveis, alternativa oficial equivalente e nenhuma exigência de uso para nota.
-
-### 14.6 Visitas técnicas evolutivas
-
-| Ano | Destino por categoria (não reservado) | Preparação | Produto após a visita |
-| --- | --- | --- | --- |
-| 1º | Comércio, atendimento, comunicação de serviço público, projetos internos | Pesquisa do local, roteiro de 5 perguntas e comportamento profissional | Mapa da jornada de cliente, relatório e 3 oportunidades |
-| 2º | Agência de marketing/publicidade, e-commerce, estúdio de produção | Benchmark de canais, funções e ferramentas; critérios de observação | Mapa de operação de campanha, pitch em equipe e reflexão |
-| 3º | Operação de marketing com métricas, agência de performance, empresa de tecnologia | Perguntas sobre KPIs, orçamento, atendimento e decisões | Estudo de caso com hipóteses, indicadores e recomendações |
-
-A visita só integra a carga e a avaliação após planejamento, autorização, roteiro, logística e registro compatíveis com regras da escola. Nenhum destino é apresentado como parceiro confirmado.
-
-
-## 15 | Modelo de avaliação: provas que elevam conhecimento e autonomia
-
-### 15.1 Avaliação equilibrada
-
-Conservar a avaliação trimestral e a recuperação paralela previstas no PPC. O documento oficial indica, para componentes com 2 aulas, **mínimo de 3 instrumentos**, e 3 ou mais aulas, **mínimo de 4 instrumentos**; a escola deverá conferir a norma vigente antes da implantação. Não confundir “projetos” com dispensa de provas ou de evidência individual.
-
-**Conjunto recomendado por trimestre:** (A) checagem de conhecimentos sem IA, individual; (B) caso prático individual, com dados e roteiro de decisão; (C) projeto de equipe com pitch e rubrica individual; (D) quando aplicável, estudo orientado de fontes com IA e crítica da resposta; (E) recuperação paralela com novos exercícios e reavaliação de objetivos não consolidados.
-
-### 15.2 Modelo de prova conceitual individual (60–90 minutos, conforme agenda)
-
-**Situação:** uma iniciativa escolar deseja ampliar inscrições em uma atividade cultural. O aluno recebe dados fictícios (60 estudantes informados; 15 manifestaram interesse; 6 se inscreveram) e deve responder, sem ferramenta generativa: (i) diferença entre divulgação, marketing e vendas; (ii) público e proposta de valor; (iii) calcular taxa de interesse 15/60 = 25% e inscrição 6/60 = 10%; (iv) propor duas hipóteses para o problema; (v) definir pergunta de pesquisa válida; (vi) explicar cuidado ético com imagem e dados dos participantes. **Critérios:** raciocínio, cálculo, justificativa e noções de ética; não basta memorizar termos.
-
-### 15.3 Modelo de prova aplicada em laboratório
-
-**Situação:** equipe recebe briefing controlado de uma campanha de leitura. Cada aluno deve, em 45–60 minutos, produzir individualmente um objetivo SMART, um segmento, mensagem com CTA, esboço de peça, KPI e justificativa. IA pode ser autorizada para brainstorming, mas é preciso anexar prompt, saída relevante, conferência de fontes e decisões humanas. Uma tarefa final exige encontrar e corrigir três erros propositais de uma resposta gerada por IA.
-
-### 15.4 Critérios de exigência por série
-
-- **1º:** conceitos corretos, briefing completo, pesquisa simples, escrita clara, peça com hierarquia visual e crédito.
-- **2º:** estratégia coerente, seleção justificada de canais, cálculo de métricas, campanha simulada, revisão de hipóteses e análise crítica de IA.
-- **3º:** diagnóstico contextualizado, cronograma, orçamento, controle de riscos, KPI, defesa individual, aprendizado com desvios e plano de melhoria.
-
-### 15.5 Matriz de rubrica ampliada
-
-| Dimensão | Peso sugestivo | Evidência N0–1 | Evidência N2 | Evidência N3–4 |
-| --- | ---: | --- | --- | --- |
-| Fundamento/estratégia | 25% | Sem coerência ou conceito | Justificativa básica | Relação clara entre problema, público, objetivo e solução |
-| Pesquisa e qualidade da fonte | 20% | Sem fonte/limitação | Fonte identificada | Método, fonte, viés e incerteza explicitados |
-| Execução e comunicação | 20% | Produto incompleto | Produto funcional | Acessível, revisado e adequado ao público |
-| Indicadores e raciocínio | 15% | Métrica ausente/incorreta | Cálculo correto | Interpretação com limites e ação proposta |
-| Defesa individual | 10% | Não explica | Explica os passos | Argumenta, recebe crítica e corrige |
-| Ética, colaboração e IA | 10% | Autoria obscura/risco | Declara uso e participa | Evidência de contribuição, direitos e controle de riscos |
-
-Pesos são **sugestão**, a ajustar posteriormente pelo docente titular e pela política da escola; não criar sistema paralelo de nota oficial.
-
-### 15.6 Recuperação e justiça pedagógica
-
-Publicar os critérios antes do exercício, fornecer exemplos da qualidade esperada, permitir feedback formativo e exercício de refazimento. Usar diagnóstico para apoio, nunca para rotular incapacidade. Quando houver trabalho em equipe, exigir ao menos uma evidência individual por competência. Garantir formas equivalentes de participação a estudantes com necessidades de acessibilidade ou sem acesso domiciliar à internet.
+□ Feedback recebido e uma ação de melhoria para o próximo ciclo
 
 
 ## ANEXO D | Cadernos de aplicação técnica detalhados por componente
@@ -843,6 +938,25 @@ Não usar N pequeno para comparar docentes ou turmas de composição distinta. N
 **Modelo de termo de escopo para futura validação institucional:** objeto pedagógico e objetivos, responsáveis e contatos, prazo, natureza voluntária/educativa, informações permitidas, limites de confidencialidade, direitos de conteúdo, proibição de acesso a dados comerciais sensíveis, revisão e autorização para eventual divulgação, possibilidade de suspensão e devolutiva. Não adotar o termo como contrato válido sem exame da direção/assessoria competente.
 
 
+### H5. Matriz de uso de IA por componente (proposta)
+
+Derivada dos laboratórios e validações de cada caderno do Anexo D. Cada uso exige registro, fonte admitida e checagem humana; nenhum componente torna o uso de IA obrigatório.
+
+| Componente (série) | Caso de uso de IA admitido | Fonte admitida | Checagem humana obrigatória |
+| --- | --- | --- | --- |
+| Administração de Marketing (1º) | Levantar hipóteses para a SWOT | Leituras autorizadas e NotebookLM | Confrontar as hipóteses com os dados do briefing |
+| Design Gráfico (1º) | Gerar alternativas de layout, com registro | Materiais de domínio público ou licenciados | Verificar licenças, formatos editáveis e legibilidade |
+| Comportamento do Consumidor (1º) | Organizar teoria e roteiro de síntese | Referências autorizadas | Não tratar personas geradas como pessoas reais |
+| Legislação Aplicada (1º) | Resumir textos oficiais | Fontes legais oficiais | Distinguir estudo de caso de consultoria jurídica; referenciar cada regra |
+| Desenvolvimento de Produtos (2º) | Comparar hipóteses de produto | Pesquisas e testes registrados | Separar premissas de custo de orçamento real |
+| Marketing Digital (2º) | Simular criativos e interpretar métricas | Demonstrativos e planilhas | Não confundir curtidas com resultado de negócio |
+| Estratégia de Marketing (2º) | Apoiar cenários e priorização | Canvas e planilhas do grupo | Cada escolha parte de dado ou hipótese declarada |
+| Comunicação em Marketing (2º) | Sugerir títulos e roteiros | Editor de texto e referências autorizadas | Verificar veracidade, CTA ético e acessibilidade |
+| Gestão de Eventos (3º) | Apoiar checklist e cronograma | Formulários anônimos e planilhas | Confirmar autorização antes de qualquer divulgação |
+| Promoção de Vendas (3º) | Cenários de preço hipotético | Planilhas de simulação | Oferta transparente, sem promessa enganosa |
+| Logística (3º) | Simular cenários de custo | Planilhas e calculadora | Decisão combina custo, nível de serviço e sustentabilidade |
+| Práticas de Marketing (3º) | Apoiar execução e análise crítica | Kanban, dashboard e fontes registradas | Responsável humano aprova cada entrega |
+
 ## ANEXO I | Formação docente e modelo de colaboração após aceite da Direção
 
 ### I1. Sequência institucional aprovada pelo proponente
@@ -922,6 +1036,8 @@ Comparar **(a)** carga e nível da formação, **(b)** competências explícitas
 | SENAI-SP, Marketing Digital com IA | Aperfeiçoamento profissional, 30 h | Objetivo de aplicar IA a campanhas, processos e personalização | Referência de atualização de ferramenta; não é equivalência de curso técnico |
 | UNESCO, AI Competency Framework for Students | Referencial internacional transversal | 12 competências, quatro dimensões, compreender/aplicar/criar | Ajuda na progressão ética/tecnológica; não substitui PPC |
 
+Classificação das referências: **normativo oficial** — CNCT/MEC; **curso técnico comparável** — SENAC-SC (800 h); **curso de aperfeiçoamento complementar** — SENAI-SP (30 h), que não equivale a curso técnico; **referencial internacional** — UNESCO. Nenhuma delas comprova desempenho superior de qualquer instituição.
+
 ### K2. Matriz de alinhamento por evidência (situação atual: proposta)
 
 | Dimensão | Evidência PPC | Referência técnica externa | Resposta do Plano Diretor | Nível de certeza |
@@ -998,41 +1114,3 @@ A apresentação visual não substitui este Plano Diretor completo; ela traduz o
 - Atualizar datas de consulta e versão ao revisar fontes em nova emissão.
 - Não acrescentar logos, assinaturas, depoimentos, preços, horários de visitas ou parcerias inexistentes.
 
-
-## 16 | Proposta de deliberação da Direção (minuta objetiva)
-
-**Objeto:** aprovar, com ou sem ressalvas, as diretrizes institucionais e metodológicas do Plano Diretor Pedagógico do Curso Técnico em Marketing — 2027–2029, preservando o PPC da SED/SC e a autonomia pedagógica legalmente estabelecida.
-
-**Decisões solicitadas:**
-
-1. Autorizar a adoção da metodologia de projetos e laboratório como **diretriz** da proposta, sem início automático de operação.
-2. Autorizar o prosseguimento à etapa de alinhamento com docentes **depois da aprovação**.
-3. Determinar levantamento de infraestrutura, habilitação, custos e condições de acesso/segurança antes do piloto.
-4. Definir responsáveis institucionais pela supervisão pedagógica e pela gestão dos dados.
-5. Autorizar preparação de instrumentos e indicadores para implantação, sem criação de notas paralelas ou novas obrigações sem pactuação.
-6. Definir se o piloto contemplará o 1º ano ingressante de 2027, a turma concluinte de 2027 ou ambos, com trilhas distintas.
-7. Registrar ressalvas, exigências de revisão e prazo para apresentação da versão operacional.
-
-**Estados de decisão disponíveis:** `PROPOSTA_EM_ANÁLISE`, `APROVADO_COM_RESSALVAS`, `APROVADO`, `REVISÃO_SOLICITADA`, `NÃO_APROVADO`. Não marcar como aprovado antes da deliberação real.
-
-**Resultado esperado da deliberação:** ata de decisão e versão controlada, seguida de planejamento detalhado com professores e coordenação. A homologação externa, quando exigível, permanece condicionante separado.
-
-**Classificação final deste documento:** PLANO DIRETOR COMPLETO PARA DELIBERAÇÃO DA DIREÇÃO — VERSÃO NÃO FINAL / NÃO HOMOLOGADA. Não é pré-projeto incompleto, não é plano operacional implementado e não comprova resultados futuros.
-
-## 17 | Referências do documento-base e controle final
-
-• PPC EMIEP Técnico em Marketing, Secretaria de Estado da Educação de Santa Catarina, processo SED 00178627/2026, assinado em 03/09/2026, pp. 2–4, 7–9, 12–14, 19–21, 31–32 e 34–40 (fonte primária).
-
-• SENAC-SC, matriz curricular Técnico em Marketing 2023, 800h: https://www.sc.senac.br/matrizcurricular/curso/tecnico-em-marketing-2023
-
-• SENAC-SC, apresentação do curso Técnico em Marketing (800h): https://portal.sc.senac.br/curso/130296/tecnico-em-marketing
-
-• SENAI-SP, Marketing Digital com Inteligência Artificial, aperfeiçoamento 30h: https://www.sp.senai.br/curso/marketing-digital-com-inteligencia-artificial/105414
-
-• UNESCO, AI Competency Framework for Students (2024): https://www.unesco.org/en/articles/ai-competency-framework-students
-
-• UNESCO, AI Competency Framework for Teachers (2024): https://www.unesco.org/en/articles/ai-competency-framework-teachers
-
-• Ajuda oficial Google para ferramentas de cadernos de IA: https://support.google.com/gemininotebook/answer/16164461?hl=pt-br
-
-ESTADO: DOCUMENTO ELABORADO PARA DELIBERAÇÃO. Nenhum indicador representa resultado medido; nenhum componente/carga oficial foi alterado; não há autorização presumida para docência, contratação, publicação ou tratamento de dados.
