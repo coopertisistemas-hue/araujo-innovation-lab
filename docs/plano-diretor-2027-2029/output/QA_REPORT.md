@@ -1,34 +1,41 @@
-# QA report — Plano Diretor Pedagógico Marketing 2027–2029, V5 revisado (proposta, não homologada)
+# QA_REPORT — Plano Diretor Pedagógico Marketing 2027–2029, V5 revisado (v4)
 
-**Status:** PUBLISHED FOR INDEPENDENT REVIEW — NOT CERTIFIED, NOT APPROVED BY SCHOOL DIRECTION.
-**Recomendação de auditoria:** HOLD (ver BS_TRACEABILITY_REPORT.md: 5 requisitos PARCIAIS; PPC oficial ausente).
+**Status:** PUBLICADO PARA AUDITORIA INDEPENDENTE — NÃO CERTIFICADO; NÃO APROVADO PELA DIREÇÃO.
+**Recomendação:** **HOLD** (ver BS_TRACEABILITY_REPORT.md: G-BS-02 PARCIAL; objetivo por encontro e atividade por objeto pendentes).
 
 ## Hashes
-- Markdown canônico: `875ec13184d20c1187e80b945b2c8040240e46f276fe9662a69a1de94679dfa3` (1.116 linhas; V5 anterior: `036d5f61…`)
-- Matriz BS de entrada: `94ca0f389802668de289bd60b5371dc656ae8f3877bbca88f8d25105aa9f2714`
-- DOCX: ver SHA256SUMS.txt · PDF: ver SHA256SUMS.txt
-- PAGE_COUNT: 58 (A4) · TOC estável em duas passagens.
+- Markdown canônico: `8c6500805940b32894d7b413b1ff1038f6f79b027baf4d207ecb18fb378df0ba`
+- DOCX: `07add14dee14bed37de35f59bc3ad59f6e0bdfc501cfe6edf8cca695f4fb5142`
+- PDF: `1150ab3470e30f7c1c1948988117862f983be28cf9dbcd5548c09809f6f49b63`
+- Demais hashes: SHA256SUMS.txt.
 
-## Verificações executadas nesta rodada
-1. **Preservação de conteúdo** (`tools/qa_source.py`): 1.514 itens de texto do Markdown revisado encontrados no DOCX; 0 ausentes. 41 tabelas do Markdown presentes no DOCX (multiset de contagem de linhas: nenhuma ausente).
-2. **Diferença de linhas entre V5 anterior e revisado:** 15 linhas originais não aparecem mais — 12 linhas antigas do painel §9, 1 cláusula do §14.1 e 2 linhas reescritas (§14.2 G1 e §14.5). Todas as outras linhas são reordenação ou inserção, conforme DELTA_REPORT.md.
-3. **Aritmética curricular interna:** 800 h técnicas (64×11 + 96), 256 + 288 + 256 = 800, 2.200 + 800 = 3.000, 120 h dentro de 2.200, Anexo E = 64 h. Não verificada contra o PPC.
-4. **Layout:** TOC com números de página estável entre duas passagens; 3 páginas com menos de 90 palavras (p. 17: figura de governança; p. 45: tabela de Anexo G; p. 57: final da lista de regras editoriais), todas intencionais.
-5. **Inspeção visual:** todas as 58 páginas geradas em PNG (`output/proof-png/`, local). Páginas alteradas inspecionadas em montagem (§4.1, §5.1, §9, §15.5–15.7, Anexo C, Anexo H5, Anexo K). Cabeçalhos, rodapés, quebras de página e tabelas com cabeçalho repetido conferidos.
-6. **Hashes e links:** links de benchmarks não reconfirmados nesta rodada: 3 UNESCO sem resposta, 2 CNCT (403 e 429). Os demais responderam 200.
+## Dimensões
+- PAGE_COUNT: **78** (A4). PNGs de prova locais: 78 (`output/proof-png/`, não versionados).
+- Sumário (TOC): gerado em duas passagens; números de página estáveis.
+
+## Verificações executadas
+1. **Preservação de conteúdo** (`tools/qa_source.py`): 2.269 itens de texto do Markdown encontrados no DOCX; 0 ausentes. 56 tabelas do Markdown presentes (contagem de linhas, sem faltantes).
+2. **Diferença contra a versão publicada (a795e98):** 22 linhas originais substituídas, todas listadas em DELTA_REPORT.md. Nenhuma outra linha perdida.
+3. **Aritmética e PPC:** tabela V do PPC conferida (3.000 = 2.200 + 800; 120 h integradoras dentro da FGB; 1º 256 · 2º 288 · 3º 256 h). Os 183 objetos e os 12 componentes foram auditados (CURRICULAR_ALIGNMENT_AUDIT.md).
+4. **Layout:** inspeção visual das páginas alteradas (§2.1, §9, §15, Anexo B2, C4, D01–D12, G2, H5, I4, N). Páginas com pouco texto (17, 19, 50, 64) são fins de seção. Um cabeçalho de tabela fica em página seguinte (B2), cosmético.
+5. **Cabeçalhos, rodapés, quebras de página e tabelas com cabeçalho repetido:** conferidos nas páginas alteradas.
 
 ## Não executado
-- Validação OOXML no Word (`validate.py`). A renderização usou LibreOffice 24.2.
-- Conferência item a item com o PPC: o PDF oficial não está disponível (ver CURRICULAR_ALIGNMENT_AUDIT.md).
+- Validação OOXML no Word. A renderização usou LibreOffice 24.2.
+- Comparação do hash do PPC com referência anterior: não há referência registrada.
+- Links de benchmarks: 3 UNESCO sem resposta; 2 CNCT (403 e 429). Os demais responderam 200.
+- Confirmação, com o docente habilitado, da atividade de cada objeto e do objetivo por encontro (PENDENTE_DE_VALIDAÇÃO).
 
 ## Reprodução
 ```bash
-python3 tools/make_charts.py output/assets            # figuras (opcional; já versionadas)
-python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md /tmp/pass1.docx output/assets
-soffice --headless --convert-to pdf --outdir /tmp /tmp/pass1.docx
-python3 tools/pagemap.py /tmp/pass1.pdf /tmp/pass1.docx.toc.json /tmp/pagemap.json
+cd docs/plano-diretor-2027-2029
+python3 tools/apply_v3.py <md_commit_a795e98> /tmp/v3.md /tmp/v3.json
+python3 tools/apply_v4.py /tmp/v3.md Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md /tmp/v4.json
+python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md /tmp/p1.docx output/assets
+soffice --headless --convert-to pdf --outdir /tmp /tmp/p1.docx
+python3 tools/pagemap.py /tmp/p1.pdf /tmp/p1.docx.toc.json /tmp/pagemap.json
 python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx output/assets /tmp/pagemap.json
 soffice --headless --convert-to pdf --outdir output output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx
 python3 tools/qa_source.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx
 ```
-A revisão de conteúdo foi aplicada por `tools/edit_md.py` sobre o Markdown do commit 4e82c5d. O script não é idempotente: aplicá-lo novamente falha nas asserções, o que é intencional.
+`apply_v3.py` e `apply_v4.py` não são idempotentes: rodar de novo sobre o próprio resultado falha nas asserções, de propósito.

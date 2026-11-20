@@ -44,6 +44,20 @@ Compromissos propostos: tecnologia integrada a todos os encontros técnicos semp
 | Avaliação (pp. 38–40): trimestral, frequência e instrumentos mínimos | Manter avaliação oficial e recuperação paralela; indicadores extras não substituem notas. |
 | Habilitação definida por componente nas ementas | Professor orientador só ministra componente oficialmente se habilitado e formalmente designado. |
 
+### 2.1 Mapa integrado dos pilares do curso (BS10)
+
+O digital e a IA são destaques, mas não substituem os demais pilares. Cada pilar reúne componentes oficiais, ferramentas candidatas e entregas, e todos os pilares são exigidos no percurso.
+
+| Pilar | Componentes oficiais | Fundamento exigido | Ferramentas candidatas | Entrega de referência |
+| --- | --- | --- | --- | --- |
+| Fundamentos, consumidor e direito | Administração de Marketing (1º); Comportamento do Consumidor (1º); Legislação Aplicada (1º) | Mercado, demanda, consumidor, contratos e direito do consumidor | Planilha SWOT, formulários institucionais, NotebookLM com fontes autorizadas | Diagnóstico, pesquisa ética e parecer de risco |
+| Criação e comunicação | Design Gráfico (1º); Comunicação em Marketing (2º) | Tipografia, Gestalt, cor, grid, copywriting e roteiro | Penpot, Inkscape, GIMP, Canva Educação, Shotcut | Identidade, peças, vídeo e pitch |
+| Estratégia e produto | Desenvolvimento de Produtos (2º); Estratégia de Marketing (2º) | Ciclo de produto, posicionamento, segmentação e orçamento | Canvas estratégico, prototipagem, planilhas de custo | Plano estratégico e MVP simulado |
+| Digital e dados | Marketing Digital (2º) | Mídias, tráfego, segmentação e métricas | Analytics demonstrativo, planilhas, CRM simulado, IA supervisionada | Campanha simulada com painel e cálculo de KPI |
+| Operação, eventos e relacionamento | Gestão de Eventos (3º); Promoção de Vendas (3º); Logística (3º); Práticas de Marketing (3º) | Planejamento operacional, merchandising, distribuição e rotina de agência | Kanban, planilhas, cronograma, dashboard | Plano de evento, plano promocional, mapa de distribuição e portfólio final |
+
+SEO, CRM, analytics e automação são **ampliações pedagógicas** do Marketing Digital (§2), não objetos oficiais do componente.
+
 ## 3 | Referências externas e nivelamento transparente
 
 | Referência | Evidência verificada | Aplicação técnica ao Araújo |
@@ -146,12 +160,12 @@ Visitas progressivas: 1º ano — comércio/serviços locais e escola; 2º — a
 | K05 · Aplicação em laboratório | Encontros técnicos com artefato/evidência ÷ encontros técnicos ocorridos × 100 | Plano e diário de aula | Coordenação + docentes; Mensal |
 | K04 · Portfólios completos | Alunos com itens mínimos aprovados ÷ alunos avaliáveis × 100 | Rubricas e arquivos | Docentes; Trimestral |
 | K10 · Integração docente | Docentes com projeto formal registrado ÷ docentes convidados × 100 | Briefs coassinados | Orientador; Semestral |
-| K11 · Satisfação e pertencimento | % respostas 4–5 em escala 1–5; apresentar taxa de resposta | Pesquisa anônima apropriada | Coordenação; Semestral |
+| K11 · Satisfação, percepção de valor e motivação | % respostas 4–5 em escala 1–5 para cada item (satisfação, percepção de valor, motivação), com linha de base no diagnóstico inicial; apresentar taxa de resposta | Pesquisa anônima apropriada | Coordenação; Semestral |
 | K13 e K12 · Frequência e permanência | Frequência: presenças registradas ÷ oportunidades oficiais × 100 (K13). Permanência: matriculados no fechamento ÷ matriculados elegíveis no início × 100 (K12) | Secretaria escolar | Gestão; frequência trimestral; permanência anual |
 | K09 · Qualidade dos projetos | Projetos aprovados em 5 checks (briefing, fontes, ética, KPI e defesa) ÷ projetos avaliados × 100 | Checklist e banca | Docentes + avaliador externo quando possível; Trimestral |
 | K08 · Competência em uso crítico de IA | Alunos com fonte e declaração válida ÷ alunos que usaram IA na atividade × 100 | Rubrica 0–4 e registro de atividade | Docentes; Trimestral |
 | K07 · Defesa individual suficiente | Alunos com rubrica ≥ 2 na defesa individual ÷ alunos avaliados × 100 | Apresentação individual | Docentes; Trimestral |
-| K15 · Visitas e parcerias | Visitas com roteiro e relatório ÷ visitas executadas × 100; briefs aprovados | Autorização, roteiro e relatório | Orientador + direção; Anual |
+| K15 · Visitas e parcerias | Visitas com roteiro e relatório ÷ visitas executadas × 100; briefs aprovados (contagem semestral) | Autorização, roteiro e relatório | Orientador + direção; Anual (decisão da revisão: ver DELTA_REPORT) |
 | K14 · Formação docente | Participantes com exercício demonstrado ÷ docentes inscritos × 100 | Listas e artefatos voluntários após aceite | Coordenação; Semestral |
 | K16 · Interesse pelo curso | Matrículas/inscrições válidas por ano, sempre com contexto de capacidade e comparação | Secretaria, campanhas e capacidade instalada | Gestão; Anual |
 
@@ -212,6 +226,7 @@ A Direção recebe **uma proposta completa de Plano Diretor Pedagógico**, com f
 - Formação Geral Básica: 2.200 horas; itinerário técnico: 800 horas; total: 3.000 horas. As atividades integradoras EPT totalizam 120 horas (40/ano) e, segundo a matriz, aparecem na Formação Geral Básica; **não** somar novamente essas horas à carga total.
 - O curso tem componentes técnicos distribuídos apenas no ano previsto no PPC; atividades nos demais anos são pontes interdisciplinares, não ensino formal repetido da disciplina.
 - O plano de ingressantes 2027–2029 não equivale ao plano de transição da turma já concluinte em 2027.
+- Requisitos de acesso (PPC, VIII): estar matriculado na 1ª série do Ensino Médio, com Ensino Fundamental concluído. Prazo máximo de integralização: 5 anos (PPC, XI). Estágio: não há (PPC, I). Infraestrutura mínima (PPC, IX): biblioteca com acervo físico ou virtual específico, datashow, notebook e laboratórios de informática, redes, manutenção e tecnologias.
 - Qualquer meta de engajamento, permanência, procura por matrículas, desempenho ou empregabilidade é hipótese de melhoria a ser testada e não promessa institucional.
 
 ### 12.3 Critérios de aceite desta proposta documental
@@ -329,7 +344,9 @@ A visita só integra a carga e a avaliação após planejamento, autorização, 
 
 ### 15.1 Avaliação equilibrada
 
-Conservar a avaliação trimestral e a recuperação paralela previstas no PPC. O documento oficial indica, para componentes com 2 aulas, **mínimo de 3 instrumentos**, e 3 ou mais aulas, **mínimo de 4 instrumentos**; a escola deverá conferir a norma vigente antes da implantação. Não confundir “projetos” com dispensa de provas ou de evidência individual.
+Conservar a avaliação trimestral e a recuperação paralela previstas no PPC. O PPC (pp. 38–40) indica, para componentes com 1 aula, **mínimo de 2 instrumentos**; com 2 aulas, **mínimo de 3 instrumentos**; e com 3 ou mais aulas, **mínimo de 4 instrumentos**. A norma vigente deve ser reconfirmada pela escola antes da implantação. Não confundir “projetos” com dispensa de provas ou de evidência individual.
+
+**Regras oficiais de aprovação e recuperação (PPC, pp. 38–40):** a avaliação é trimestral; o estudante é aprovado na série somente com frequência igual ou superior a 75% e média global igual ou superior a 6,0 (Portaria Normativa SED nº 2992, de 25/10/2024); a recuperação paralela é obrigatória e, se o professor aplicou três instrumentos, deve aplicar no mínimo três instrumentos de recuperação, seguidos de nova avaliação quando o nível de aprendizagem for insuficiente.
 
 **Conjunto recomendado por trimestre:** (A) checagem de conhecimentos sem IA, individual; (B) caso prático individual, com dados e roteiro de decisão; (C) projeto de equipe com pitch e rubrica individual; (D) quando aplicável, estudo orientado de fontes com IA e crítica da resposta; (E) recuperação paralela com novos exercícios e reavaliação de objetivos não consolidados.
 
@@ -534,6 +551,25 @@ O PPC informa que os componentes da Formação Geral Básica seguem o Currículo
 
 Regra de valorização docente: professor propõe o problema, valida o conteúdo e recebe crédito institucional; estudantes prestam serviço de comunicação pedagógica, não substituem o docente nem são obrigados a fazer marketing pessoal de professores.
 
+### B2. Ficha de plano por componente geral (proposta; sujeita à validação docente após o aceite)
+
+Cada componente da formação geral tem uma ficha por série, derivada do Anexo B. Não cria carga, não altera conteúdo oficial e não atribui aulas: o docente titular valida e pode recusar.
+
+| Componente geral | Objetivo do projeto integrador | Produto (1º–3º ano) | Aprovação docente | Avaliação |
+| --- | --- | --- | --- | --- |
+| Língua Portuguesa e Literatura | Escrita persuasiva, narrativa de marca e redação técnica em projetos de comunicação | Textos de campanha, roteiros revisados e relatório com defesa argumentada | Docente de Língua Portuguesa valida o conteúdo e recebe crédito | Avaliação oficial do docente; o projeto não gera nota paralela |
+| Inglês | Vocabulário e leitura de linguagem profissional de marketing | Glossário crítico, leitura de documentação e pitch bilíngue opcional | Docente de Inglês | Avaliação oficial do docente |
+| Arte | Elementos visuais, direção de arte e curadoria com créditos | Cartaz autoral, referências culturais e curadoria de mostra | Docente de Arte | Avaliação oficial do docente |
+| Educação Física | Comunicação esportiva e campanha de bem-estar sem exposição de estudantes | Pesquisa de hábitos, campanha e calendário de evento esportivo | Docente de Educação Física | Avaliação oficial do docente |
+| Matemática | Porcentagens, gráficos, taxas e decisões numéricas em campanhas | Infográficos com fontes, orçamento simulado e análise de cenários | Docente de Matemática | Avaliação oficial do docente |
+| História | História do consumo e da propaganda, memória local | Linha do tempo de campanhas e editorial de patrimônio com créditos | Docente de História | Avaliação oficial do docente |
+| Geografia | Território, comércio local e distribuição | Mapeamento de demanda e análise espacial de ações | Docente de Geografia | Avaliação oficial do docente |
+| Sociologia | Consumo, grupos, desigualdades e pesquisa ética | Pesquisa ética de comportamento e crítica social de campanhas | Docente de Sociologia | Avaliação oficial do docente |
+| Filosofia | Ética de comunicação, argumentação e vieses algorítmicos | Debate estruturado sobre IA e responsabilidade | Docente de Filosofia | Avaliação oficial do docente |
+| Biologia | Divulgação científica com validação docente | Campanha de sustentabilidade baseada em fontes; análise de comunicação de saúde sem aconselhamento | Docente de Biologia | Avaliação oficial do docente |
+| Química | Comunicação de conceitos e segurança | Campanha de consumo consciente com evidências e mostra científica | Docente de Química | Avaliação oficial do docente |
+| Física | Visualização de dados e divulgação de experimentos | Roteiro audiovisual explicativo e exposição interativa | Docente de Física | Avaliação oficial do docente |
+
 ## ANEXO C | Instrumentos prontos para utilização
 
 ### C1. Formulário de briefing institucional
@@ -586,6 +622,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 ### D01. Administração de Marketing — 1º ano, 64 h oficiais
 
+**Habilitação do docente (PPC):** Curso superior em área de gestão/negócios (lista oficial: Economia, Administração, Marketing etc.) + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 10–12):** Compreender as linhas gerais das ações concernentes à administração de marketing.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Compreensão da Administração de Marketing; Papel do marketing nas organizações e na sociedade; Conceitos centrais do marketing; Aplicações do marketing; Funções operacionais do marketing; Ambiente de Marketing; Conceito de Mercado, Demanda, oferta e Ponto de Equilíbrio; Análise SWOT; Responsabilidade Social Corporativa; Organizações Não Governamentais (ONG); OSCIP; Questão Ambiental; Desenvolvimento Sustentável; Indicadores de Responsabilidade Social; Campanhas de marketing; Briefing e Jobs; Mídias; Lançamento financeiro de contas a pagar e receber; Fluxo de caixa da agência; Gestão dos recursos humanos; Programa de endomarketing; Qualidade em Serviços; Características e elementos dos serviços; Gestão da Qualidade nas atividades de Front-Office; Gestão da Qualidade nas atividades de Back-Office; 5W2H; Brainstorming; Controle da Qualidade Total (TQC); Diagrama de Ishikawa; Kaizen; Diagrama de Pareto.
+
 **Correspondência com o PPC:** gestão mercadológica, mercado, oferta/demanda, SWOT, briefing, qualidade, sustentabilidade e organização da agência. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
 **Projeto de aprendizagem:** diagnóstico da comunicação de uma iniciativa escolar. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou?
@@ -603,6 +645,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 **Validação:** As hipóteses foram distinguidas de fatos? O público é específico? A proposta responde ao briefing?. **Responsabilidades:** docente do componente elabora e aplica ensino/avaliações oficiais; orientador articula casos, parcerias, instrumentos, integração e evidências mediante acordo institucional pós-aprovação. **Conexão horizontal:** escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária.
 
 ### D02. Design Gráfico — 1º ano, 64 h oficiais
+
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC (sem graduação específica em design) + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 12–14):** Capacitar os alunos com as habilidades essenciais de design, incluindo princípios do design da informação, ferramentas de edição de texto, diagramação, imagem e vídeo, a serem aplicadas na criação de projetos gráficos completos, desde a concepção inicial, planejamento, execução, até a finalização para produção digital e/ou impressão gráfica.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Fundamentos do Design e História Gráfica; Tipografia; Elementos básicos da composição visual (o ponto, a linha, a forma, a direção, o tom, a cor, a textura, a dimensão, a escala e o movimento); Leis da Gestalt; Introdução à construção de esquemas visuais: Grid; Teoria das cores; Leitura de Imagem e introdução à semiótica visual; Princípios do Design da informação (hierarquia, contraste, consistência, padronização, proximidade, segmentação, alinhamento, estrutura, equilíbrio, fluxo de leitura, clareza); Ferramentas de edição de texto e Diagramação de páginas; Conceitos de produção e tratamento de imagem; Tipos e Formatos de Imagem; Edição de Imagem; Ferramentas de edição e manipulação de vídeos; Etapas de um projeto de design gráfico eficiente (briefing, busca de referências, brainstorming, rafe, mockups e/ou protótipos, versão final).
 
 **Correspondência com o PPC:** Gestalt, cor, tipografia, grid, semiótica, imagem, vídeo, briefing, protótipo, arte final e impressão/digital. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
@@ -622,6 +670,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 ### D03. Comportamento do Consumidor — 1º ano, 64 h oficiais
 
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 14–16):** Fornecer uma compreensão aprofundada dos fatores que influenciam as escolhas dos consumidores. Os alunos irão explorar teorias psicológicas e sociais subjacentes ao comportamento de compra, permitindo-lhes desenvolver estratégias de marketing mais eficazes e tomar decisões informadas baseadas nas necessidades e desejos dos consumidores.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Teoria da motivação humana e inventário psicográfico; Estudo sobre análise de mercado; Análise do mercado organizacional, centro de compras e processo de compras (habilidade do PPC); Seleção de fornecedores (habilidade do PPC); Avaliação de mercado; Segmentação de mercado; Seleção de mercado; Elaboração do relatório; Comunicação dos resultados.
+
 **Correspondência com o PPC:** motivação, fatores sociais, psicografia, segmentação, avaliação e comunicação da pesquisa. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
 **Projeto de aprendizagem:** pesquisa ética de preferências para evento escolar. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou?
@@ -639,6 +693,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 **Validação:** A amostra e suas limitações aparecem? Personas não são apresentadas como indivíduos reais?. **Responsabilidades:** docente do componente elabora e aplica ensino/avaliações oficiais; orientador articula casos, parcerias, instrumentos, integração e evidências mediante acordo institucional pós-aprovação. **Conexão horizontal:** escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária.
 
 ### D04. Legislação Aplicada — 1º ano, 64 h oficiais
+
+**Habilitação do docente (PPC):** Graduação em Direito ou Ciências Jurídicas e Sociais + licenciatura EPT ou complementação pedagógica (requisito específico, distinto dos demais componentes).
+
+**Objetivo de aprendizagem (PPC, pp. 16–17):** Conhecer noções gerais relativas ao Direito Empresarial e ao Direito do Consumidor.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Evolução histórica do direito comercial; Formação de empresa; Espécies de título de crédito; Contratos mercantis: compra e venda mercantil; Contratos intelectuais nacionais e internacionais; Contratos bancários; Direito do Consumidor; Autorregulação do comércio internacional; Direito flexível no âmbito do Direito do Comércio Internacional.
 
 **Correspondência com o PPC:** noções de direito empresarial, contratos, direitos do consumidor e responsabilidades. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
@@ -658,6 +718,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 ### D05. Desenvolvimento de Produtos — 2º ano, 96 h oficiais
 
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 17–19):** Oportunizar aos estudantes compreender os processos fundamentais de concepção, design e lançamento de produtos, fornecendo-lhes habilidades práticas em pesquisa de mercado, inovação, desenvolvimento de protótipos e estratégias de posicionamento, a fim de prepará-los para desafios contemporâneos e competitivos no mercado de marketing.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Conceito e Níveis de Produto; Ciclos dos produtos; Concepção e metodologia para desenvolvimento de produto; Ferramentas da gestão de produtos e serviços para atendimento das necessidades e desejos dos consumidores; Estratégias de marketing em cada etapa do ciclo de vida do produto; Atividades e processos da gestão de produtos e serviços; Fase analítica e fase de desenvolvimento; Métodos e técnicas de projetos; Análise de valor e de viabilidade econômica; Desenvolvimento das etapas de um projeto de produto; Portfólio de produtos (habilidade do PPC); Conceito de serviço (habilidade do PPC); Tendências e identificação de oportunidades (habilidade do PPC).
+
 **Correspondência com o PPC:** conceito e ciclo de produto, concepção, método de desenvolvimento, portfólio, viabilidade e tendências. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
 **Projeto de aprendizagem:** proposta de serviço ou produto para necessidade identificada na escola/comunidade. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou?
@@ -675,6 +741,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 **Validação:** Protótipo responde a necessidade verificada? Custos e premissas distinguem simulação de orçamento real?. **Responsabilidades:** docente do componente elabora e aplica ensino/avaliações oficiais; orientador articula casos, parcerias, instrumentos, integração e evidências mediante acordo institucional pós-aprovação. **Conexão horizontal:** escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária.
 
 ### D06. Marketing Digital — 2º ano, 64 h oficiais
+
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC (inclui Marketing e Tecnologia em Marketing Digital) + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 19–21):** Analisar e compreender os elementos e ações envolvidas no marketing digital e e-commerce.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Mídias sociais digitais; Ads (publicidade digital); Tendências; Gestão de tráfego; Segmentação de marketing digital; Convergência de mídias; Desenvolvimento de mídia direcionada; E-commerce; E-mail marketing; Evolução de ferramentas; Campanhas publicitárias digitais; Criação de conteúdo de marketing (habilidade do PPC); Posicionamento da marca no ambiente digital (habilidade do PPC).
 
 **Correspondência com o PPC:** redes sociais, anúncios, tráfego, segmentação, mídia, e-commerce, e-mail e campanhas digitais. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
@@ -694,6 +766,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 ### D07. Estratégia de Marketing — 2º ano, 64 h oficiais
 
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 21–23):** Capacitar os participantes a compreender, desenvolver e implementar estratégias de marketing eficazes para alcançar metas de negócios. Os alunos aprenderão a analisar o mercado, identificar oportunidades, posicionar produtos ou serviços e criar planos estratégicos de marketing que impulsionam o sucesso empresarial.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Design Thinking; Segmentações de marketing; Ferramentas da comunicação aplicada; Materiais promocionais nos pontos de venda; Setores e atividades da agência de marketing; Tendências de mercado; Administração do serviço; Operação de serviço; Processos e interfaces da área de trade marketing; Categorias de produtos e canais do varejo; Canais de distribuição e modais de transporte; Indicadores e avaliação de mercado; Estimativas de vendas de produtos; Ativação de marca junto ao trade marketing; Planejamento operacional em trade marketing.
+
 **Correspondência com o PPC:** design thinking, segmentação, setor de agência, serviços, trade, orçamento e avaliação. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
 **Projeto de aprendizagem:** estratégia de lançamento para produto de projeto integrado. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou?
@@ -711,6 +789,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 **Validação:** Cada escolha parte de dado/hipótese? Há alternativa descartada e justificativa?. **Responsabilidades:** docente do componente elabora e aplica ensino/avaliações oficiais; orientador articula casos, parcerias, instrumentos, integração e evidências mediante acordo institucional pós-aprovação. **Conexão horizontal:** escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária.
 
 ### D08. Comunicação em Marketing — 2º ano, 64 h oficiais
+
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 23–25):** Compreender os elementos e as ações envolvidas nas estratégias de comunicação de marketing e saber pô-las em prática.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Comunicação oral e escrita; Técnicas de oratória; Copywriting; Call-to-action (CTA); Redação publicitária; Roteiro de vídeo; Roteiro de campanha; Storytelling; Marketing sensorial com foco na comunicação; Compras; Vendas; Pós-venda.
 
 **Correspondência com o PPC:** copywriting, CTA, oratória, roteiro, storytelling e comunicação integrada. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
@@ -730,6 +814,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 ### D09. Gestão de Eventos — 3º ano, 64 h oficiais
 
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 25–27):** Conhecer os princípios gerais e as ações pertinentes à gestão de eventos.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Definições, históricos de eventos e feiras; Turismo de negócios; Escolha de locais para realização de eventos; Planejamento de diferentes tipos de eventos; Técnicas de planejamento: a importância da pesquisa, conceitos, metodologias e aplicações; Estudo e análise do pré-evento, evento e pós-evento; Definição dos objetivos do evento: estratégias, metas, ações e recursos (materiais, financeiros, humanos); Análise e avaliação dos eventos; Estratégias de avaliação: preparação de formulários e questionários de avaliação; Check-list, roteiro, cronograma e controle operacional; Secretaria de eventos; Perfil do organizador de eventos; Projetos de eventos: criação e captação; Megaeventos; Marketing cultural; Tipologia de eventos; Brindes e sua adequação a locais e públicos (habilidade do PPC); Cores e impacto em eventos (habilidade do PPC); Mestre de cerimônia: voz e expressão (habilidade do PPC).
+
 **Correspondência com o PPC:** planejamento, pré/durante/pós-evento, cronograma, recursos, checklists e avaliação. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
 **Projeto de aprendizagem:** mostra de marketing/projetos interdisciplinares na escola. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou?
@@ -747,6 +837,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 **Validação:** Papéis são claros? Prevê acessibilidade, segurança e avaliação?. **Responsabilidades:** docente do componente elabora e aplica ensino/avaliações oficiais; orientador articula casos, parcerias, instrumentos, integração e evidências mediante acordo institucional pós-aprovação. **Conexão horizontal:** escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária.
 
 ### D10. Promoção de Vendas — 3º ano, 64 h oficiais
+
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 28–30):** Habilitar os estudantes para o trato com os elementos e ações que respondem pela promoção de vendas e merchandising.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Conceito de merchandising; Tipos de merchandising; Ponto de venda; Funcionamento das promoções de vendas e suas formas de incentivar o conhecimento e o consumo de um produto; Função das promoções temporárias nas estratégias do vendedor; Estratégias de comunicação e promoção de vendas; Persuasão; Promoção institucional; Planejamento promocional sistêmico; Eventos culturais, sociais e esportivos; Layout: conceitos, tipos e função; Projeto de vitrines: montagem, orçamento, cronograma e objetivos; Planejamento promocional e execução de vitrines.
 
 **Correspondência com o PPC:** merchandising, PDV, promoções, vitrines e comunicação de vendas. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
@@ -766,6 +862,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 ### D11. Logística — 3º ano, 64 h oficiais
 
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC (inclui Tecnologia em Logística) + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 29–31):** Compreender os conceitos básicos de logística e estratégias de distribuição.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Conceitos básicos de logística; Análise da cadeia de suprimentos; Compras, planejamento e controle de materiais; Movimentação, armazenagem e abastecimento para a produção; Análise da logística de distribuição dos produtos: recebimento, armazenagem, expedição, transportes e distribuição; Informações do sistema logístico; Identificação e gerenciamento de custos; Estratégias de logística; Gerenciamento de operações globais; Classificação de materiais por importância operacional e valor de consumo anual (ABC) (habilidade do PPC); Métodos e técnicas de gerenciamento de estoque (habilidade do PPC); Canais de distribuição (habilidade do PPC); Logística reversa (habilidade do PPC); Modais de transporte: vantagens e desvantagens (habilidade do PPC).
+
 **Correspondência com o PPC:** suprimentos, estoque, distribuição, logística reversa e custos. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
 **Projeto de aprendizagem:** simulação de entrega e pós-venda para e-commerce educacional. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou?
@@ -783,6 +885,12 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 **Validação:** A decisão combina custo, nível de serviço e sustentabilidade?. **Responsabilidades:** docente do componente elabora e aplica ensino/avaliações oficiais; orientador articula casos, parcerias, instrumentos, integração e evidências mediante acordo institucional pós-aprovação. **Conexão horizontal:** escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária.
 
 ### D12. Práticas de Marketing — 3º ano, 64 h oficiais
+
+**Habilitação do docente (PPC):** Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica.
+
+**Objetivo de aprendizagem (PPC, pp. 31–33):** Compreender o funcionamento e as ações envolvidas nas práticas de marketing.
+
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Rotinas administrativas e gerenciais de uma agência de marketing; Organograma de agência de marketing; Planejamento de marketing; Estudo de cenários de negócios, diagnóstico e controle necessários ao planejamento estratégico da organização; Tendências esperadas do mercado consumidor; Planejamento estratégico corporativo e unidades de negócios; Plano de marketing (execução de uma agência de marketing); Sumário executivo; Análise de ambiente; Definição do público-alvo; Posicionamento de mercado: como o cliente vê o seu negócio; Importância da marca; Definição de objetivos e metas; Definição das estratégias de marketing; Composto de marketing; Implementação do plano de marketing; Avaliação e controle; Segmentação de mercado (tipologia e possibilidades) (habilidade do PPC); Desenvolvimento de produtos, ciclo de vida e processos de adoção (habilidade do PPC); Canais de marketing (habilidade do PPC); Comunicação integrada de marketing (habilidade do PPC).
 
 **Correspondência com o PPC:** rotina de agência, diagnóstico, plano, execução, controle e avaliação. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
@@ -865,24 +973,24 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 ### G2. Dicionário operacional dos indicadores
 
-| ID | Indicador / fórmula | Recorte e fonte | Periodicidade e alerta |
-| --- | --- | --- | --- |
-| K01 | Domínio por competência = soma de pontos da rubrica / avaliações válidas (0–4) | aluno/série/competência; rubricas assinadas | trimestral; comparar com diagnóstico e cobertura |
-| K02 | Evolução = média atual da competência − média basal comparável | mesma rubrica, mesmas condições; avaliações individuais | trimestral; sem dado basal, “não mensurável” |
-| K03 | Entregas no prazo = entregas pontuais / entregas previstas elegíveis ×100 | diário de projetos, prazos e exceções | mensal; registrar atrasos por causa |
-| K04 | Portfólios válidos = alunos com pacote mínimo / alunos avaliáveis ×100 | checklist individual e sistema institucional | trimestral; distinguir “ausente” de “não avaliado” |
-| K05 | Aulas práticas comprovadas = encontros técnicos com artefato/evidência / encontros técnicos ocorridos ×100 | diário, artefatos e plano de aula | mensal; meta inicial proposta >=60% após estudo de viabilidade |
-| K06 | Participação ativa = alunos com contribuição rastreável / alunos presentes elegíveis ×100 | observação, fichas e versões | mensal; não medir por login de plataforma |
-| K07 | Defesa individual suficiente = alunos com rubrica >=2 / alunos avaliados ×100 | apresentação individual | trimestral; publicar N e taxa de cobertura |
-| K08 | Uso crítico de IA = alunos com fonte e declaração válida / alunos que usaram IA na atividade ×100 | log de uso de IA, registros do exercício | trimestral; não premiar uso compulsório |
-| K09 | Qualidade de projeto = projetos aprovados em 5 checks / projetos avaliados ×100 | checklist de briefing, fonte, ética, KPI e defesa | trimestral; se poucos projetos, mostrar contagem |
-| K10 | Participação interdocente = docentes com projeto formal / docentes convidados ×100 | fichas de briefing e aceite | semestral; preservar adesão voluntária e papéis |
-| K11 | Satisfação discente = respostas positivas (4–5) / respostas válidas ×100 | escuta com questionário anônimo e taxa resposta | semestral; citar viés de não resposta |
-| K12 | Permanência = matriculados no fechamento / matriculados elegíveis no início ×100 | secretaria; critérios de transferência explícitos | anual; não inferir causalidade do programa |
-| K13 | Frequência média = presenças registradas / oportunidades oficiais de presença ×100 | registros escolares oficiais | trimestral; regência da SED prevalece |
-| K14 | Formação docente = participantes com exercício demonstrado / docentes inscritos ×100 | listas/artefatos voluntários após aceite | semestral; não criar ranking punitivo |
-| K15 | Visitas com aprendizagem = visitas com roteiro e relatório / visitas executadas ×100 | atas e portfólios | anual; sem visitas = “não aplicável”, não 0% |
-| K16 | Interesse pelo curso = matrículas/inscrições válidas por ano, sempre com contexto | secretaria, campanhas e capacidade instalada | anual; nunca afirmar impacto sem comparação contextual |
+| ID | Indicador / fórmula | Recorte e fonte | Periodicidade e alerta | Responsável | Risco de viés |
+| --- | --- | --- | --- | --- | --- |
+| K01 | Domínio por competência = soma de pontos da rubrica / avaliações válidas (0–4) | aluno/série/competência; rubricas assinadas | trimestral; comparar com diagnóstico e cobertura | Docentes; coordenação valida | dificuldade desigual dos instrumentos (G5) |
+| K02 | Evolução = média atual da competência − média basal comparável | mesma rubrica, mesmas condições; avaliações individuais | trimestral; sem dado basal, “não mensurável” | Docente titular | avaliação de retorno mais fácil que a diagnóstica (G5) |
+| K03 | Entregas no prazo = entregas pontuais / entregas previstas elegíveis ×100 | diário de projetos, prazos e exceções | mensal; registrar atrasos por causa | Líder da equipe valida; docente audita | registro tardio de entregas |
+| K04 | Portfólios válidos = alunos com pacote mínimo / alunos avaliáveis ×100 | checklist individual e sistema institucional | trimestral; distinguir “ausente” de “não avaliado” | Docentes | ausente não é o mesmo que não avaliado |
+| K05 | Aulas práticas comprovadas = encontros técnicos com artefato/evidência / encontros técnicos ocorridos ×100 | diário, artefatos e plano de aula | mensal; meta inicial proposta >=60% após estudo de viabilidade | Coordenação + docentes | registro seletivo de encontros |
+| K06 | Participação ativa = alunos com contribuição rastreável / alunos presentes elegíveis ×100 | observação, fichas e versões | mensal; não medir por login de plataforma | Docentes | presença registrada sem contribuição real |
+| K07 | Defesa individual suficiente = alunos com rubrica >=2 / alunos avaliados ×100 | apresentação individual | trimestral; publicar N e taxa de cobertura | Docentes | N pequeno de defesas |
+| K08 | Uso crítico de IA = alunos com fonte e declaração válida / alunos que usaram IA na atividade ×100 | log de uso de IA, registros do exercício | trimestral; não premiar uso compulsório | Docentes | uso de IA declarado de forma parcial |
+| K09 | Qualidade de projeto = projetos aprovados em 5 checks / projetos avaliados ×100 | checklist de briefing, fonte, ética, KPI e defesa | trimestral; se poucos projetos, mostrar contagem | Docentes + avaliador externo quando possível | N pequeno de projetos |
+| K10 | Participação interdocente = docentes com projeto formal / docentes convidados ×100 | fichas de briefing e aceite | semestral; preservar adesão voluntária e papéis | Orientador | adesão voluntária pode enviesar o resultado |
+| K11 | Satisfação discente, percepção de valor e motivação = respostas positivas (4–5) / respostas válidas ×100, por item | escuta com questionário anônimo, taxa resposta e linha de base | semestral; citar viés de não resposta | Coordenação | não resposta superestima aceitação (G5) |
+| K12 | Permanência = matriculados no fechamento / matriculados elegíveis no início ×100 | secretaria; critérios de transferência explícitos | anual; não inferir causalidade do programa | Gestão | transferências não contadas |
+| K13 | Frequência média = presenças registradas / oportunidades oficiais de presença ×100 | registros escolares oficiais | trimestral; regência da SED prevalece | Gestão | registros de frequência inconsistentes |
+| K14 | Formação docente = participantes com exercício demonstrado / docentes inscritos ×100 | listas/artefatos voluntários após aceite | semestral; não criar ranking punitivo | Coordenação | adesão voluntária, sem ranking punitivo |
+| K15 | Visitas com aprendizagem = visitas com roteiro e relatório / visitas executadas ×100 | atas e portfólios | anual (ciclo de visitas é anual, §14.6); sem visitas = “não aplicável”, não 0% | Orientador + direção | visitas não realizadas tratadas como 0% |
+| K16 | Interesse pelo curso = matrículas/inscrições válidas por ano, sempre com contexto | secretaria, campanhas e capacidade instalada | anual; nunca afirmar impacto sem comparação contextual | Gestão | sazonalidade e campanhas pontuais |
 
 ### G3. Quadro institucional de gestão trimestral (template)
 
@@ -994,6 +1102,27 @@ Derivada dos laboratórios e validações de cada caderno do Anexo D. Cada uso e
 **Legenda:** R executa; A responde pela aprovação/decisão; C consultado; I informado. A matriz não altera atribuições legais/funcionais da escola e será ajustada após deliberação.
 
 
+### I4. Habilitação docente por componente, conforme o PPC (BS27)
+
+Os requisitos abaixo são transcritos do PPC (pp. 10–33). Um professor orientador só ministra um componente oficialmente se atender ao requisito e for designado formalmente.
+
+| Componente | Habilitação exigida pelo PPC |
+| --- | --- |
+| Administração de Marketing | Curso superior em área de gestão/negócios (lista oficial: Economia, Administração, Marketing etc.) + licenciatura EPT ou complementação pedagógica |
+| Design Gráfico | Mesma lista geral de graduações de gestão/negócios do PPC (sem graduação específica em design) + licenciatura EPT ou complementação pedagógica |
+| Comportamento do Consumidor | Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica |
+| Legislação Aplicada | Graduação em Direito ou Ciências Jurídicas e Sociais + licenciatura EPT ou complementação pedagógica (requisito específico, distinto dos demais componentes) |
+| Desenvolvimento de Produtos | Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica |
+| Marketing Digital | Mesma lista geral de graduações de gestão/negócios do PPC (inclui Marketing e Tecnologia em Marketing Digital) + licenciatura EPT ou complementação pedagógica |
+| Estratégia de Marketing | Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica |
+| Comunicação em Marketing | Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica |
+| Gestão de Eventos | Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica |
+| Promoção de Vendas | Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica |
+| Logística | Mesma lista geral de graduações de gestão/negócios do PPC (inclui Tecnologia em Logística) + licenciatura EPT ou complementação pedagógica |
+| Práticas de Marketing | Mesma lista geral de graduações de gestão/negócios do PPC + licenciatura EPT ou complementação pedagógica |
+
+**Atenção:** o PPC exige, para Legislação Aplicada, formação em Direito ou Ciências Jurídicas e Sociais, e não a lista geral de graduações de gestão. Para Design Gráfico, a lista oficial não cita graduação específica em design. A escola deve confirmar essas condições ao inventariar os docentes (Anexo J1).
+
 ## ANEXO J | Infraestrutura, investimentos e estudo de viabilidade
 
 ### J1. Inventário mínimo antes da operação
@@ -1090,7 +1219,7 @@ A apresentação visual não substitui este Plano Diretor completo; ela traduz o
 - **Páginas 7–9:** Atividades Integradoras EPT e possibilidade de projetos, visitas e interdisciplinaridade; sem contratação de professor específica.
 - **Páginas 10–17:** Administração, Design, Comportamento e Legislação, incluindo habilitações formais.
 - **Páginas 17–25:** Desenvolvimento de Produtos, Marketing Digital, Estratégia, Comunicação.
-- **Páginas 26–32:** Eventos, Promoção, Logística, Práticas.
+- **Páginas 25–33:** Gestão de eventos, Promoção de vendas, Logística, Práticas de Marketing.
 - **Páginas 34–37:** aprendizagem baseada em problemas, projetos, equipes, oficinas e portfólios.
 - **Páginas 38–40:** avaliação, instrumentos mínimos, recuperação paralela e critérios de acompanhamento.
 - **Página 43 do PDF:** assinaturas e identificação do processo SED 00178627/2026.
@@ -1113,4 +1242,236 @@ A apresentação visual não substitui este Plano Diretor completo; ela traduz o
 - Nunca retirar a seção de restrições, indicadores sem resultados e condicionantes da Direção para “embelezar” o documento.
 - Atualizar datas de consulta e versão ao revisar fontes em nova emissão.
 - Não acrescentar logos, assinaturas, depoimentos, preços, horários de visitas ou parcerias inexistentes.
+
+## ANEXO N | Matriz-mestra de rastreabilidade curricular (PPC × Markdown)
+
+Esta matriz cumpre o §3.1 da matriz de brainstorming: uma tabela por componente técnico, com cada campo marcado como **EXPLÍCITO_PPC** (transcrição do PPC), **APLICAÇÃO_DIDÁTICA** (proposta do caderno do Anexo D), **ENRIQUECIMENTO_PROPOSTO** (acréscimo fora do PPC) ou **PENDENTE_DE_VALIDAÇÃO** (depende do docente habilitado). Os conteúdos são copiados dos cadernos do Anexo D e do PPC; nada foi acrescentado além do que já consta do documento.
+
+### N-D01. Administração de Marketing — 1º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 1º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D01 (31 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 10–12 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Compreender as linhas gerais das ações concernentes à administração de marketing. | EXPLÍCITO_PPC |
+| Prática de laboratório | planilha SWOT, formulários institucionais, quadro Kanban, NotebookLM com leituras aprovadas. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | planilha SWOT, formulários institucionais, quadro Kanban, NotebookLM com leituras aprovadas. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | diagnóstico da comunicação de uma iniciativa escolar. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Mapa de oportunidade; briefing; plano sintético com defesa; relatório de revisão. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D02. Design Gráfico — 1º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 1º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D02 (14 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 12–14 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Capacitar os alunos com as habilidades essenciais de design, incluindo princípios do design da informação, ferramentas de edição de texto, diagramação, imagem e vídeo, a serem aplicadas na criação de projetos gráficos completos, desde a concepção inicial, planejamento, execução, até a finalização para produção digital e/ou impressão gráfica. | EXPLÍCITO_PPC |
+| Prática de laboratório | Canva Educação se liberado, Penpot, Inkscape, GIMP, Shotcut/Kdenlive; IA apenas com registro. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | Canva Educação se liberado, Penpot, Inkscape, GIMP, Shotcut/Kdenlive; IA apenas com registro. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | identidade de campanha de professor e peças multiformato. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Manual visual sintético; peças digital/impressa; vídeo com créditos; arquivos-fonte e comparativo de versões. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D03. Comportamento do Consumidor — 1º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 1º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D03 (9 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 14–16 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Fornecer uma compreensão aprofundada dos fatores que influenciam as escolhas dos consumidores. Os alunos irão explorar teorias psicológicas e sociais subjacentes ao comportamento de compra, permitindo-lhes desenvolver estratégias de marketing mais eficazes e tomar decisões informadas baseadas nas necessidades e desejos dos consumidores. | EXPLÍCITO_PPC |
+| Prática de laboratório | formulário aprovado, planilha, NotebookLM para teoria e roteiro de síntese. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | formulário aprovado, planilha, NotebookLM para teoria e roteiro de síntese. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | pesquisa ética de preferências para evento escolar. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Questionário; relatório de amostra; segmentação justificável; pitch. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D04. Legislação Aplicada — 1º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 1º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D04 (9 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 16–17 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Conhecer noções gerais relativas ao Direito Empresarial e ao Direito do Consumidor. | EXPLÍCITO_PPC |
+| Prática de laboratório | fontes legais oficiais, quadro de riscos, fichas de casos e documentos anonimizados. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | fontes legais oficiais, quadro de riscos, fichas de casos e documentos anonimizados. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | revisão jurídica pedagógica de campanha simulada. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Parecer pedagógico de riscos e checklist; caso comentado. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D05. Desenvolvimento de Produtos — 2º ano, 96 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 2º ano · 96 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D05 (13 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 17–19 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Oportunizar aos estudantes compreender os processos fundamentais de concepção, design e lançamento de produtos, fornecendo-lhes habilidades práticas em pesquisa de mercado, inovação, desenvolvimento de protótipos e estratégias de posicionamento, a fim de prepará-los para desafios contemporâneos e competitivos no mercado de marketing. | EXPLÍCITO_PPC |
+| Prática de laboratório | formulários, planilhas, FigJam/Penpot ou equivalente, prototipagem e IA para comparar hipóteses. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | formulários, planilhas, FigJam/Penpot ou equivalente, prototipagem e IA para comparar hipóteses. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | proposta de serviço ou produto para necessidade identificada na escola/comunidade. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Pesquisa, protótipo, teste registrado e relatório de decisão. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D06. Marketing Digital — 2º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 2º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D06 (13 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 19–21 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Analisar e compreender os elementos e ações envolvidas no marketing digital e e-commerce. | EXPLÍCITO_PPC |
+| Prática de laboratório | Google Sheets/LibreOffice, plataformas demonstrativas, formulários, Canva e NotebookLM; sem gasto real sem autorização. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | Google Sheets/LibreOffice, plataformas demonstrativas, formulários, Canva e NotebookLM; sem gasto real sem autorização. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | campanha digital de iniciativa escolar ou negócio simulado. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Plano digital, peças, planilha de custos e painel com taxa de conversão calculada. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D07. Estratégia de Marketing — 2º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 2º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D07 (15 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 21–23 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Capacitar os participantes a compreender, desenvolver e implementar estratégias de marketing eficazes para alcançar metas de negócios. Os alunos aprenderão a analisar o mercado, identificar oportunidades, posicionar produtos ou serviços e criar planos estratégicos de marketing que impulsionam o sucesso empresarial. | EXPLÍCITO_PPC |
+| Prática de laboratório | canvas de estratégia, planilhas, diagrama de jornada e IA com validação humana. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | canvas de estratégia, planilhas, diagrama de jornada e IA com validação humana. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | estratégia de lançamento para produto de projeto integrado. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Plano estratégico de 5–8 páginas, matriz de ações e pitch. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D08. Comunicação em Marketing — 2º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 2º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D08 (12 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 23–25 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Compreender os elementos e as ações envolvidas nas estratégias de comunicação de marketing e saber pô-las em prática. | EXPLÍCITO_PPC |
+| Prática de laboratório | editor de texto, Canva, áudio/vídeo, storyboard, NotebookLM de referências autorizadas. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | editor de texto, Canva, áudio/vídeo, storyboard, NotebookLM de referências autorizadas. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | campanha educativa com professor de outra área. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Roteiro, peças, vídeo, pitch e checklist de acessibilidade. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D09. Gestão de Eventos — 3º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 3º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D09 (19 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 25–27 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Conhecer os princípios gerais e as ações pertinentes à gestão de eventos. | EXPLÍCITO_PPC |
+| Prática de laboratório | Kanban, planilha financeira, cronograma, formulários anônimos e comunicação institucional. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | Kanban, planilha financeira, cronograma, formulários anônimos e comunicação institucional. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | mostra de marketing/projetos interdisciplinares na escola. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Plano de evento, checklists, registros autorizados e relatório pós-evento. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D10. Promoção de Vendas — 3º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 3º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D10 (13 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 28–30 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Habilitar os estudantes para o trato com os elementos e ações que respondem pela promoção de vendas e merchandising. | EXPLÍCITO_PPC |
+| Prática de laboratório | mockups, planilhas de preço/volume, editor de peças, fotografia autorizada. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | mockups, planilhas de preço/volume, editor de peças, fotografia autorizada. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | ação promocional simulada para produto de laboratório. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Plano promocional, peças, custos, cenário e defesa. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D11. Logística — 3º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 3º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D11 (14 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 29–31 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Compreender os conceitos básicos de logística e estratégias de distribuição. | EXPLÍCITO_PPC |
+| Prática de laboratório | planilha de estoque, mapa de processo, quadro de tarefas e calculadora. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | planilha de estoque, mapa de processo, quadro de tarefas e calculadora. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | simulação de entrega e pós-venda para e-commerce educacional. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Fluxograma, planilha e relatório com decisão. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+
+### N-D12. Práticas de Marketing — 3º ano, 64 h
+
+| Campo | Conteúdo | Marcação |
+| --- | --- | --- |
+| Série e carga oficial | 3º ano · 64 h (PPC, Matriz, p. 4) | EXPLÍCITO_PPC |
+| Objetos do conhecimento | Lista oficial no caderno D12 (21 itens; itens de habilidade marcados) | EXPLÍCITO_PPC |
+| Página do PPC | pp. 31–33 (paginação textual do PPC) | EXPLÍCITO_PPC |
+| Objetivo do encontro | A definir no plano de aula do docente habilitado; não há objetivo por encontro no PPC nem no Markdown | PENDENTE_DE_VALIDAÇÃO |
+| Fundamento conceitual | Compreender o funcionamento e as ações envolvidas nas práticas de marketing. | EXPLÍCITO_PPC |
+| Prática de laboratório | Kanban, repositório, planilhas, dashboard, ferramentas criativas e IA crítica. Em todos os encontros, registrar conceito-chave, tarefa, fonte e artefato; o aluno deve mostrar decisões próprias, inclusive quando utilizar IA. | APLICAÇÃO_DIDÁTICA |
+| Ferramenta candidata | Kanban, repositório, planilhas, dashboard, ferramentas criativas e IA crítica. (ferramentas sujeitas a licença, idade e autorização) | APLICAÇÃO_DIDÁTICA |
+| Projeto associado | projeto integrador final supervisionado. **Questão norteadora:** qual problema existe, para quem, por que importa, quais evidências temos e como saberemos que melhorou? | APLICAÇÃO_DIDÁTICA |
+| Tarefa individual | Produção individual e defesa individual conforme a rubrica do caderno (ver Prova individual) | APLICAÇÃO_DIDÁTICA |
+| Prova | caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Rubrica | fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
+| Segurança e IA | Uso de IA somente com registro e checagem; protocolo no Anexo H1–H2 e matriz H5; dados e imagens somente com autorização | ENRIQUECIMENTO_PROPOSTO |
+| Conexão interdisciplinar | escolher ao menos uma área da formação geral para revisar conteúdo factual e receber crédito. **Conexão longitudinal:** reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. reaproveitar o artefato em projetos posteriores, sem dupla contagem de carga horária. | APLICAÇÃO_DIDÁTICA |
+| Evidência em portfólio | Dossiê do cliente, plano, artefatos, evidências e defesa individual. **Prova individual:** caso com questão conceitual, situação prática, justificativa e um erro a identificar. **Rubrica:** fundamento 25%; pesquisa 20%; técnica 20%; dados/resultado 15%; defesa 10%; ética/autoria 10% (pesos de referência a adaptar). | APLICAÇÃO_DIDÁTICA |
 
