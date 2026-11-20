@@ -1,41 +1,41 @@
-# QA_REPORT — Plano Diretor Pedagógico Marketing 2027–2029, V5 revisado (v4)
+# QA_REPORT — Plano Diretor Pedagógico Marketing 2027–2029, V5.1 (proposta, não homologada)
 
 **Status:** PUBLICADO PARA AUDITORIA INDEPENDENTE — NÃO CERTIFICADO; NÃO APROVADO PELA DIREÇÃO.
-**Recomendação:** **HOLD** (ver BS_TRACEABILITY_REPORT.md: G-BS-02 PARCIAL; objetivo por encontro e atividade por objeto pendentes).
+**Porta 1 (revisão documental):** ATENDIDA. **Porta 2 (aprovação institucional):** PENDENTE. **Porta 3 (prontidão operacional):** PENDENTE.
+**Recomendação:** READY_FOR_INDEPENDENT_AUDIT, para a porta 1 apenas (BS_TRACEABILITY_REPORT.md).
 
 ## Hashes
-- Markdown canônico: `8c6500805940b32894d7b413b1ff1038f6f79b027baf4d207ecb18fb378df0ba`
-- DOCX: `07add14dee14bed37de35f59bc3ad59f6e0bdfc501cfe6edf8cca695f4fb5142`
-- PDF: `1150ab3470e30f7c1c1948988117862f983be28cf9dbcd5548c09809f6f49b63`
-- Demais hashes: SHA256SUMS.txt.
+- Markdown V5.1 (canônico): `729971e9e71bf96572ce77bb49362e58085b9ada2b560d2bb6e2fcecc0ed14b7`
+- DOCX V5.1: `0ca844ac9ff674806edfa005415ad041cae73f39dde659a7f832bd09e0769e7c`
+- PDF V5.1: `859b5b61c0b3c5476f3411a665fa4894a43f16502d28a127f72c393a6630efa4`
+- Demais: SHA256SUMS.txt. Artefatos V5.0: `output/historico-v5/`.
 
 ## Dimensões
-- PAGE_COUNT: **78** (A4). PNGs de prova locais: 78 (`output/proof-png/`, não versionados).
-- Sumário (TOC): gerado em duas passagens; números de página estáveis.
+- PAGE_COUNT: **100** (A4). PNGs de prova: 100 em `output/proof-png/` (locais, não versionadas).
+- Sumário gerado em duas passagens; números de página estáveis.
 
 ## Verificações executadas
-1. **Preservação de conteúdo** (`tools/qa_source.py`): 2.269 itens de texto do Markdown encontrados no DOCX; 0 ausentes. 56 tabelas do Markdown presentes (contagem de linhas, sem faltantes).
-2. **Diferença contra a versão publicada (a795e98):** 22 linhas originais substituídas, todas listadas em DELTA_REPORT.md. Nenhuma outra linha perdida.
-3. **Aritmética e PPC:** tabela V do PPC conferida (3.000 = 2.200 + 800; 120 h integradoras dentro da FGB; 1º 256 · 2º 288 · 3º 256 h). Os 183 objetos e os 12 componentes foram auditados (CURRICULAR_ALIGNMENT_AUDIT.md).
-4. **Layout:** inspeção visual das páginas alteradas (§2.1, §9, §15, Anexo B2, C4, D01–D12, G2, H5, I4, N). Páginas com pouco texto (17, 19, 50, 64) são fins de seção. Um cabeçalho de tabela fica em página seguinte (B2), cosmético.
-5. **Cabeçalhos, rodapés, quebras de página e tabelas com cabeçalho repetido:** conferidos nas páginas alteradas.
+1. **Preservação de texto** (`tools/qa_source.py`): 3.952 itens do Markdown V5.1 presentes no DOCX; 0 ausentes. Tabelas: nenhuma faltante.
+2. **Unidades:** 183 de 183 itens atribuídos a uma única unidade; nenhuma duplicata; nenhum campo de unidade vazio (script `tools/ppc_units.py`, verificado).
+3. **Cargas e PPC:** tabela V conferida (3.000 = 2.200 + 800; 120 h dentro da FGB; técnicas 256 + 288 + 256).
+4. **Diferença contra V5.0 (c9696f2):** nenhuma linha original alterada além das listadas em DELTA_REPORT.md (V51-01 a V51-06 e os ajustes de K15 e I4).
+5. **Layout:** páginas alteradas inspecionadas (§12.4, I4, Anexo O, unidades D01–D12, mapa de 183 itens). Anexo B2: intro mantido com a tabela (`keep_with_next`).
+6. **Links:** CNCT 403; gov.br 429; UNESCO sem resposta (3). Demais 200. Não confirmados.
 
 ## Não executado
-- Validação OOXML no Word. A renderização usou LibreOffice 24.2.
-- Comparação do hash do PPC com referência anterior: não há referência registrada.
-- Links de benchmarks: 3 UNESCO sem resposta; 2 CNCT (403 e 429). Os demais responderam 200.
-- Confirmação, com o docente habilitado, da atividade de cada objeto e do objetivo por encontro (PENDENTE_DE_VALIDAÇÃO).
+- Validação OOXML no Word; renderização por LibreOffice 24.2.
+- Comparação do hash do PPC com referência anterior (não registrada).
+- Validação docente das unidades e atribuições (porta 3).
 
 ## Reprodução
 ```bash
 cd docs/plano-diretor-2027-2029
-python3 tools/apply_v3.py <md_commit_a795e98> /tmp/v3.md /tmp/v3.json
-python3 tools/apply_v4.py /tmp/v3.md Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md /tmp/v4.json
-python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md /tmp/p1.docx output/assets
-soffice --headless --convert-to pdf --outdir /tmp /tmp/p1.docx
-python3 tools/pagemap.py /tmp/p1.pdf /tmp/p1.docx.toc.json /tmp/pagemap.json
-python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx output/assets /tmp/pagemap.json
-soffice --headless --convert-to pdf --outdir output output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx
-python3 tools/qa_source.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5.docx
+python3 tools/apply_v5_1.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md /tmp/v51.json
+python3 tools/make_audit.py <screening.json> output/CURRICULAR_ALIGNMENT_AUDIT.md
+python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md /tmp/p1.docx output/assets
+soffice --headless --convert-to pdf --outdir /tmp /tmp/p1.docx && python3 tools/pagemap.py /tmp/p1.pdf /tmp/p1.docx.toc.json /tmp/pagemap.json
+python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5_1.docx output/assets /tmp/pagemap.json
+soffice --headless --convert-to pdf --outdir output output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5_1.docx
+python3 tools/qa_source.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5_1.docx
 ```
-`apply_v3.py` e `apply_v4.py` não são idempotentes: rodar de novo sobre o próprio resultado falha nas asserções, de propósito.
+`apply_v5_1.py` não é idempotente: rodar sobre o próprio resultado falha nas asserções, de propósito.

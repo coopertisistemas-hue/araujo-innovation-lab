@@ -312,7 +312,7 @@ def maybe_figs(raw):
 # ---------- header / footer ----------
 hdr = sec.header
 hp = hdr.paragraphs[0]; hp.text = ""
-add_inline(hp, "PLANO DIRETOR PEDAGÓGICO — MARKETING 2027–2029  ·  VERSÃO 5.0  ·  PROPOSTA NÃO HOMOLOGADA", size=7.5, color=GREY)
+add_inline(hp, "PLANO DIRETOR PEDAGÓGICO — MARKETING 2027–2029  ·  VERSÃO 5.1  ·  PROPOSTA NÃO HOMOLOGADA", size=7.5, color=GREY)
 hp.alignment = WD_ALIGN_PARAGRAPH.RIGHT
 para_border(hp, "bottom", GOLD, sz=6, space=4)
 
@@ -327,7 +327,7 @@ add_field(fp, "NUMPAGES", size=7.5)
 # first-page footer intentionally blank (cover)
 
 cp = doc.core_properties
-cp.title = "Plano Diretor Pedagógico de Marketing 2027–2029 — Proposta v5.0 (não homologada)"
+cp.title = "Plano Diretor Pedagógico de Marketing 2027–2029 — Proposta v5.1 (não homologada)"
 cp.author = "Araujo Innovation Lab"; cp.subject = "Proposta para deliberação da Direção"
 cp.keywords = "PPC SED 00178627/2026; Técnico em Marketing; proposta não homologada"
 
@@ -350,7 +350,7 @@ badge.paragraph_format.space_before = Pt(6); badge.paragraph_format.space_after 
 shade(badge._p.get_or_add_pPr(), NAVY)
 badge.paragraph_format.left_indent = Cm(0.2); badge.paragraph_format.right_indent = Cm(0.2)
 
-para("Urubici/SC  ·  Período 2027–2029  ·  Versão 5.0", size=10, color=INK, align=WD_ALIGN_PARAGRAPH.CENTER, before=10, after=30)
+para("Urubici/SC  ·  Período 2027–2029  ·  Versão 5.1", size=10, color=INK, align=WD_ALIGN_PARAGRAPH.CENTER, before=10, after=30)
 callout(L[9][1:].strip().lstrip("> ").strip() if False else L[9].lstrip("> ").strip(), size=9.5)
 
 page_break()
@@ -363,7 +363,7 @@ callout(L[13].lstrip("> ").strip(), size=9.5)
 ctrl = [
  ["Campo", "Registro"],
  ["Documento", "Plano Diretor Pedagógico de Marketing 2027–2029 (proposta integral)"],
- ["Versão / data", "5.0 · 19/11/2026 (conforme cabeçalho da fonte)"],
+ ["Versão / data", "5.1 · 20/11/2026. Histórico: V5.0 (19/11/2026), preservada como fonte histórica; V5.1 inclui unidades propostas (Anexo O) e portas separadas (§12.4)."],
  ["Status", "Proposta para deliberação da Direção — não homologada. Aprovação pendente; nenhuma assinatura ou aprovação registrada neste documento."],
  ["Referência oficial", "PPC EMIEP Técnico em Marketing, Secretaria de Estado da Educação de SC, processo SED 00178627/2026 (assinado em 03/09/2026, conforme seção 17)."],
  ["Finalidade", "Submeter à Direção a proposta completa de modernização metodológica do Técnico em Marketing, com anexos, indicadores, segurança e critérios de decisão, sem alterar unilateralmente a matriz oficial."],
@@ -458,10 +458,10 @@ for bi, (kind, val, raw) in enumerate(blocks):
         p.paragraph_format.tab_stops.add_tab_stop(Cm(0.7))
         add_inline(p, "☐\t" + val, size=10.5, color=INK)
     else:  # p
-        if raw.startswith("**") and ":" in raw[:40] and False:
-            pass
         p = doc.add_paragraph(); add_inline(p, val, size=10.5, color=INK)
         p.paragraph_format.space_after = Pt(6)
+        if bi+1 < len(blocks) and blocks[bi+1][0] == "table":
+            p.paragraph_format.keep_with_next = True
     maybe_figs(raw)
 
 # ---------- CLOSING: decision request ----------
