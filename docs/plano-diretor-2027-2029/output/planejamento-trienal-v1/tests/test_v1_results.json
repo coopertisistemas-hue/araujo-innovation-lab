@@ -1,0 +1,107 @@
+[
+ {
+  "name": "Estrutura: seções 1–21 presentes, em ordem",
+  "pass": true,
+  "detail": "['19', '20', '21']"
+ },
+ {
+  "name": "Anexos: A–J presentes, em ordem",
+  "pass": true,
+  "detail": "ABCDEFGHIJ"
+ },
+ {
+  "name": "Divisor 'ANEXOS OPERACIONAIS PROPOSTOS' presente",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "Componentes: 12 técnicos (D01–D12) em §10",
+  "pass": true,
+  "detail": "12"
+ },
+ {
+  "name": "Unidades: 49 referenciadas (D01–D12)",
+  "pass": true,
+  "detail": "49 unidades"
+ },
+ {
+  "name": "Cargas: 3.000 h, 2.200 h, 800 h e 120 h citadas",
+  "pass": true,
+  "detail": "{'3.000 h': True, '2.200 h': True, '800 h': True, '120 h integradoras': True}"
+ },
+ {
+  "name": "Cargas por série: 256 h, 288 h e 256 h",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "Duas coortes de 2027 distintas (A ingressante, B concluinte)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "K01 em média ponderada 0–4",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "K15 não aplicável sem visitas",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "K16 é taxa de ocupação",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "Status: NÃO HOMOLOGADA presente",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "Nenhuma afirmação de aprovação alcançada (negações ignoradas)",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "name": "Dados sem números fictícios: 'SEM DADOS' presente",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "Nomes de docentes só aparecem com 'a confirmar' (governança)",
+  "pass": true,
+  "detail": "{'Letícia Meurer': True, 'José Alexandre': True}"
+ },
+ {
+  "name": "DOCX: 5 figuras com texto alternativo",
+  "pass": true,
+  "detail": "5"
+ },
+ {
+  "name": "DOCX: rodapé com 20/11/2026",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "DOCX: cabeçalho com NÃO HOMOLOGADO",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "PDF: número de páginas registrado",
+  "pass": true,
+  "detail": "50"
+ },
+ {
+  "name": "Sumário: todas as entradas com número de página",
+  "pass": true,
+  "detail": "33 entradas"
+ },
+ {
+  "name": "PDF: texto de expediente presente",
+  "pass": true,
+  "detail": ""
+ }
+]
