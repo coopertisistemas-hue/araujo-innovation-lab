@@ -1,7 +1,7 @@
 # BS_TRACEABILITY_REPORT — 28 requisitos do brainstorming × V5.1
 
 - Matriz de entrada: `MATRIZ_BS_PLANO_DIRETOR_ARAUJO_V5_PARA_INTEGRACAO.md` (SHA256 `94ca0f389802668de289bd60b5371dc656ae8f3877bbca88f8d25105aa9f2714`).
-- Documento-alvo V5.1: `Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md` (SHA256 `13d5bc05d0026486f230076901e1dedbda83f6cff52e452c485ba8fd915dda23`).
+- Documento-alvo V5.1: `Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md` (SHA256 `48f5b2929583e73277759d68314a43528cf0e9961bd551f3e0a761815e6f052e`).
 - Fonte histórica V5.0: `Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md` (SHA256 `8c6500805940b32894d7b413b1ff1038f6f79b027baf4d207ecb18fb378df0ba`), preservada sem alteração.
 - Auditoria: `CURRICULAR_ALIGNMENT_AUDIT.md` (PPC oficial).
 

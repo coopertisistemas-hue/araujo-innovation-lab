@@ -99,7 +99,7 @@ ppc22 = """### 2.2 Objetivos e perfil profissional oficiais (PPC, II–IV)
 **Certificações intermediárias (PPC, IV):** ao concluir a 1ª série, Assistente de Vendas; ao concluir a 2ª série, Assistente de Marketing; ao concluir os três anos, Técnico em Marketing.
 
 """
-sub("### 2.1 Mapa integrado dos pilares do curso (BS10)", ppc22 + "### 2.1 Mapa integrado dos pilares do curso (BS10)", "RC-04 §2.2 objetivos e perfil oficiais (PPC II–IV)")
+sub("## 3 | Referências externas e nivelamento transparente", ppc22 + "## 3 | Referências externas e nivelamento transparente", "RC-04 §2.2 após §2.1 (objetivos e perfil oficiais, PPC II–IV)")
 
 # M2 — access wording reflects what was actually reconfirmed
 sub("### M2. Fontes públicas consultáveis (acesso em 19/11/2026)",

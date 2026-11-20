@@ -73,7 +73,7 @@ pdf_txt = subprocess.run(["pdftotext", "-layout", pdf_p, "-"], capture_output=Tr
 t("PDF: texto de versão 5.1 presente", "Versão 5.1" in pdf_txt)
 t("PDF: nenhum resíduo 'acesso em 19/11/2026'", "acesso em 19/11/2026" not in pdf_txt)
 pages = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", pdf_p], capture_output=True, text=True).stdout).group(1))
-t("PDF: 100 páginas", pages == 100, str(pages))
+t("PDF: 101 páginas (§2.1 antes de §2.2 altera a paginação)", pages == 101, str(pages))
 toc_ok = len(re.findall(r"^## ", md, re.M)) > 0
 t("MD: estrutura de seções com H2 presentes", toc_ok)
 

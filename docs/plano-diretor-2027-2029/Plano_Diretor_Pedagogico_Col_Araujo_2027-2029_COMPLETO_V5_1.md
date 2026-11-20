@@ -44,6 +44,20 @@ Compromissos propostos: tecnologia integrada a todos os encontros técnicos semp
 | Avaliação (pp. 38–40): trimestral, frequência e instrumentos mínimos | Manter avaliação oficial e recuperação paralela; indicadores extras não substituem notas. |
 | Habilitação definida por componente nas ementas | Professor orientador só ministra componente oficialmente se habilitado e formalmente designado. |
 
+### 2.1 Mapa integrado dos pilares do curso (BS10)
+
+O digital e a IA são destaques, mas não substituem os demais pilares. Cada pilar reúne componentes oficiais, ferramentas candidatas e entregas, e todos os pilares são exigidos no percurso.
+
+| Pilar | Componentes oficiais | Fundamento exigido | Ferramentas candidatas | Entrega de referência |
+| --- | --- | --- | --- | --- |
+| Fundamentos, consumidor e direito | Administração de Marketing (1º); Comportamento do Consumidor (1º); Legislação Aplicada (1º) | Mercado, demanda, consumidor, contratos e direito do consumidor | Planilha SWOT, formulários institucionais, NotebookLM com fontes autorizadas | Diagnóstico, pesquisa ética e parecer de risco |
+| Criação e comunicação | Design Gráfico (1º); Comunicação em Marketing (2º) | Tipografia, Gestalt, cor, grid, copywriting e roteiro | Penpot, Inkscape, GIMP, Canva Educação, Shotcut | Identidade, peças, vídeo e pitch |
+| Estratégia e produto | Desenvolvimento de Produtos (2º); Estratégia de Marketing (2º) | Ciclo de produto, posicionamento, segmentação e orçamento | Canvas estratégico, prototipagem, planilhas de custo | Plano estratégico e MVP simulado |
+| Digital e dados | Marketing Digital (2º) | Mídias, tráfego, segmentação e métricas | Analytics demonstrativo, planilhas, CRM simulado, IA supervisionada | Campanha simulada com painel e cálculo de KPI |
+| Operação, eventos e relacionamento | Gestão de Eventos (3º); Promoção de Vendas (3º); Logística (3º); Práticas de Marketing (3º) | Planejamento operacional, merchandising, distribuição e rotina de agência | Kanban, planilhas, cronograma, dashboard | Plano de evento, plano promocional, mapa de distribuição e portfólio final |
+
+SEO, CRM, analytics e automação são **ampliações pedagógicas** do Marketing Digital (§2), não objetos oficiais do componente.
+
 ### 2.2 Objetivos e perfil profissional oficiais (PPC, II–IV)
 
 **Objetivo geral (PPC, II):** formar profissionais críticos, criativos, investigativos, empreendedores, capazes de aliar a competência profissional, científica e humanística para atuarem em diferentes contextos organizacionais e sociais com ética, responsabilidade social e ambiental.
@@ -60,20 +74,6 @@ Compromissos propostos: tecnologia integrada a todos os encontros técnicos semp
 - elaborar estudos de mercado.
 
 **Certificações intermediárias (PPC, IV):** ao concluir a 1ª série, Assistente de Vendas; ao concluir a 2ª série, Assistente de Marketing; ao concluir os três anos, Técnico em Marketing.
-
-### 2.1 Mapa integrado dos pilares do curso (BS10)
-
-O digital e a IA são destaques, mas não substituem os demais pilares. Cada pilar reúne componentes oficiais, ferramentas candidatas e entregas, e todos os pilares são exigidos no percurso.
-
-| Pilar | Componentes oficiais | Fundamento exigido | Ferramentas candidatas | Entrega de referência |
-| --- | --- | --- | --- | --- |
-| Fundamentos, consumidor e direito | Administração de Marketing (1º); Comportamento do Consumidor (1º); Legislação Aplicada (1º) | Mercado, demanda, consumidor, contratos e direito do consumidor | Planilha SWOT, formulários institucionais, NotebookLM com fontes autorizadas | Diagnóstico, pesquisa ética e parecer de risco |
-| Criação e comunicação | Design Gráfico (1º); Comunicação em Marketing (2º) | Tipografia, Gestalt, cor, grid, copywriting e roteiro | Penpot, Inkscape, GIMP, Canva Educação, Shotcut | Identidade, peças, vídeo e pitch |
-| Estratégia e produto | Desenvolvimento de Produtos (2º); Estratégia de Marketing (2º) | Ciclo de produto, posicionamento, segmentação e orçamento | Canvas estratégico, prototipagem, planilhas de custo | Plano estratégico e MVP simulado |
-| Digital e dados | Marketing Digital (2º) | Mídias, tráfego, segmentação e métricas | Analytics demonstrativo, planilhas, CRM simulado, IA supervisionada | Campanha simulada com painel e cálculo de KPI |
-| Operação, eventos e relacionamento | Gestão de Eventos (3º); Promoção de Vendas (3º); Logística (3º); Práticas de Marketing (3º) | Planejamento operacional, merchandising, distribuição e rotina de agência | Kanban, planilhas, cronograma, dashboard | Plano de evento, plano promocional, mapa de distribuição e portfólio final |
-
-SEO, CRM, analytics e automação são **ampliações pedagógicas** do Marketing Digital (§2), não objetos oficiais do componente.
 
 ## 3 | Referências externas e nivelamento transparente
 

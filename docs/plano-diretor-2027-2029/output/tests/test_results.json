@@ -145,9 +145,9 @@
   "detail": ""
  },
  {
-  "name": "PDF: 100 páginas",
+  "name": "PDF: 101 páginas (§2.1 antes de §2.2 altera a paginação)",
   "pass": true,
-  "detail": "100"
+  "detail": "101"
  },
  {
   "name": "MD: estrutura de seções com H2 presentes",
@@ -157,6 +157,6 @@
  {
   "name": "BS_TRACEABILITY: hash do documento-alvo igual ao arquivo atual",
   "pass": true,
-  "detail": "13d5bc05d002"
+  "detail": "48f5b2929583"
  }
 ]
