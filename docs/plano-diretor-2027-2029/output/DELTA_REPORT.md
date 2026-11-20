@@ -6,7 +6,7 @@
 | DOCX | arquivado em `output/historico-v5.1-2de5f71/` | `1fcb818ed63d9c69bc29699b8b1d615af2579d37e77fdbc57ffa8db205a2f0e8` |
 | PDF | arquivado em `output/historico-v5.1-2de5f71/` | `d3f92e6a45b30ffc0e4ed695be015822af46610f4f35c50106fe5b323045b11e` (100 páginas) |
 | Unidades propostas | 48 | 49 (D01 U4 desdobrada) |
-| Testes | não havia | 31/31 (`tests/test_results.json`) |
+| Testes | não havia | 32/32 (`tests/test_results.json`) |
 
 ## Correções obrigatórias
 

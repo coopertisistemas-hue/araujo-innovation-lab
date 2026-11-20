@@ -10,7 +10,7 @@
 - Demais: SHA256SUMS.txt.
 
 ## Testes (tests/test_results.json, `tools/test_release.py`)
-- **31/31 aprovados.**
+- **32/32 aprovados.**
 - Matemática: K01 (exemplo 3,15; limites; 10.000 vetores em [0,4]; defeito antigo quantificado); K15 (75%; não aplicável); K16 (66,7%; não aplicável); carga (256, 288, 256, 800; 744+712+744 = 2.200; 120 dentro; 3.000); mapeamento (183 itens, uma unidade cada; 49 unidades; nenhum campo vazio).
 - Integridade de documento: versão 5.1 no front matter e cabeçalho; sem "Versão 5.0" atual; histórico no Anexo O; afirmação "acesso em 19/11/2026" removida; K01 sem "soma de pontos"; 5 figuras com texto alternativo; rodapé 20/11/2026; PDF com 100 páginas.
 

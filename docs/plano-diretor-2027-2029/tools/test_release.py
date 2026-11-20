@@ -77,6 +77,16 @@ t("PDF: 100 páginas", pages == 100, str(pages))
 toc_ok = len(re.findall(r"^## ", md, re.M)) > 0
 t("MD: estrutura de seções com H2 presentes", toc_ok)
 
+
+# ---------- Traceability hash regression ----------
+import os
+bs_path = os.path.join(os.path.dirname(md_p) or ".", "output", "BS_TRACEABILITY_REPORT.md")
+if os.path.exists(bs_path):
+    bs_txt = open(bs_path, encoding="utf-8").read()
+    actual_md = __import__("hashlib").sha256(open(md_p,"rb").read()).hexdigest()
+    m = re.search(r"Documento-alvo V5\.1:.*?SHA256 `([0-9a-f]{64})`", bs_txt)
+    t("BS_TRACEABILITY: hash do documento-alvo igual ao arquivo atual", bool(m) and m.group(1)==actual_md, (m.group(1)[:12] if m else "ausente"))
+
 # ---------- report ----------
 ok = sum(1 for _,o,_ in results if o)
 for n,o,d in results:

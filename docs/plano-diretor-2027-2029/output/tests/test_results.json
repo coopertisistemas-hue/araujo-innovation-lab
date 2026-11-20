@@ -153,5 +153,10 @@
   "name": "MD: estrutura de seções com H2 presentes",
   "pass": true,
   "detail": ""
+ },
+ {
+  "name": "BS_TRACEABILITY: hash do documento-alvo igual ao arquivo atual",
+  "pass": true,
+  "detail": "13d5bc05d002"
  }
 ]
