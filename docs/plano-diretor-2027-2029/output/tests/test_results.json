@@ -1,0 +1,157 @@
+[
+ {
+  "name": "K01 exemplo: 4/3/2/4/3/1 com pesos 30/20/20/15/10/5 = 3,15",
+  "pass": true,
+  "detail": "resultado 3.15"
+ },
+ {
+  "name": "K01 limites: todos 0 → 0; todos 4 → 4",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "K01 propriedade: 10.000 vetores de níveis 0–4 produzem resultado em [0,4]",
+  "pass": true,
+  "detail": "fora do intervalo: 0"
+ },
+ {
+  "name": "K01 defeito antigo (soma de pontos) saía de 0–4 no exemplo",
+  "pass": true,
+  "detail": "soma antiga = 17"
+ },
+ {
+  "name": "K15 sem visitas: texto da regra presente em §9 e G2 (não aplicável, não 0%)",
+  "pass": true,
+  "detail": "2 linhas"
+ },
+ {
+  "name": "K15 exemplo: 3 de 4 visitas com roteiro e relatório = 75%",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "K15 sem visita devolve não aplicável (None), não 0",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "K16 exemplo: 40 matrículas válidas de 60 vagas = 66,7%",
+  "pass": true,
+  "detail": "66.7%"
+ },
+ {
+  "name": "K16 sem vagas ofertadas devolve não aplicável",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "Carga: 1º (4×64) = 256; 2º (96+3×64) = 288; 3º (4×64) = 256; total técnico = 800",
+  "pass": true,
+  "detail": "soma 800"
+ },
+ {
+  "name": "Carga: FGB 744+712+744 = 2.200; integradoras 3×40 = 120 dentro; curso 2.200+800 = 3.000",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "Mapeamento: 183 itens, cada um em exatamente uma unidade",
+  "pass": true,
+  "detail": "183 atribuições, 183 únicas"
+ },
+ {
+  "name": "Unidades: nenhum campo vazio",
+  "pass": true,
+  "detail": "[]"
+ },
+ {
+  "name": "Unidades: 49 unidades propostas",
+  "pass": true,
+  "detail": "49"
+ },
+ {
+  "name": "MD versão 5.1 no front matter",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "MD sem 'Versão 5.0' como versão atual",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "MD: histórico de versões presente (Anexo O)",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "MD: removida a afirmação 'acesso em 19/11/2026'",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "MD: K01 definido como média ponderada, sem soma de pontos",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "MD: K15 não mistura briefs semestrais no indicador",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "MD: K16 é taxa de ocupação",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "MD: §2.2 objetivos e perfil oficiais presentes",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "MD: Anexo O com 49 unidades",
+  "pass": true,
+  "detail": "49"
+ },
+ {
+  "name": "DOCX: 5 figuras com texto alternativo",
+  "pass": true,
+  "detail": "5 descr"
+ },
+ {
+  "name": "DOCX rodapé com data 20/11/2026",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "DOCX rodapé sem 19/11/2026",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "DOCX cabeçalho com VERSÃO 5.1",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "PDF: texto de versão 5.1 presente",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "PDF: nenhum resíduo 'acesso em 19/11/2026'",
+  "pass": true,
+  "detail": ""
+ },
+ {
+  "name": "PDF: 100 páginas",
+  "pass": true,
+  "detail": "100"
+ },
+ {
+  "name": "MD: estrutura de seções com H2 presentes",
+  "pass": true,
+  "detail": ""
+ }
+]

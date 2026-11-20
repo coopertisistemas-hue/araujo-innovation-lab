@@ -22,7 +22,7 @@
 
 | Código | Componente (PPC) | Série · carga · páginas | Itens | Unidades propostas | Conteúdo | Habilitação |
 |---|---|---|---|---|---|---|
-| D01 | Administração de Marketing | 1º · 64 h · pp. 10–12 | 31 | 4 | DIRECT | DIRECT |
+| D01 | Administração de Marketing | 1º · 64 h · pp. 10–12 | 31 | 5 | DIRECT | DIRECT |
 | D02 | Design Gráfico | 1º · 64 h · pp. 12–14 | 14 | 4 | DIRECT | REQUIRES CLARIFICATION (I4) |
 | D03 | Comportamento do Consumidor | 1º · 64 h · pp. 14–16 | 9 | 4 | DIRECT | DIRECT |
 | D04 | Legislação aplicada | 1º · 64 h · pp. 16–17 | 9 | 4 | DIRECT | REQUIRES CLARIFICATION (I4) |
@@ -56,20 +56,20 @@
 | D01.15 | Campanhas de marketing | objeto | PARCIAL (0.5) | U2 Diagnóstico estratégico | sim | sim | pendente |
 | D01.16 | Briefing e Jobs | objeto | PARCIAL (0.5) | U2 Diagnóstico estratégico | sim | sim | pendente |
 | D01.17 | Mídias | objeto | AUSENTE (0.0) | U2 Diagnóstico estratégico | sim | sim | pendente |
-| D01.18 | Lançamento financeiro de contas a pagar e receber | objeto | AUSENTE (0.2) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.19 | Fluxo de caixa da agência | objeto | PARCIAL (0.33) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.20 | Gestão dos recursos humanos | objeto | COBERTO (0.67) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.21 | Programa de endomarketing | objeto | AUSENTE (0.0) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.22 | Qualidade em Serviços | objeto | PARCIAL (0.5) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.23 | Características e elementos dos serviços | objeto | AUSENTE (0.0) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.24 | Gestão da Qualidade nas atividades de Front-Office | objeto | PARCIAL (0.4) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.25 | Gestão da Qualidade nas atividades de Back-Office | objeto | PARCIAL (0.4) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.26 | 5W2H | objeto | AUSENTE (0.0) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.27 | Brainstorming | objeto | AUSENTE (0.0) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.28 | Controle da Qualidade Total (TQC) | objeto | PARCIAL (0.33) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.29 | Diagrama de Ishikawa | objeto | AUSENTE (0.0) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.30 | Kaizen | objeto | AUSENTE (0.0) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
-| D01.31 | Diagrama de Pareto | objeto | AUSENTE (0.0) | U4 Gestão da agência e da qualidade | sim | sim | pendente |
+| D01.18 | Lançamento financeiro de contas a pagar e receber | objeto | AUSENTE (0.2) | U4 Gestão financeira, de pessoas e endomarketing | sim | sim | pendente |
+| D01.19 | Fluxo de caixa da agência | objeto | PARCIAL (0.33) | U4 Gestão financeira, de pessoas e endomarketing | sim | sim | pendente |
+| D01.20 | Gestão dos recursos humanos | objeto | COBERTO (0.67) | U4 Gestão financeira, de pessoas e endomarketing | sim | sim | pendente |
+| D01.21 | Programa de endomarketing | objeto | AUSENTE (0.0) | U4 Gestão financeira, de pessoas e endomarketing | sim | sim | pendente |
+| D01.22 | Qualidade em Serviços | objeto | PARCIAL (0.5) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.23 | Características e elementos dos serviços | objeto | AUSENTE (0.0) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.24 | Gestão da Qualidade nas atividades de Front-Office | objeto | PARCIAL (0.4) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.25 | Gestão da Qualidade nas atividades de Back-Office | objeto | PARCIAL (0.4) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.26 | 5W2H | objeto | AUSENTE (0.0) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.27 | Brainstorming | objeto | AUSENTE (0.0) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.28 | Controle da Qualidade Total (TQC) | objeto | PARCIAL (0.33) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.29 | Diagrama de Ishikawa | objeto | AUSENTE (0.0) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.30 | Kaizen | objeto | AUSENTE (0.0) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
+| D01.31 | Diagrama de Pareto | objeto | AUSENTE (0.0) | U5 Qualidade em serviços e melhoria contínua | sim | sim | pendente |
 | D02.01 | Fundamentos do Design e História Gráfica | objeto | AUSENTE (0.25) | U1 Linguagem visual e percepção | sim | sim | pendente |
 | D02.02 | Tipografia | objeto | COBERTO (1.0) | U2 Tipografia, grid, cor e identidade | sim | sim | pendente |
 | D02.03 | Elementos básicos da composição visual (o ponto, a linha, a forma, a direção, o tom, a cor, a textura, a dimensão, a escala e o movimento) | objeto | AUSENTE (0.25) | U1 Linguagem visual e percepção | sim | sim | pendente |

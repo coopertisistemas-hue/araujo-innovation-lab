@@ -28,7 +28,7 @@
 | BS17 | Trilha de três anos; preparação para o mercado | §6; §13.1–13.4; Figuras 2 e 4 | ATENDIDO | Metas marcadas PROPOSED TARGETS / NOT OBSERVED RESULTS. |
 | BS18 | Coortes reais distintas | §6 (ATENÇÃO); Anexo F2 | ATENDIDO | Trilha de transição própria. |
 | BS19 | Valor percebido, motivação e progressão | §9 (K11); §13.3; C4; G2 (K11) | ATENDIDO | K11 com linha de base no diagnóstico inicial. |
-| BS20 | Painel transparente; K01–K16 consistentes | §9; Anexo G2 (colunas Responsável e Risco de viés) | ATENDIDO | Dezesseis indicadores alinhados; K15 anual como proposta sujeita à deliberação. |
+| BS20 | Painel transparente; K01–K16 consistentes | §9; Anexo G2 (colunas Responsável e Risco de viés) | ATENDIDO | Dezesseis indicadores alinhados: K01 por média ponderada na escala 0–4; K15 anual, n/N, sem visitas = não aplicável; K16 taxa de ocupação (correções de release). |
 | BS21 | Benchmarking com SENAC, SENAI, CNCT, UNESCO, sem paridade | §3; Anexo K1 (classificação); K2; K3; M2 | ATENDIDO | Classificação de cada referência. **Caveat documental:** três links UNESCO sem resposta e dois do CNCT (403, 429) não confirmados. |
 | BS22 | Capacitação; autonomia didática | §5; §10; Anexos I1–I3 | ATENDIDO | Sem carga automática; salvaguarda de sobrecarga. |
 | BS23 | Comunicação executiva com ressalvas | §16; Anexo L | ATENDIDO | Roteiro com fonte de dados e ressalvas. |
@@ -46,7 +46,7 @@
 | 2. Aprovação institucional | Direção aprova proposta e condições | PENDENTE (decisão da Direção) |
 | 3. Prontidão operacional | Docentes habilitados e designados; planos detalhados validados; recursos; salvaguardas; autorizações | PENDENTE (não bloqueia a porta 1) |
 
-**Critérios da porta 1, verificados:** (a) 183 de 183 itens com N1 e N2 (Anexo O); (b) cada unidade tem fundamento, atividade, evidência e conexão preenchidos (verificado por script, sem campos vazios); (c) cargas e totais conferidos no PPC; (d) 28 de 28 requisitos com seção de destino; (e) conferência de texto: 3.952 itens do Markdown presentes no DOCX, nenhum ausente; (f) K01–K16 consistentes entre §9 e Anexo G.
+**Critérios da porta 1, verificados:** (a) 183 de 183 itens com N1 e N2 (Anexo O); (b) cada unidade tem fundamento, atividade, evidência e conexão preenchidos (verificado por script, sem campos vazios); (c) cargas e totais conferidos no PPC; (d) 28 de 28 requisitos com seção de destino; (e) conferência de texto: 3.970 itens do Markdown presentes no DOCX, nenhum ausente; (f) K01–K16 consistentes entre §9 e Anexo G.
 
 **Ressalvas para o auditor independente:** as atribuições de itens às unidades e as atividades representativas são propostas do proponente, não do PPC (achado 13 da auditoria); cinco links de referências externas não confirmados (BS21); habilitação de Design Gráfico e de Legislação Aplicada a confirmar na porta 3.
 

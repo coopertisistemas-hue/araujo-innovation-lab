@@ -244,7 +244,7 @@ def data_table(rows, aligns, header_fill=NAVY, caption_text=None):
             cell = r[k] if k < len(r) else ""
             words += re.findall(r"[^\s/]+", cell.replace("**", ""))
         longest = max((len(x) for x in words), default=4)
-        return min(3.6, 0.23 * longest + 0.45)
+        return min(4.4, 0.23 * longest + 0.45)
     MINS = [minw(k) for k in range(ncols)]
     for _ in range(6):
         small = [k for k,x in enumerate(widths) if x < MINS[k]]
@@ -263,11 +263,12 @@ def data_table(rows, aligns, header_fill=NAVY, caption_text=None):
             txt = r[j] if j < len(r) else ""
             cell = tbl.cell(i, j)
             al = WD_ALIGN_PARAGRAPH.RIGHT if (aligns[j] == "R" and i > 0) else None
+            fsz = 8.5 if rows[0][0] in ("Unidade", "Identificação") else 9
             if i == 0:
-                fill_cell(cell, txt, size=9, bold=True, color="FFFFFF", align=al)
+                fill_cell(cell, txt, size=fsz, bold=True, color="FFFFFF", align=al)
                 set_cell_shade(cell, header_fill)
             else:
-                fill_cell(cell, txt, size=9, align=al)
+                fill_cell(cell, txt, size=fsz, align=al)
                 if i % 2 == 0: set_cell_shade(cell, ZEBRA)
     keep_rows = tbl.rows if len(rows) <= 10 else tbl.rows[-1:]
     for row in keep_rows:
@@ -319,7 +320,7 @@ para_border(hp, "bottom", GOLD, sz=6, space=4)
 ftr = sec.footer
 fp = ftr.paragraphs[0]; fp.text = ""
 fp.paragraph_format.tab_stops.add_tab_stop(Cm(CONTENT_W), WD_TAB_ALIGNMENT.RIGHT)
-add_inline(fp, "EEB Araújo Figueiredo · Urubici/SC  |  19/11/2026  |  Circulação: Direção, até deliberação", size=7.5, color=GREY)
+add_inline(fp, "EEB Araújo Figueiredo · Urubici/SC  |  20/11/2026  |  Circulação: Direção, até deliberação", size=7.5, color=GREY)
 r = fp.add_run("\tPágina "); r.font.size = Pt(7.5); r.font.color.rgb = RGBColor.from_string(GREY)
 add_field(fp, "PAGE", size=7.5)
 r = fp.add_run(" de "); r.font.size = Pt(7.5); r.font.color.rgb = RGBColor.from_string(GREY)

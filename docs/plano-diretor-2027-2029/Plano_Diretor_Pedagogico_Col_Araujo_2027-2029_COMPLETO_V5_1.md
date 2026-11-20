@@ -21,7 +21,7 @@ Formação técnica em Marketing | Agência-Escola | IA transversal | Integraç�
 
 IDENTIDADE: Araujo Innovation Lab | Sistema executivo do repositório institucional. Cores exatas e logotipos dependem dos ativos aprovados; esta versão utiliza aproximação editorial, sem criar marca substituta.
 
-Versão 5.1 • 20/11/2026 • Proposta para deliberação da Direção — NÃO homologada. Histórico: V5.0 (19/11/2026), fonte preservada em `Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md`; V5.1 (20/11/2026): unidades de aprendizagem propostas e mapa dos 183 itens oficiais (Anexo O), portas de decisão separadas (§12.4), habilitação como pré-requisito de implantação (Anexo I4), K15 sujeito à deliberação.
+Versão 5.1 • 20/11/2026 • Proposta para deliberação da Direção — NÃO homologada.
 
 ## Orientação de leitura pela Direção
 
@@ -43,6 +43,23 @@ Compromissos propostos: tecnologia integrada a todos os encontros técnicos semp
 | Atividades integradoras (pp. 7–9): 40 h por ano, sem professor específico | Coordenação coletiva; evitar dupla contagem de horas e registrar participação conforme escola. |
 | Avaliação (pp. 38–40): trimestral, frequência e instrumentos mínimos | Manter avaliação oficial e recuperação paralela; indicadores extras não substituem notas. |
 | Habilitação definida por componente nas ementas | Professor orientador só ministra componente oficialmente se habilitado e formalmente designado. |
+
+### 2.2 Objetivos e perfil profissional oficiais (PPC, II–IV)
+
+**Objetivo geral (PPC, II):** formar profissionais críticos, criativos, investigativos, empreendedores, capazes de aliar a competência profissional, científica e humanística para atuarem em diferentes contextos organizacionais e sociais com ética, responsabilidade social e ambiental.
+
+**Objetivos específicos (PPC, II):** extrair dados relevantes para a tomada de decisão; dominar estratégias de pesquisa; desenvolver formação criativa e resolutiva; despertar para a formação permanente; compreender redes sociais e manter-se atualizado; valorizar o trabalho em equipe; zelar pela ética profissional e organizacional.
+
+**Perfil profissional de conclusão (PPC, III):** o Técnico em Marketing será habilitado para:
+
+- projetar e implementar planos de marketing;
+- realizar análises de vendas, preços e produtos;
+- desenvolver projetos de comunicação, fidelização de clientes e relação com fornecedores ou outras entidades;
+- desenvolver, implementar e gerenciar estratégias de marketing digital;
+- operacionalizar apresentação dos serviços e produtos no ponto de venda;
+- elaborar estudos de mercado.
+
+**Certificações intermediárias (PPC, IV):** ao concluir a 1ª série, Assistente de Vendas; ao concluir a 2ª série, Assistente de Marketing; ao concluir os três anos, Técnico em Marketing.
 
 ### 2.1 Mapa integrado dos pilares do curso (BS10)
 
@@ -153,7 +170,7 @@ Visitas progressivas: 1º ano — comércio/serviços locais e escola; 2º — a
 
 | Indicador | Cálculo / descrição | Fonte | Responsável / periodicidade |
 | --- | --- | --- | --- |
-| K01 · Aprendizagem por competência | Média das notas de rubrica (0–4) por competência, ano e trimestre | Rubricas individuais em provas e projetos | Docentes; coordenação valida; Trimestral |
+| K01 · Aprendizagem por competência | Média ponderada dos níveis da rubrica (0–4) por competência: Σ(peso do critério × nível) ÷ Σ(pesos), média das avaliações válidas. Exemplo: pesos 30/20/20/15/10/5 e níveis 4/3/2/4/3/1 dão 3,15 | Rubricas individuais em provas e projetos (Anexo C2) | Docentes; coordenação valida; Trimestral |
 | K02 · Progresso individual | Nota atual − nota diagnóstica na mesma rubrica (0–4) | Diagnóstico + prova comparável | Docente titular; Trimestral |
 | K06 · Participação efetiva | Alunos presentes elegíveis com contribuição rastreável ÷ alunos presentes elegíveis × 100 | Diário de bordo; observação; versões | Docentes; Mensal |
 | K03 · Entregas no prazo | Entregas realizadas no prazo ÷ entregas previstas elegíveis × 100 | Registros de projetos | Líder da equipe valida; docente audita; Mensal |
@@ -165,9 +182,9 @@ Visitas progressivas: 1º ano — comércio/serviços locais e escola; 2º — a
 | K09 · Qualidade dos projetos | Projetos aprovados em 5 checks (briefing, fontes, ética, KPI e defesa) ÷ projetos avaliados × 100 | Checklist e banca | Docentes + avaliador externo quando possível; Trimestral |
 | K08 · Competência em uso crítico de IA | Alunos com fonte e declaração válida ÷ alunos que usaram IA na atividade × 100 | Rubrica 0–4 e registro de atividade | Docentes; Trimestral |
 | K07 · Defesa individual suficiente | Alunos com rubrica ≥ 2 na defesa individual ÷ alunos avaliados × 100 | Apresentação individual | Docentes; Trimestral |
-| K15 · Visitas e parcerias | Visitas com roteiro e relatório ÷ visitas executadas × 100; briefs aprovados (contagem semestral) | Autorização, roteiro e relatório | Orientador + direção; Anual (proposta sujeita à deliberação da Direção) |
+| K15 · Visitas e parcerias | Visitas com roteiro e relatório ÷ visitas executadas × 100 (sem visita no ano: não aplicável, não 0%) | Autorização, roteiro e relatório. Briefs aprovados: contagem à parte, fora do K15 | Orientador + direção; Anual (proposta sujeita à deliberação da Direção) |
 | K14 · Formação docente | Participantes com exercício demonstrado ÷ docentes inscritos × 100 | Listas e artefatos voluntários após aceite | Coordenação; Semestral |
-| K16 · Interesse pelo curso | Matrículas/inscrições válidas por ano, sempre com contexto de capacidade e comparação | Secretaria, campanhas e capacidade instalada | Gestão; Anual |
+| K16 · Taxa de ocupação | Matrículas válidas ÷ vagas ofertadas × 100, com contexto de capacidade, transferências e sazonalidade | Secretaria escolar; capacidade instalada | Gestão; Anual |
 
 Metas e indicadores são propostas, não evidências de impacto. No painel, publicar sempre N, denominador, período, variação frente à linha de base, fonte, cobertura e observações. Não divulgar dados identificáveis de menores nem usar desempenho para ranking punitivo de docentes.
 
@@ -828,7 +845,7 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 **Objetivo de aprendizagem (PPC, pp. 25–27):** Conhecer os princípios gerais e as ações pertinentes à gestão de eventos.
 
-**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Definições, históricos de eventos e feiras; Turismo de negócios; Escolha de locais para realização de eventos; Planejamento de diferentes tipos de eventos; Técnicas de planejamento: a importância da pesquisa, conceitos, metodologias e aplicações; Estudo e análise do pré-evento, evento e pós-evento; Definição dos objetivos do evento: estratégias, metas, ações e recursos (materiais, financeiros, humanos); Análise e avaliação dos eventos; Estratégias de avaliação: preparação de formulários e questionários de avaliação; Check-list, roteiro, cronograma e controle operacional; Secretaria de eventos; Perfil do organizador de eventos; Projetos de eventos: criação e captação; Megaeventos; Marketing cultural; Tipologia de eventos; Brindes e sua adequação a locais e públicos (habilidade do PPC); Cores e impacto em eventos (habilidade do PPC); Mestre de cerimônia: voz e expressão (habilidade do PPC).
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Definições, históricos de eventos e feiras; Turismo de negócios; Escolha de locais para realização de eventos; Planejamento de diferentes tipos de eventos; Técnicas de planejamento: a importância da pesquisa, conceitos, metodologias e aplicações; Estudo e análise do pré-evento, evento e pós-evento; Definição dos objetivos do evento: estratégias, metas, ações e recursos (materiais, financeiros, humanos); Análise e avaliação dos eventos; Estratégias de avaliação: preparação de formulários e questionários de avaliação; Check-list, roteiro, cronograma e controle operacional; Secretaria de eventos; Perfil do organizador de eventos; Projetos de eventos: criação e captação; Megaeventos; Marketing cultural; Tipologia de eventos; Brindes e sua adequação a locais e públicos (paráfrase de habilidade do PPC); Cores e impacto em eventos (habilidade do PPC); Mestre de cerimônia: voz e expressão (habilidade do PPC).
 
 **Correspondência com o PPC:** planejamento, pré/durante/pós-evento, cronograma, recursos, checklists e avaliação. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
@@ -876,7 +893,7 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 **Objetivo de aprendizagem (PPC, pp. 29–31):** Compreender os conceitos básicos de logística e estratégias de distribuição.
 
-**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Conceitos básicos de logística; Análise da cadeia de suprimentos; Compras, planejamento e controle de materiais; Movimentação, armazenagem e abastecimento para a produção; Análise da logística de distribuição dos produtos: recebimento, armazenagem, expedição, transportes e distribuição; Informações do sistema logístico; Identificação e gerenciamento de custos; Estratégias de logística; Gerenciamento de operações globais; Classificação de materiais por importância operacional e valor de consumo anual (ABC) (habilidade do PPC); Métodos e técnicas de gerenciamento de estoque (habilidade do PPC); Canais de distribuição (habilidade do PPC); Logística reversa (habilidade do PPC); Modais de transporte: vantagens e desvantagens (habilidade do PPC).
+**Objetos do conhecimento oficiais (PPC, transcrição sintética):** Conceitos básicos de logística; Análise da cadeia de suprimentos; Compras, planejamento e controle de materiais; Movimentação, armazenagem e abastecimento para a produção; Análise da logística de distribuição dos produtos: recebimento, armazenagem, expedição, transportes e distribuição; Informações do sistema logístico; Identificação e gerenciamento de custos; Estratégias de logística; Gerenciamento de operações globais; Classificação de materiais por importância operacional e valor de consumo anual (ABC) (paráfrase de habilidade do PPC); Métodos e técnicas de gerenciamento de estoque (habilidade do PPC); Canais de distribuição (habilidade do PPC); Logística reversa (habilidade do PPC); Modais de transporte: vantagens e desvantagens (habilidade do PPC).
 
 **Correspondência com o PPC:** suprimentos, estoque, distribuição, logística reversa e custos. O componente será ministrado na série prevista pela matriz; nos demais anos os conteúdos poderão ser retomados apenas em projetos transversais.
 
@@ -985,7 +1002,7 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 
 | ID | Indicador / fórmula | Recorte e fonte | Periodicidade e alerta | Responsável | Risco de viés |
 | --- | --- | --- | --- | --- | --- |
-| K01 | Domínio por competência = soma de pontos da rubrica / avaliações válidas (0–4) | aluno/série/competência; rubricas assinadas | trimestral; comparar com diagnóstico e cobertura | Docentes; coordenação valida | dificuldade desigual dos instrumentos (G5) |
+| K01 | Domínio por competência = Σ(peso × nível) ÷ Σ(peso), níveis 0–4 e pesos da rubrica (Anexo C2), média das avaliações válidas; resultado sempre em 0–4 | aluno/série/competência; rubricas assinadas | trimestral; comparar com diagnóstico e cobertura  | Docentes; coordenação valida | dificuldade desigual dos instrumentos (G5) |
 | K02 | Evolução = média atual da competência − média basal comparável | mesma rubrica, mesmas condições; avaliações individuais | trimestral; sem dado basal, “não mensurável” | Docente titular | avaliação de retorno mais fácil que a diagnóstica (G5) |
 | K03 | Entregas no prazo = entregas pontuais / entregas previstas elegíveis ×100 | diário de projetos, prazos e exceções | mensal; registrar atrasos por causa | Líder da equipe valida; docente audita | registro tardio de entregas |
 | K04 | Portfólios válidos = alunos com pacote mínimo / alunos avaliáveis ×100 | checklist individual e sistema institucional | trimestral; distinguir “ausente” de “não avaliado” | Docentes | ausente não é o mesmo que não avaliado |
@@ -999,8 +1016,8 @@ Preenchida pelo estudante ao fim de cada trimestre e comparada à primeira vers�
 | K12 | Permanência = matriculados no fechamento / matriculados elegíveis no início ×100 | secretaria; critérios de transferência explícitos | anual; não inferir causalidade do programa | Gestão | transferências não contadas |
 | K13 | Frequência média = presenças registradas / oportunidades oficiais de presença ×100 | registros escolares oficiais | trimestral; regência da SED prevalece | Gestão | registros de frequência inconsistentes |
 | K14 | Formação docente = participantes com exercício demonstrado / docentes inscritos ×100 | listas/artefatos voluntários após aceite | semestral; não criar ranking punitivo | Coordenação | adesão voluntária, sem ranking punitivo |
-| K15 | Visitas com aprendizagem = visitas com roteiro e relatório / visitas executadas ×100 | atas e portfólios | anual (ciclo de visitas é anual, §14.6); sem visitas = “não aplicável”, não 0% | Orientador + direção | visitas não realizadas tratadas como 0% |
-| K16 | Interesse pelo curso = matrículas/inscrições válidas por ano, sempre com contexto | secretaria, campanhas e capacidade instalada | anual; nunca afirmar impacto sem comparação contextual | Gestão | sazonalidade e campanhas pontuais |
+| K15 | Visitas com aprendizagem = visitas com roteiro e relatório ÷ visitas executadas × 100 (n/N por ano) | atas, autorizações e portfólios | anual (ciclo de visitas é anual, §14.6); sem visitas = não aplicável, não 0%  | Orientador + direção | visitas não realizadas tratadas como 0% |
+| K16 | Taxa de ocupação = matrículas válidas ÷ vagas ofertadas × 100 | secretaria; capacidade instalada (vagas autorizadas) | anual; comparar com a capacidade declarada; nunca afirmar impacto sem comparação contextual  | Gestão | sazonalidade e campanhas pontuais |
 
 ### G3. Quadro institucional de gestão trimestral (template)
 
@@ -1238,7 +1255,7 @@ A apresentação visual não substitui este Plano Diretor completo; ela traduz o
 
 **Atenção:** número das páginas textuais do documento e número total de folhas do PDF não são sinônimos; indicar página da ementa e identificação oficial quando citar.
 
-### M2. Fontes públicas consultáveis (acesso em 19/11/2026)
+### M2. Fontes públicas consultáveis (consulta de 19/11/2026; reconfirmação pendente em 5 links, ver QA_REPORT)
 
 1. Ministério da Educação — Catálogo Nacional de Cursos Técnicos (CNCT): https://cnct.mec.gov.br/ . O perfil Técnico em Marketing e sua carga mínima de 800 h constam também do catálogo em PDF oficial: https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/estrutura-organizacional/orgaos-especificos-singulares/secretaria-de-educacao-profissional/catalogos-nacionais-de-cursos/CNCT_catalogogerado2022_2023.pdf .
 2. SENAC Santa Catarina — Técnico em Marketing, oferta de 800 h: https://portal.sc.senac.br/curso/130296/tecnico-em-marketing .
@@ -1489,6 +1506,8 @@ Esta matriz cumpre o §3.1 da matriz de brainstorming: uma tabela por componente
 
 ## ANEXO O | Unidades de aprendizagem propostas e mapa dos 183 itens oficiais
 
+**Histórico de versões:** V5.0 (19/11/2026), preservada como fonte histórica em `Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md`; V5.1 (20/11/2026), com unidades propostas e mapa dos 183 itens (este anexo), portas de decisão separadas (§12.4), habilitação como pré-requisito de implantação (I4), K15 sujeito à deliberação e correções de release (K01, K15, K16, desdobramento de D01 U4, objetivos e perfil oficiais em §2.2).
+
 Este anexo organiza os objetos oficiais do PPC em unidades de aprendizagem propostas. Cada item oficial recebe três marcas, separadas por nível de evidência:
 
 - **N1 — Requisito oficial identificado e rastreável:** o item consta do PPC e foi transcrito no Anexo D (pp. indicadas).
@@ -1504,7 +1523,8 @@ Um mesmo item não aparece em duas unidades. Itens relacionados compartilham a a
 | U1 · Fundamentos e mercado | D01.01–07 | Papel do marketing, conceitos centrais, ambiente, mercado, demanda, oferta e ponto de equilíbrio. | Mapa de mercado de um bairro ou da escola com dados de demanda e oferta; cálculo simples de ponto de equilíbrio. | Mapa conceitual e cálculo com justificativa (prova individual, item conceitual). | Matemática (porcentagens e cálculo). |
 | U2 · Diagnóstico estratégico | D01.08, D01.15–17 | SWOT, briefing e jobs, campanhas e mídias como ferramentas de diagnóstico. | SWOT de uma iniciativa escolar e briefing com o docente solicitante. | Diagnóstico com hipóteses distinguidas de fatos e fontes (entrega da Unidade). | Língua Portuguesa (texto argumentativo do briefing). |
 | U3 · Responsabilidade social, sustentabilidade e organizações | D01.09–14 | Responsabilidade social corporativa, ONG e OSCIP, questão ambiental, desenvolvimento sustentável e indicadores. | Auditoria de indicadores de responsabilidade social de uma ação escolar, com fontes oficiais. | Relatório de indicadores com limites da fonte. | Geografia e Sociologia (território e desigualdades). |
-| U4 · Gestão da agência e da qualidade | D01.18–31 | Gestão financeira e de pessoas da agência, serviços, qualidade (TQC, Ishikawa, Pareto, Kaizen, 5W2H). | Fluxo de caixa simulado de uma agência-escola; diagrama de Ishikawa e Pareto sobre falhas de atendimento simuladas. | Planilha com decisão justificada e diagrama de causa (rubrica: execução e raciocínio). | Matemática (percentuais de Pareto). |
+| U4 · Gestão financeira, de pessoas e endomarketing | D01.18–21 | Lançamento financeiro de contas a pagar e receber, fluxo de caixa da agência, gestão dos recursos humanos e programa de endomarketing. | Fluxo de caixa simulado de uma agência-escola e plano simulado de recursos humanos e endomarketing. | Planilha financeira com decisão justificada e plano de endomarketing (rubrica: execução e raciocínio). | Matemática (contas, prazos e percentuais). |
+| U5 · Qualidade em serviços e melhoria contínua | D01.22–31 | Qualidade em serviços e seus elementos; gestão da qualidade no front-office e no back-office; 5W2H, brainstorming, TQC, diagrama de Ishikawa, Kaizen e diagrama de Pareto. | Mapa simulado de atendimento (front-office e back-office); brainstorming de causas de falhas, diagrama de Ishikawa, Pareto das falhas e plano de ação em 5W2H com ciclo Kaizen. | Diagrama de causa, Pareto e plano de ação em 5W2H com indicadores de acompanhamento. | Matemática (percentuais de Pareto). |
 
 ### O-D02. Design Gráfico — unidades propostas (14 itens)
 
@@ -1630,16 +1650,16 @@ Um mesmo item não aparece em duas unidades. Itens relacionados compartilham a a
 | D01.19 | Fluxo de caixa da agência | objeto | U4 | sim | sim | pendente |
 | D01.20 | Gestão dos recursos humanos | objeto | U4 | sim | sim | pendente |
 | D01.21 | Programa de endomarketing | objeto | U4 | sim | sim | pendente |
-| D01.22 | Qualidade em Serviços | objeto | U4 | sim | sim | pendente |
-| D01.23 | Características e elementos dos serviços | objeto | U4 | sim | sim | pendente |
-| D01.24 | Gestão da Qualidade nas atividades de Front-Office | objeto | U4 | sim | sim | pendente |
-| D01.25 | Gestão da Qualidade nas atividades de Back-Office | objeto | U4 | sim | sim | pendente |
-| D01.26 | 5W2H | objeto | U4 | sim | sim | pendente |
-| D01.27 | Brainstorming | objeto | U4 | sim | sim | pendente |
-| D01.28 | Controle da Qualidade Total (TQC) | objeto | U4 | sim | sim | pendente |
-| D01.29 | Diagrama de Ishikawa | objeto | U4 | sim | sim | pendente |
-| D01.30 | Kaizen | objeto | U4 | sim | sim | pendente |
-| D01.31 | Diagrama de Pareto | objeto | U4 | sim | sim | pendente |
+| D01.22 | Qualidade em Serviços | objeto | U5 | sim | sim | pendente |
+| D01.23 | Características e elementos dos serviços | objeto | U5 | sim | sim | pendente |
+| D01.24 | Gestão da Qualidade nas atividades de Front-Office | objeto | U5 | sim | sim | pendente |
+| D01.25 | Gestão da Qualidade nas atividades de Back-Office | objeto | U5 | sim | sim | pendente |
+| D01.26 | 5W2H | objeto | U5 | sim | sim | pendente |
+| D01.27 | Brainstorming | objeto | U5 | sim | sim | pendente |
+| D01.28 | Controle da Qualidade Total (TQC) | objeto | U5 | sim | sim | pendente |
+| D01.29 | Diagrama de Ishikawa | objeto | U5 | sim | sim | pendente |
+| D01.30 | Kaizen | objeto | U5 | sim | sim | pendente |
+| D01.31 | Diagrama de Pareto | objeto | U5 | sim | sim | pendente |
 | D02.01 | Fundamentos do Design e História Gráfica | objeto | U1 | sim | sim | pendente |
 | D02.02 | Tipografia | objeto | U2 | sim | sim | pendente |
 | D02.03 | Elementos básicos da composição visual (o ponto, a linha, a forma, a direção, o tom, a cor, a textura, a dimensão, a escala e o movimento) | objeto | U1 | sim | sim | pendente |

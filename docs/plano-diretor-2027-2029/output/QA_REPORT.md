@@ -1,41 +1,38 @@
-# QA_REPORT — Plano Diretor Pedagógico Marketing 2027–2029, V5.1 (proposta, não homologada)
+# QA_REPORT — candidato corrigido V5.1
 
-**Status:** PUBLICADO PARA AUDITORIA INDEPENDENTE — NÃO CERTIFICADO; NÃO APROVADO PELA DIREÇÃO.
-**Porta 1 (revisão documental):** ATENDIDA. **Porta 2 (aprovação institucional):** PENDENTE. **Porta 3 (prontidão operacional):** PENDENTE.
-**Recomendação:** READY_FOR_INDEPENDENT_AUDIT, para a porta 1 apenas (BS_TRACEABILITY_REPORT.md).
+**Status:** publicado para auditoria independente — não auditado por terceiros; não aprovado pela Direção; não certificado operacionalmente.
+**Recomendação:** READY_FOR_INDEPENDENT_AUDIT, apenas para a porta documental (ver BS_TRACEABILITY_REPORT.md).
 
 ## Hashes
-- Markdown V5.1 (canônico): `729971e9e71bf96572ce77bb49362e58085b9ada2b560d2bb6e2fcecc0ed14b7`
-- DOCX V5.1: `0ca844ac9ff674806edfa005415ad041cae73f39dde659a7f832bd09e0769e7c`
-- PDF V5.1: `859b5b61c0b3c5476f3411a665fa4894a43f16502d28a127f72c393a6630efa4`
-- Demais: SHA256SUMS.txt. Artefatos V5.0: `output/historico-v5/`.
+- Markdown V5.1: `13d5bc05d0026486f230076901e1dedbda83f6cff52e452c485ba8fd915dda23`
+- DOCX: `1fcb818ed63d9c69bc29699b8b1d615af2579d37e77fdbc57ffa8db205a2f0e8`
+- PDF: `d3f92e6a45b30ffc0e4ed695be015822af46610f4f35c50106fe5b323045b11e`
+- Demais: SHA256SUMS.txt.
 
-## Dimensões
-- PAGE_COUNT: **100** (A4). PNGs de prova: 100 em `output/proof-png/` (locais, não versionadas).
-- Sumário gerado em duas passagens; números de página estáveis.
+## Testes (tests/test_results.json, `tools/test_release.py`)
+- **31/31 aprovados.**
+- Matemática: K01 (exemplo 3,15; limites; 10.000 vetores em [0,4]; defeito antigo quantificado); K15 (75%; não aplicável); K16 (66,7%; não aplicável); carga (256, 288, 256, 800; 744+712+744 = 2.200; 120 dentro; 3.000); mapeamento (183 itens, uma unidade cada; 49 unidades; nenhum campo vazio).
+- Integridade de documento: versão 5.1 no front matter e cabeçalho; sem "Versão 5.0" atual; histórico no Anexo O; afirmação "acesso em 19/11/2026" removida; K01 sem "soma de pontos"; 5 figuras com texto alternativo; rodapé 20/11/2026; PDF com 100 páginas.
 
-## Verificações executadas
-1. **Preservação de texto** (`tools/qa_source.py`): 3.952 itens do Markdown V5.1 presentes no DOCX; 0 ausentes. Tabelas: nenhuma faltante.
-2. **Unidades:** 183 de 183 itens atribuídos a uma única unidade; nenhuma duplicata; nenhum campo de unidade vazio (script `tools/ppc_units.py`, verificado).
-3. **Cargas e PPC:** tabela V conferida (3.000 = 2.200 + 800; 120 h dentro da FGB; técnicas 256 + 288 + 256).
-4. **Diferença contra V5.0 (c9696f2):** nenhuma linha original alterada além das listadas em DELTA_REPORT.md (V51-01 a V51-06 e os ajustes de K15 e I4).
-5. **Layout:** páginas alteradas inspecionadas (§12.4, I4, Anexo O, unidades D01–D12, mapa de 183 itens). Anexo B2: intro mantido com a tabela (`keep_with_next`).
-6. **Links:** CNCT 403; gov.br 429; UNESCO sem resposta (3). Demais 200. Não confirmados.
+## Verificações adicionais
+- `tools/qa_source.py`: 3.970 itens do Markdown presentes no DOCX; 0 ausentes.
+- TOC: números de página estáveis em duas passagens (100 páginas).
+- Páginas com pouco texto: 18, 51, 65 — fins de seção, intencionais.
+- Renderização: LibreOffice 24.2; PNGs de prova locais (100) em `output/proof-png/`.
 
-## Não executado
-- Validação OOXML no Word; renderização por LibreOffice 24.2.
-- Comparação do hash do PPC com referência anterior (não registrada).
-- Validação docente das unidades e atribuições (porta 3).
+## Limitações
+- Não há validação OOXML no Word.
+- Não há revisão visual de cada página em alta resolução nesta rodada; a verificação por montagem e os testes automáticos cobrem os pontos alterados.
+- Referências: 5 de 13 links não confirmados (3 UNESCO sem resposta; 2 CNCT com 403 e 429).
+- K15: a interpretação (anual, n/N, briefs fora do indicador) foi aplicada na ausência do texto da diretriz de correções; ver DELTA_REPORT.
 
 ## Reprodução
 ```bash
-cd docs/plano-diretor-2027-2029
 python3 tools/apply_v5_1.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5.md Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md /tmp/v51.json
-python3 tools/make_audit.py <screening.json> output/CURRICULAR_ALIGNMENT_AUDIT.md
 python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md /tmp/p1.docx output/assets
 soffice --headless --convert-to pdf --outdir /tmp /tmp/p1.docx && python3 tools/pagemap.py /tmp/p1.pdf /tmp/p1.docx.toc.json /tmp/pagemap.json
 python3 tools/build_docx.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5_1.docx output/assets /tmp/pagemap.json
 soffice --headless --convert-to pdf --outdir output output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5_1.docx
 python3 tools/qa_source.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5_1.docx
+python3 tools/test_release.py Plano_Diretor_Pedagogico_Col_Araujo_2027-2029_COMPLETO_V5_1.md output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5_1.docx output/PLANO_DIRETOR_PEDAGOGICO_MARKETING_ARAUJO_2027-2029_PROPOSTA_V5_1.pdf output/tests/test_results.json
 ```
-`apply_v5_1.py` não é idempotente: rodar sobre o próprio resultado falha nas asserções, de propósito.

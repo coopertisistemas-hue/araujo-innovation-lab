@@ -1,35 +1,40 @@
-# DELTA_REPORT — V5.0 (c9696f2) → V5.1 (controlado)
+# DELTA_REPORT — candidato corrigido V5.1 (contra o candidato 2de5f71)
 
-| Item | V5.0 (preservada) | V5.1 (controlada) |
+| Item | 2de5f71 (candidato auditado) | Candidato corrigido |
 |---|---|---|
-| Markdown | `8c6500805940b32894d7b413b1ff1038f6f79b027baf4d207ecb18fb378df0ba` | `729971e9e71bf96572ce77bb49362e58085b9ada2b560d2bb6e2fcecc0ed14b7` |
-| Arquivo | `…_COMPLETO_V5.md` (intacto) | `…_COMPLETO_V5_1.md` (novo) |
-| Versão | 5.0 | 5.1 (20/11/2026) |
-| Páginas DOCX/PDF | 78 | 100 |
-| Artefatos V5.0 | `output/historico-v5/` | `output/` |
+| Markdown V5.1 | `729971e9e71bf96572ce77bb49362e58085b9ada2b560d2bb6e2fcecc0ed14b7` | `13d5bc05d0026486f230076901e1dedbda83f6cff52e452c485ba8fd915dda23` |
+| DOCX | arquivado em `output/historico-v5.1-2de5f71/` | `1fcb818ed63d9c69bc29699b8b1d615af2579d37e77fdbc57ffa8db205a2f0e8` |
+| PDF | arquivado em `output/historico-v5.1-2de5f71/` | `d3f92e6a45b30ffc0e4ed695be015822af46610f4f35c50106fe5b323045b11e` (100 páginas) |
+| Unidades propostas | 48 | 49 (D01 U4 desdobrada) |
+| Testes | não havia | 31/31 (`tests/test_results.json`) |
 
-## 1. Preservação
-A fonte V5.0 não foi alterada. Os artefatos V5.0 (DOCX, PDF, QA, checksums, auditoria, rastreabilidade, delta e as PNGs de prova) estão em `output/historico-v5/`, movidos com `git mv`.
+## Correções obrigatórias
 
-## 2. Alterações da V5.1 (script `tools/apply_v5_1.py`)
-
-| Ref. | Local | Alteração | Requisito / justificativa |
+| Correção | Antes | Depois | Teste |
 |---|---|---|---|
-| V51-01 | Front matter | versão 5.1 | Controle de versão |
-| V51-02 | Linha de versão | Versão 5.1 e histórico de versões | Rastreabilidade entre V5.0 e V5.1 |
-| V51-03 | §9, K15 | "proposta sujeita à deliberação da Direção" | K15 anual mantido como proposta |
-| V51-04 | Anexo I4 | Habilitação como pré-requisito de implantação | Porta 3, não porta 1 |
-| V51-05 | §12.4 (novo) | Portas separadas: revisão documental, aprovação, prontidão operacional | Separação de gates |
-| V51-06 | Anexo O (novo) | Unidades de aprendizagem propostas (3 a 5 por componente, 48 no total) e mapa dos 183 itens com N1, N2, N3 | Rastreabilidade item a item sem plano de aula por item |
+| **K01** (bloqueante) | "soma de pontos ÷ avaliações (0–4)", incoerente com a escala | Média ponderada dos níveis: Σ(peso × nível) ÷ Σ(peso); exemplo 4/3/2/4/3/1 com pesos 30/20/20/15/10/5 = **3,15**. Em §9 e no dicionário G2 | 10.000 vetores de níveis 0–4 ficam em [0,4]; a soma antiga daria 17 no exemplo |
+| **K15** (interpretação; ver pendências) | Anual, mas misturava briefs semestrais no indicador; sem regra para ausência de visitas | Anual; n/N = visitas com roteiro e relatório ÷ visitas executadas × 100; sem visitas: não aplicável, nunca 0%; briefs aprovados contados à parte | 3 de 4 = 75%; sem visita devolve não aplicável |
+| **K16** (mensurabilidade) | "Matrículas/inscrições válidas por ano": contagem sem base | Taxa de ocupação = matrículas válidas ÷ vagas ofertadas × 100, com contexto | 40 de 60 = 66,7%; sem vagas devolve não aplicável |
+| **Data do rodapé** | 19/11/2026 | 20/11/2026 (data da versão 5.1) | rodapé do DOCX contém 20/11/2026 e não contém 19/11/2026 |
 
-**Anexo B2:** a legenda que separava o título da tabela foi corrigida por `keep_with_next` no construtor do DOCX (intro + tabela mantidos juntos).
+## Correções adicionais (achados da auditoria)
 
-## 3. Conteúdos sem alteração
-Carga horária oficial, lista de componentes, objetos do Anexo D, Anexo N e demais seções permanecem como na V5.0.
+| Item | Mudança |
+|---|---|
+| D01 U4 superdimensionada | Dividida em U4 (financeiro, pessoas e endomarketing: itens 17–20) e U5 (qualidade e melhoria contínua: itens 21–30), com atividade e evidência para cada uma |
+| Objetivos e perfil oficiais ausentes | Novo §2.2 com objetivo geral, objetivos específicos, perfil profissional e certificações intermediárias (PPC II–IV) |
+| Acesso às referências | "acesso em 19/11/2026" → "consulta de 19/11/2026; reconfirmação pendente em 5 links" |
+| Rótulo de transcrição | Dois itens de habilidade passam a "paráfrase de habilidade do PPC" |
 
-## 4. Decisões registradas
-- **K15 anual:** proposta, sujeita à deliberação da Direção. Motivo: ciclo de visitas anual (§14.6) e regra de pequeno N (G5).
-- **Unidades de aprendizagem:** proposta do proponente. Qualquer atribuição de item a outra unidade deve ser validada pelo docente habilitado após o aceite.
+## Ajustes de layout
+- Capa: histórico de versões movido para o Anexo O; a linha de versão ficou curta.
+- Tabelas de unidades e do mapa de itens em 8,5 pt; coluna de marcações mais larga, sem quebra de "PENDENTE_DE_VALIDAÇÃO".
+- Versão nos cabeçalhos, rodapés e ficha de controle: 5.1.
 
-## 5. Reprodução
-`tools/ppc_data.py`, `tools/ppc_units.py`, `tools/apply_v5_1.py`, `tools/make_audit.py`, `tools/build_docx.py`, `tools/pagemap.py`, `tools/qa_source.py`. Comandos em QA_REPORT.md.
+## Não alterado
+Cargas horárias oficiais, lista de componentes, texto oficial transcrito, §12.4 (portas separadas), Anexos N e O (exceto unidades alteradas), 28 requisitos do brainstorming e sua rastreabilidade.
+
+## Pendências (fora do escopo congelado)
+- Reconfirmar as 5 referências externas não confirmadas (3 UNESCO, 2 CNCT).
+- Ajustes leves de sobreposição em D05 U2, D06 U2 e D09 U3 (N2 levemente superestimado): sinalizados, não corrigidos.
+- Confirmação institucional de habilitação para Design Gráfico e Legislação Aplicada; validação docente após o aceite.
